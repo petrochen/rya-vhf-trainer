@@ -1,0 +1,40 @@
+22
+
+Transmitter power
+
+The maximum power that can be legitimately transmitted by a marine VHF radio is 25 watts.
+That doesn't sound very much, campared with something like a domestic light bulb, butin the
+fight conditions and from a tall enough aerial, it may be good for a range of sixty miles or more,
+
+For short range communications, there is na need-to use so much power; perfectly satisfactory
+results can be achieved with much less. Of course, this recluces the drain on the battery, but the
+really big advantage of using less power is that by reducing the range over which ane vessels
+transmissions can be heard, it allows others, a few miles away, to use the same frequency,
+
+‘\
+
+‘One saiah operator using high power can cise other vessels! commumcations over a wide area, Lising tow oower
+svows other vesses a fan mies away to vse fhe sare chanel
+
+For this reason, all marine VHF radios must be-able to transmit ona reduced power setting of 7
+watt or less. With a good aerial, at least a couple-of metres above the waterline, even this may
+achieve good communication over distances of 5-10 miles.
+
+Portable VHF sets could, in law, transmit at up to 25 waits, (but in practice they never do. In
+most cases, thelr maximum output is between 3 watts and 6 watts, but they are still required to
+have a 1 watt low power facility.
+
+Channel selector
+
+In order for one radio to receive the signals transmitted fram another, the transmitter and
+receiver have to be tuned to the same frequency as each other. VHF frequencies, however,
+involve lang and unmemorabla sequences of numbers, such as 156.375 Mhz. To simplify
+things, some frequencies have been given international channel numbers (see page 25).
+156.375MHz, for instance, is known as Channel 67.
+
+Being able to change channel quickly and accurately is $0 important that on most radios,
+the channel selector is the most prominent control, It's usually in the farm of a retary knob oF
+up and down keys, and matched by praminent numbers on the display, but in seme cases
+— generally the more up-market models — It may be a numbered keyboard,
+
+VHF Handbook

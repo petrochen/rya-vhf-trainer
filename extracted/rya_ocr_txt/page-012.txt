@@ -1,0 +1,37 @@
+Antenna gain
+
+No practical antenna transmits equally in all directions. In simple terms, you can say that
+
+“the power comes out of the sides of the antenna, not out of the ends". So a long antenna,
+mounted vertically, will concentrate more of its power towards the horizan than a shorter ane,
+This, of course, is very usetul if yau can guarantee that your antenna will be mounted vertically.
+Ifyou can't, there is something 1o be said for using a shorter antenna, which is tess. ettective at
+focusing its power towards the horizon, when it is vertical, but is more tolerant of being tilted,
+
+To help choose an antenna, manufacturers usually specify the “gain” of their different modeis,
+compared with a theoretical “isotropic” antenna (which transmits equally in all directions). The
+gain is usually specified in decibels, in which every 3dB represents a doubling in maximum
+ssgnal intensity: -
+
+A $dBi antenna focuses
+twice.as much pawer
+towards the horizon as
+an isotropic antenna,
+
+but is reasonably tolerant
+of heel and pitch: this is
+the type usually:
+recommended for
+
+sailing yachts.
+
+A 6dBi antenna focuses twice as much
+power towards the horizon as a 3dB
+antenna, or four times as much as.an
+isotropic antenna, but its efficiency drops
+off noticeably if it is tited, so it is Usually
+recommended for moterboats — but only
+ifit can be mounted upright.
+
+12| VHF Handbook
+

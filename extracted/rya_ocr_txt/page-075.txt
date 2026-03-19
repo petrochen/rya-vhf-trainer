@@ -1,0 +1,58 @@
+a
+
+Urgency and Sately canirnunications via DSC equipment
+The meaning of urgency and safety communications
+Procedures for DSC urgency and safety calls
+Ungency communications
+Safety communications
+
+C3. Protection of distress frequencies
+
+31
+
+aa
+
+3.6
+
+Avoiding harmful interference
+Avoidance of the transmission af faise alerts
+Status of Channel 70
+Transmissions during distress traffic
+Prevention of unauthorised transmissians
+Tes! protocels and procedures
+Testing DSC equipment
+Radiotelephone test procedures
+
+Avoidance of transmissions in VHF guard bands
+
+Procedures to follow wher a faise distress alert is transmitted
+
+C4. Maritime Safety Information (MSI)
+
+4.1
+
+The NAVTEX system
+purpase and capabilities, including distress and safety functions
+
+C4. Alerting and Locating Signals
+
+5
+
+5.2
+
+Purpose and definition
+
+Emergency Position Indicating Radio Beacons (EFIRBSs)
+Registration and cading
+Operation, including automatic and manual activation
+GOSPAS/SARSAT 406 MHz EPIRB
+Inmarsat-E 1.6 GHz EPIRB
+VHF-DSC EPIRB
+121.5 MHz homing function
+Mounting considerations
+Routine maintenance
+Testing
+Checking battery expiry date
+Checking the floal-free mechanism
+
+VHF Handbook | 75

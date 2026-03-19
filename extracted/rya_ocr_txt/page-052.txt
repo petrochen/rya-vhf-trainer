@@ -1,0 +1,44 @@
+MEESH Voice procedure 3: Urgency & Safety calls
+
+Ceo
+
+Urgency calls Syllabus items 0102 and
+
+Itis easy to think of situations in which a Mayday call would not be justified, but whieh still
+warrant some Kind of special treatment. The clifting motor boat example on page 43 is just
+one example that justifies the use of an Urgency Gall, using the proword “Panpan” (from the
+French “panne”, meaning “breakdown'") to claim priority over all other calls except Distress
+COMMUncalions.
+
+The official definition of an urgency situation is “when the calling station has a very urgent message
+to tranemit concerning the safety of a ship, aircraft or other vehicle, or the safety of a person."
+
+Unlike a Mayday or Mayday Relay, a Panpan call is not a broadeast: it should be addressed to
+someone — even though, in many cases, that “someone” will be “All stations”,
+
+—
+
+call should always be made on
+
+n urgency
+
+Channel 16, using High Power. 1 \ ay statins.
+
+oll stateons
+
+Immediately following the urgency call, without waiting for a reply, send the urgency message,
+There is no rigid format for an urgency message, bul in most cases, the “PDANIO" section of a
+distress message is a good template:
+
+Pp Position Two six zero degrees from Longshins light, nine miles
+B Distress Adrift in the traffic separation scheme
+
+4 Assistance Request a tow
+
+N Number Three persons on board
+
+| Information A twelve metre motor cruiser
+
+0 Over
+
+52. VHF Handbook

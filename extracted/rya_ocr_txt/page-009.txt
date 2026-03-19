@@ -1,0 +1,45 @@
+Characteristics of different frequencies | Syllabus itam At.9 |
+
+The electromagnetic spectrum covers a huge range of frequencies and wavelengths, from the
+audible “mains hum" genérated in some mains-powered electrical equipment, to X-rays.and
+gamma rays. Visible light is part of the spectrum, towards the upper end of the frequency range
+(from 384,000 GHz to 769,000 GHz).
+
+Radio waves have much Jower frequencies, from about 3kHz to 30GHz, and their wavelengths
+range trom several kilometres ta a few centimetres, Different frequencies have different
+charactenstics, which make them suitable for different purposes, so they are often subdivided
+into different “bands”, with descriptive names such as VLF (Very Low Frequency) ancl SHF
+
+(Super High Frecuency).
+
+frequencies Ble more suscentible to the elfects known 23 ciffraction
+
+med refracteant, Wi ven the of Akar LAr
+
+boundary latyweean oitarent (7 ATES aur EK
+
+This means that tow frequencies (VLF and LF) are good for jong range broadeasting and radio
+navigation systems, because they are easily difracted, so they can curve around obstructions
+or-over the harizar.
+
+Medium fraquencies (MF} are slightly less
+goad at following the Earth's curvature,
+
+so they are used for some meéediurn-range
+navigational aics, such as aeronautical radia
+beacans, for regional broadcasting, and for
+medium range communications,
+
+High frequencies (HF) don't bend over the
+horizon to any significant extent. The earth's
+atmosphere, however, contains a number
+of electrically-charged layers. known as the
+ionosphere, These layers are capable of
+retracting HF radia waves to such an extent
+that they bounce back te ground level. By
+carefully choosing the right frequency te
+make best use of the ionosphere, HF can
+be used for world-wide broadcasting and
+communication.
+
+VHF Handbook 5

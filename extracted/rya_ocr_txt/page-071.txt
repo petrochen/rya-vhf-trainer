@@ -1,0 +1,41 @@
+Class Aor B controllers offer the option of addressing urgéacy or safely calls to individual
+ships or Coast radio stations. This feature is deliberately not made available on Class D
+controllers, ta kKeap them as easy to use as possible.
+
+id the manual!
+
+Nin two MAKES Or Mme Ire Identical se
+
+Receiving a OSC urgency or safety call
+
+“Acknowledging” an urgency or safety call that was-sent to all ships will mute the alarm. and
+switch your receiver to the specified working channel: it will not send an acknowledgement to
+the calling vessel,
+
+DSC Distress Relay
+
+One of the prablems of DSC is that it ls so highly automated that sending distress messages
+has become almost too easy: Il is now possible to send a distress alert without meaning to.
+
+To prevent these accidental cistress alerts being multiplied by well-meaning radia operators
+relaying them, Class D controllers are incapable of relaying DSO distress alerts, and operators
+of Class 4 or B controliers are not allowed to use their DSC Mayday Relay facility except under
+exceptional circumstances.
+
+T inal has
+
+and inferrn tive t
+
+This does not, however, prevent you from relaying a Mayday message that was received by
+voice. f you have not heard an acknowledgement to a voice Mayday within’a minute or so,
+and there. is no radio traffic suggesting that she is in contact with potential rescuers, you should
+
+send a. DSC Urgency alert, immediately followed by a Mayday Relay massage using the voire
+procedure on page 51,
+
+Mayday relay may also be used if you see another vessel in distress and do not believe that thay
+aré capable of sanding a Mayday, and you believe further assistarice is required,
+
+Remember: the call rust be a Mayday Retay call as itis not your vessel thal is in distress.
+
+VHF Handbook 71

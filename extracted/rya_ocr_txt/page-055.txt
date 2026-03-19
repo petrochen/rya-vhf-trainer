@@ -1,0 +1,51 @@
+GMDSS bien
+
+Background and principles
+
+Throughout most of the last century, the radio equipment ships were required to cary was
+based on their size and the number of passengers they canied. So a cross-channel ferry —
+quite a large vessel, carrying lots of passengers — was required to carry equipment capable of
+world-wide communications, and a {ully-qualified radio officar to operate it, despite the fact that
+it was never much more than ten miles from port.
+
+A small tramp steamer, on the other hand, could set off across the Pacific with an MF radia
+which would struggle to reach two hundred miles. If it hac ta send a distress message, it was
+largely a matter of luck whether there would be anyone within range or not.
+
+In 1979, the Intemational Maritime Organisation decided that modern technology could de
+better, and that a Global Maritime Distress and Safety System (GMDSS) was called for,
+New regulations came inte force in 1992, phasing-in the system over a penod of seven years,
+
+The main idea was that all ships should carry at jeast two independent means of transmitting
+distress alerts directly to search and rescue authorities ashore. To this were added.a number af
+supplementary requirements, including a means of communicating with other vessels nearby,
+and of receiving navigational and weather warnings,
+
+To decide what equipment is required for any
+particular vessel, the world is divided into four
+areas,
+
+Al areas are within VHF coverage of a suitably-
+equipped Search and Rescue centre
+
+A2 areas are within MF coverage of a sultably-
+equipped Search and Aescue centre
+
+AS areas are within Inmarsat Satellite
+communication coverage
+
+A4 areas aré beyond the caverage of Inmarsat
+satellite communication — ie, within abaut
+1200 miles of the north or south pole,
+
+4 ager version of fhe charts shown on pages o41-85
+
+Sub-systems involved in GMD5S5S
+
+The Global Maritime Distress and Safety System is more than just a communications system:
+it’s a legal framework of equipment requirements and operating procedures, invelving several
+diferent communication systems, Some of these, such as HF, MF, and VHF radio, existert
+before GMDSS was thought of others were developed in the twenty years that elapsed
+between the decision to implernant GMDSS, and the 1999 deadline for its full aperation,
+
+VHF Handbook 55

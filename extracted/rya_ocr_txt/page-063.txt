@@ -1,0 +1,52 @@
+Inthe WK, MM Af BSL
+a@ beox:or
+
+9 boy’ tesking
+
+saflon fom or renewal ft
+
+Ship Radi
+
+The first three digits-of a ship's MMSI are known as the Mantime Identification Digits (MID), and
+indicate the country which issued it,
+
+is have MMBIs whieh beain with (ha numbers 232) 233:
+
+04
+
+Coast radio stations also have nine-digit MMSIs, but to distinguish them from ships and
+boats, their MMSis always begin with two zeros. This is followed by the three-digit MID, then by
+four mare cigits
+
+eg Milford Haven Coastquard 002320017
+
+DSC canalso hancie group calls, to a group of vessels which share some common interest,
+such as all vessels betonging ta one company, or all the yachts taking part in a race. The Group
+MMS is allocated by Ofcom on request, and consists cf a singlé zero, followed by the MID,
+then by five mare cligits
+
+A DSC controller must have its MMSI stored in its memory before it can be used, Most Class
+D controllers allow individual owners to do this thernselves,.. but only once. If you make a
+mistake, or if you move the controller onto a boat with a different MMSI, the controller will have
+to be returned to its supplier to have its memory erased,
+
+Group MMSis, however, are different: these can be saved and deleted as often as you like,
+
+Types of call items 82.2 and B2.4
+
+The DSO code allows calls to be classified into six different types:
+Distress
+All ships
+Inclividual —.a call to.a specific vessel or coast station
+Géoqaoe area — to all stations within a cesigneted area: (not on cass DO) oortralers)
+Group call — to all stations sharing a “common interest” and with the sare Group MMSI
+
+Aufomaic or sarm-anuiometio = 2 Cal throvgn-a coast rack station to a pudle folephone
+
+System) (nat on aaas 0 ecovirvlers)
+These tell the DSC controller at the reeaiving end what wall be in the rest of the DSC message,
+
+and how it should react: it may sound an audible alarm for an incaming distress message, for
+instance, thal is quite different from the alarm sound associated with a routine ship-to-ship call,
+
+VHF Handbook 63

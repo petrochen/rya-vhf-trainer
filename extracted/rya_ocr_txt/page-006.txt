@@ -1,0 +1,45 @@
+SH introduction
+
+Ask any group of students attending an SRC course why they want to learn to use a
+marine VHF radio, and the overwhelming majority are likely to reply “safety”. Probe a
+little deeper, and most of them will probably say that they want it mainly to be able to
+call for help.
+
+Types of message
+
+It’s true that distress messages are an important function of marine WHF, but they are certainly
+not its sole purpose: VHF can also be used to prevent distress situations fram developing. by
+allowing vessels ta warn each other of potential hazards, or by raceiving safety information
+such as navigational warnings and weather forecasts.
+
+The majority of radio messages, however, are far more mundane. They are concerned with
+everyday aspects-of the vessel's operation: making plans, or finding berths, food, or fuel,
+
+There is also a facility, in some countries but not in the UK, tor specially equipped radio stations
+on the coast to connect radio calls to the public telephone system ashore, Unlike other calls
+made by VHF radio, these “link calls” have to be paid for They were never cheap, so most of
+the customers who might once have used this service now use mobile telephones or satellite
+communications instead,
+
+VHF may also ba used for on-board cammunications, such as between the bridge and fa'e'stle
+of a ship, or between the cockpit of a yacht and sameone working Up the mast.
+
+So the lypes of message that can be sent by marine VHF can be divided into four main groups:
+Distress, Urgency, and Safety messages
+
+Rouline messages - between vessels
+- between vessels and harbour authorities ("Port operations’)
+- between vessels and traffic monitaring or control authorities
+Public Corespondencs, or “Link calls"
+On-board communicatians
+
+Types of user Syllabus lem Ale
+The people who use marine VHF can also be divided into several distinct groups.
+
+The largest group are those who.use marine VHF on board a vessel of some sort, whether it is
+ayacht, fishing boat, ship or hovercraft, So far as the authonties are concerned, these are all
+
+classed as “Ship Radio Stations", régardiess. of whether the “ship” in question is @ cruise liner
+or a cance.
+
+6 VHF Handbook

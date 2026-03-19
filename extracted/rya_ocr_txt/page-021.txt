@@ -1,0 +1,57 @@
+Operating a marine VHF radio (a
+
+Every make-and model of marine VHF radio is differant, Whilst there may be a certain family
+resemblance between different models from one manutacturer, or between competing products
+aimed al the same group of users, there is certainly no such thing as a “standard” control
+panel, There are, however, a number of standard contrals:-
+
+Power on
+
+Volume
+
+Transmitter power
+
+Channel selector
+
+PTT switch
+
+Qual wateh’TA watch/Scan
+Dimmer
+
+Power on
+
+The power on/off switch connects the radio to its power supply, so until it has been switched
+on, the racio seless.
+
+In fixed mount radios, the power on/olf switch is offen a press-butten, mounted on the front
+panel, In hand-held portables, itis often combined with the volume control,
+
+Volume
+
+The function of the volume central is exactly the same as that of its counterpart on a domestic
+radio of telavision: it makes the sound from the loudspeaker either louder or softer.
+
+Some radios, particularly those with telephone-style handsets, have a “mute” facility, which
+switches the loudspeaker off altogether when the handset is removed frorn its craclle.
+
+Squelch
+
+The squelch control regulates the sensitivity of the receiver, so it affects the radio's ability to
+receive incoming signals. It does not, however, affect the volume of the audio signal heard
+through the loudspeaker or handset
+
+Turning the squelch “up" reduces the sensitivity of the receiver and vice versa, When the
+
+alch is turned right down, the receiver will detect a lot of very weak signals, including
+
+state” and atmospheric noise, which will produce a sharp crackling, or frying sound through
+the loudspeaker. This is a very uselul indicator of whether the valume control is set to about the
+riaht level, but no-one would put up with it as background noise for very long.
+
+As the squelch controls gradually turned up, there will come a point at which the noise
+sucidenly steps, This is the correct setting: the receiver has been desensitised sufficiently to
+eliminate unwanted signals, but should still be abla to receive wanted signals,
+
+Turning the squelch up further will desensitise the recetyer still more, and runs the risk of losing
+weal signals.
+

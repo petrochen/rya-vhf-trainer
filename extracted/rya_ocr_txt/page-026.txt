@@ -1,0 +1,44 @@
+26
+
+Simplex and duplex channels Syllabus tem AVS
+
+If two people want to talk to each other, it seams to make sense for them both to use the same
+frequency. Thera is, however, one slight snag with this idea...
+
+When you are using one frequency, you can either receive, or transmit. You can't da both
+at Once. Evan if you had two separate radios and aenais, you still couldn't receive the other
+boat's transmissions at the same time as you were transmitting yourself, because your awn
+transmissions would drawn out those from the other vessel.
+
+So using a single-frequency channel demands a degree of discipline and standard procedures
+to decide whe is to talk and who ts to listen, and how they are to switch roles when necessary
+to achieve two-way camimunication, The principle, however, is simple, so this method of
+operating on a single frequency is known as simplex, and the single-frequency channels are
+known as simplex channels.
+
+Simplex operation is all very well between two operators wha Know whal [hey are doing, and
+understand the limitations of a simplex channel, It is far less satisfactory if, for instance, you are
+using VHF to make a link call to your office, er to wish your mother in law a happy birthday.
+
+IF you are talking on the telephone to sorneone who remains totally sitent, you very quickly
+begin to wonder whether there is something wrong with the phone! That's because normal
+conversation is a constant, two way process, even itone party does little more than grunt,
+
+Normal, two-way conversations can be achieved by radio, by using two frequencies, One
+station transmits on one frequency, while the other transmits on the other, Of course, they must
+both have their réceivers set up to receive the frequency that the other is transmitting.
+
+This two-way, two-frequency operation is known as duplex, so the two-frequency channels are
+knewn as duplex channels. They are used, in the main, for public corresponcience (link calls),
+for which two-way traffic is essential, and for some port operations channels.
+
+You can compare the flow of radio traffic in simplex and duplex channels to the flow of traffic
+along a road:-
+
+A simplex channel is like a single track
+road: traffic can only flow in one direction
+ala lime, and two way traffic can only be
+achieved by taking it in turns.
+
+VHF Handbook
+

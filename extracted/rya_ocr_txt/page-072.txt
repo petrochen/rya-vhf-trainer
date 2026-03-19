@@ -1,0 +1,76 @@
+ME Appendix 1: Examination Syllabus for the
+CEPT Short Range Certificate (SRC)
+
+72
+
+A. General Knowledge of VHF Racicteleshane communications in the
+Maritime Mobile Service
+
+A‘. The general principles and basic features of the maritime mobile service relevant
+to vessels not subject to a compulsory fit under the SOLAS Convention
+
+14 Types. of communication in the mariticva mobile service
+
+Distress, urgency and safety communications
+Public correspondence
+
+Port operations service
+
+Ship movernent service
+
+Intershig communication
+
+On board communications
+
+1.2 Types of station in the maritima mobile sernice
+
+Ship stations
+
+Coast stations
+
+Pilot stations, port stations etc.
+Aircraft stations
+
+Rescue Coordination Gentre (ROC)
+
+1.3 Elementary knowledge of radio frequencies and channels appropriate to the WHF
+mantinve mobile band
+
+The concept of frequency
+
+Propagation on VHF frequencies.
+
+Range for voice communications
+
+Range for DSC transmissions
+
+The usage of WHF frequencies in the maritime mobile service
+The concept of radio channel: simplex, semi-duplex and duplex
+Channel plan for VIF, including allocations for tha GMDSS
+Distress and safety channels
+
+National channels for small cratt safety
+
+Intership communications
+
+Port operations
+
+Ship movement
+
+Calling channels
+
+Puble correspondence channels
+
+14 Functionality of ship station equipment
+
+VHF Handbook
+
+Sources of anergy of ship stations
+
+Batteries
+
+Differant kinds of batteries and their characteristics
+Charging
+
+Maintenance of batteries
+

@@ -1,0 +1,54 @@
+MEE Appendix 2: Standard Marine
+
+78
+
+Navigational Vocabulary
+
+1 Procedure/message markers
+
+When it is necessary to indicate that phrases in this vocabulary are to be used, the follawing
+messages may be sant:
+
+“Please use the Standard Marine Navigational Vocabulary,”
+“Lwill use the Standard Marine Navigational Vocabulary.”
+
+if necessary, external communication messages may be precaded by the following
+massage markers:
+QUESTION indicates that the following message is of interrogative character
+ANSWER indicates that the following message is the reply to a previous
+Question
+REQUEST indicates that the contents of the fallowing message are asking for
+action frorm others with respect to the ship
+INFORMATION indicates that the following message is restricted to observed facts
+INTENTION indicates that the following message infarms others about
+immediate navigational actions intended to be taken
+
+WARNING inchoates that the following message informs other traffic
+participants about dangers
+
+ADVICE indicates that the following message implies the intention of the
+sender to influence the recipiant(s} by a recommendation
+
+INSTRUCTION indicates that the following message implies the intention of the
+sender to influence the recipent(s) by a requiation.
+
+2 Standard verbs
+
+Where possible, sentences should be introduced by one of the following verb forms:
+
+IMPERATIVE: Always to INDICATIVE NEGATIVE INTERROGATIVE
+be used when mandatory
+orders.are being given
+You must | require {do not require Do | require?
+Do not lam / You are fam not / You are not Amt?! Are you?
+Must 1? | have Ido not have Dio you have?
+|ean | cannot Can |?
+| wish to | do nat wish Can you?
+twill | will not Do you wish to?
+You may You need not May |?
+Advise Achise not is there?
+Thare is There ig not Where is/are?
+When is/are?
+
+VHF Handbook
+

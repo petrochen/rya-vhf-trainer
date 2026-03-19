@@ -1,0 +1,50 @@
+9 Bearings
+
+The bearing of the mark or vessel concerned, is the bearing in the 360 degree notation from
+north (true perth unless otherwise statec), except in the case of relative bearings. Bearings may
+be either FROM the mark or FROM the vessel,
+
+Examples: “The pilot boat is bearing 215° from you.”
+
+“Your bearing 's 127° fram ihe signal station.”
+Note: Vessels reporting their position should always quote their beanng FROM
+the mark, as-described in paragraph 7.
+
+Relahve bearings
+Relative bearings can be expressed in degrees relative to the vessel's head or bow. More
+frequently this is In relation ta the part or starboard bow,
+
+Example: “The buoy is 030" on your port bow,"
+Relate DAF bearings are more commonly expressed in the 360 degree notation,
+
+10 Distances
+
+Preferably to be expressed in nautical miles or cables (tenths of a mila) otherwise in kilometres
+or metres, the unit always to be stated
+
+11 Speed
+
+To be expressed in knots!
+
+(a) without further notation meaning speed through the water; or
+(b) “ground speed” meaning speed over the ground.
+
+12 Numbers
+
+Numbers are to be spoken: “Onetive-zera” tor 150.
+“Two point five" for 2.5.
+
+13 Geographical names
+
+Place names used should be those on the chart or Sailing Directions in use, Should these not
+be understood, latitude and longitude should be given,
+
+14 Time
+
+Times shouid be expressed in the 24 hour notation indicating whether UTC, zone time or local
+shore time is being used.
+
+Note: In cases not covered by the above phraseclagy normal radiotelephone
+practice will prevail.
+
+VHF Handbook 51

@@ -1,0 +1,55 @@
+nal
+
+10
+
+Very High Frequency (VHF) and Ultra High
+Frequency (WHF) don't bend over hills,
+around headlands, or aver the honzon to
+any great extent, nar are they bounced
+back by the ionosphere, so they are used
+for local broadcasting, television, and
+communications,
+
+ay
+
+The maximum range at which you can expect 4 WHF signal to be received depends on the
+height of the transmitting and receiving antennas.
+
+antennas WHE horizen (in miles} is appre yarnately three HMes The
+
+Two antennas will be in within range of each other when their horizons averlap:
+So a moter cruiser, with its antenna at 4m, would have a tadio horizon of 6 miles,
+while & sailing boat, with its antenna at 16m, would have a radio horizon of 12 mites:
+They should be able ta contact each other at a range of about 6412=18 miles.
+
+Dinghy Motor boat Sailing yacht Ship Coast station
+
+Antenna height im 4m 16m 36m 100m
+
+WHF horizon aM 6M 12M 18M 30M
+Dinghy 6M OM 15M 21M aM
+
+Motor toat aM 12M 18M 24M 36M
+
+Sailing yacht 15M 18M 24M 30M 42M
+
+Ship 21M 24M 30M 36M 4gM
+
+Coast station 33M 36M 42M 48M
+
+Modulation
+
+A constant, unchanging seres of radio waves is of little practical use: it is the radio equivalent
+of a continuous single-note whistle, ofa steady white light. In order to carry a message, It has
+to be varied in some way, This is known as “modulation”, and in its simplest form consists of
+nothing more than switching the transmission on and off.
+
+Simple on-off keying can be used to send messages by morse code or something similar, fut
+more sophisticated forms of modulation are required ta tranernit sounds such as speech,
+
+The first stage in the process is to convert sound — the physical vibration of the alr — into
+electricity. This is the jab of a microphone,
+
+VHF Handbook
+
+ow

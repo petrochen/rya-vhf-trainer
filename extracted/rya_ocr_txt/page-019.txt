@@ -1,0 +1,46 @@
+An alternative — compulsory for SOLAS vessels — is that the radio should conform to the type
+approval requirements af the Marine Equipment Directive (MED) and be marked with the “ship's
+wheel" symbol,
+
+Strictly speaking, it is up to the holder of the ship radio licence to make
+sure that the radia equipment conforms to all these.requirements, In
+practice, it is almost impossible for anyone ta do so, without a high level
+of technical knowledge and access to sophisticated lest facilities. If you
+have access to the documentation supplied with the radio when it was
+first bought, look for a copy of the declaration of conformity. Otherwise,
+look for the GE mark or ship's wheel mark.
+
+Be caretul of radios imported from outside Europe, bought by mail order (particularly from
+websites) or bought al boat jumbles. Many radios, especially those built for the American
+market, do net conform ta the European standards. They are not necessarily “sub standard”
+but it is flagal to install one under the terms of a UK Ship Radio Licence.
+
+Radio log Syllabus them 2.2
+
+The Radio Regulations require all vessels with radio telephone equipment to keep a record of
+distress, urgency, and safety messages received or sent, along with other “important events"
+conceming the radio, and a daily note of the ship's position. Under WK law, pleasure craft, and
+small commercial craft operating under any of the MGA Godes of Practice, are exampt from
+this requirement, itis stil, however, @ood practice to make a note of such events:in the boat's
+deck log when required,
+
+Secrecy Svilabus item BP:
+
+Anything you say over a marine VHF radio can be picked up by anyone with another ordinary
+marine radio within a radius of many miles. In some respects, this is a greal strength: ane
+distress message, for instance, may be he heard by hundreds of other vessels, without having
+to be repeated to each one in turn. Il does, however, mean that radio operators are duty bound
+torespect the confidences of their counterparts.
+
+The need for secrecy is enshaned in the international Racio Reguiations, in British law, and in
+the declaration of secracy that is included in the application fora radio operator's certificate.
+
+lis @ criminal offence to:-
+
+intercept radiocammurnications nat intended for the general use-of the public without
+authorization
+
+Divulge the existence or contents of any information obtained by the interception of racha
+communications
+
+VHF Handbook 19

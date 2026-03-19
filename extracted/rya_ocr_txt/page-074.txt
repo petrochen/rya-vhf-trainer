@@ -1,0 +1,41 @@
+ene) Call teleconimand and. trafic information
+Distress alerts
+Other calls
+Working channel information
+
+2.6 VHF BSC facilities and usage
+The Channel 70 instant alert selector
+DSC data entry and display
+Updating vessel position
+Entering preset message
+Entering traffic: information
+Reviewing received messages
+DSC watchkeeping functions and controls
+
+G, Operational procedures of the GMDSS and detaded practical operation of
+GMDSS subsystems and equipment.
+
+C1, Search and Rescue (SAR) Procedures in the GMDSS
+tt Sea Areas and access to GMDSS facilities
+1.2 The role of ROGs
+1.3 ‘Organisation of Search and Rescue
+C2, Distress, urgency and safety communication procedures in the GMDSS
+
+21 Distress communications via VHF OSC equipment
+DSC distress alert
+The definition of a distress alert
+Transmission of a distress alert
+Transmission of a shore-to-ship distress alert relay
+Transmission of a distrass alert by a station not itselt in distress
+Receipt and acknowledgement of VHF DSC distress alert
+Acknowledgement procedure
+Receipt and acknowledgement by a coast station
+Receipt and acknowledgement by a ship station
+Handling of distress alerts.
+Preparations for handling of distress traffic
+Distress traffic terminciogy
+On-scene communications
+SAR operation
+
+74 VHF Handbook
+

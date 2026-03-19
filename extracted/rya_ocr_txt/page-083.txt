@@ -1,0 +1,41 @@
+Witt Port operations |
+Hz}
+
+frequencies (
+
+Channel | Ship Coast Inter Single Two Public |
+| Designators stations stations ship frequency frequency Coresp.
+145 | 456.750 670 | fsbo boar coms |
+
+Fa 156.775 |
+16 156.800 156.800 CISTAESS, SAFETY AND CALLING
+76 156.825 Fa
+7 156,850 156.850 ¥ ¥ Also on-board coms
+77 156.875 Pa
+18 156.900 161.500 Fg Fd Fg
+78 156.925 161.525 “ v
+| 49 158.950 161.550 ¥ 2
+79 156.975 161.575 Pa Fed
+20 157.000 181.600 if Fa
+BO 157.025 167.825 Algo Marinas eft: LIK oly é af
+4) 157.050 161.650 Fa Ca
+8 157.075 181.675 ¥ ¥
+| 22 157.100 181,700 Fa ¢
+82 187,125 161.725 ¥ ¥ ¥
+23 157.150 161,780 HMCG SARIMSI
+Bd 187.175 161.775 7 Fd Fa
+24 157.200 161.800 Fa v
+Ba 157,225 161.825 vw HMOG SARIMSI
+25 157.250 181.850 Fg Fa
+BE 157.275 161.075 Fa Fa ¥
+28 157.300 161.900 ¢
+86 157.325 161.925 Pa HMIOG SARIMS|
+27 157,350 161.950 Fa ¥
+a7 157.476 é
+2H 157.400 162.000 i? y |
+8H 167.425 3
+AIS 1 161.976 161.975
+
+AIG 2 162.025 16225
+
+VHF Handbook | 83

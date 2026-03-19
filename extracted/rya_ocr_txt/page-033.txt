@@ -1,0 +1,40 @@
+Calling a coast station
+
+The big difference between a coast radio station and a ship radia station is that the licence tee
+for a coast station costs more, and is based ona pnce per channel. So coast stations generally
+have as few channels as possible, and Channel 16 may not be among them
+
+The available channels (and the preferred working
+
+channel) for each station are published in various
+
+reference boaks, inclucling the Admiralty List of Radio
+
+Signals, Admiralty Maritime Gormmunications, and i @
+ee
+
+yachtsman’s almanacs.
+
+The procedure for calling a Coast radio station, then,
+is vary much the same.as for calling ancther yessel,
+except that you should call directly on one of the
+station's specified working channels, rather than on
+Ghannel 16.
+
+Suppose, for instance, that we are approaching
+Dover in the motor cruiser Gafaareal!, and would
+like permission to enter the harbour, Again, the
+
+first stage is io assess the situation
+
+The almanac shows that Dover Port Control nti
+operates an channels 74 and 12, wilh 74 as the
+
+prefered working channel. [tis Chaar that there is not
+
+mueh point calling when we are more than a few minutes away from the entrance, so
+low power should be plenty.
+
+VHF Handbook
+
+ee

@@ -1,0 +1,42 @@
+EPIRBs Syllabus item
+
+Emergency Position Indicating Radio Beacons (EPIRBs) are
+fundamental to the GMDSS, For vessels which are legally required to
+cantorm lo GMDSS, they provicie one of the two “Independent means”
+of communicating with SAR authorities. For “voluntary fit" vessels,
+including pleasure craft and small commercial craft operating under
+MCGA Codes of Practica, they are a very cost-effective means of
+providing distress alerting with world-wide coverage.
+
+Some EPIABs are capable of indicating their position, but most.ara net. Their main purpose is
+to transmit a distress alert, coded to show the identity of the vessel concerned, which can be
+detected by saiellitas of the Cospas-Sarsal system. The satellites use doppler positioning (see
+page 58) to calculate where the signal is coming from, and then download the details of the
+EPIRG's identity and position to receiving slations ashore,
+
+Direction finding equipment can’t be used on the 406MHz EPIRB signal, so, to allow rescue
+vessels and aircraft to home in on a casualty, all 4O6MHz EPIRBs also transmit a homing signal
+an the lower frequency of 127.5MHz.
+
+For very short range direction finding, they also have a bright flashing light.
+
+The satellites
+
+The Cospas-Sarsat system is an astonishing
+international venture that was set up in i979,
+by the Saviet Union, USA, Ganada, and
+Franee, It uses al least four (usually more)
+satellites in low polar orbits, less than 1000km
+above the Earth's surface. Because they are
+so.low, they have to fly fast to resist the pull of
+Gravity, so each satellite goes round the sath
+about 14 times per day, As the Earth revolves
+inside the satellite orbits, the regull is that
+each satellite passes over a different part of the Earth's sutface each tme it goes round.
+
+Thay are supplemented by three Geosar satellites. These go round the Earth almost 36,000km
+above the equator, where they take precisely 24 hours to complete one orbit. The regult is that
+each satellite “hovers” over a fixad position on the Earth’s surface.
+
+VHF Handbook
+

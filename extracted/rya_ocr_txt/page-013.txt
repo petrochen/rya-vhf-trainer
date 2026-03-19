@@ -1,0 +1,45 @@
+Cam
+
+A.1.50Bi antenna ts less effective at concentrating its power in any particular direction, but,
+by the same token, is not too badly affected by being used at an angle This is wsetul for
+portable radios,
+
+Tha “feeder” cable connecting the antenna to the radia is an important part of the whole
+
+system, The cable used for domestic televisions and radios may look the same as is used for
+marine VHF antennas,
+fram the antenna’s performance.
+
+but its @actrical properties are quite different, and will severely detract
+
+Manne: VHF rachos are almost invariably powered by batteries, whether they ane internal, as in
+most portables, or are the boat's domestic battenas.
+
+All batteries work by using chemical reactions 1p produce a flow of elec
+particles, called electrons, in the circuit that Inks the battery's post
+The fundamental difference between rechargeable and non-rechargeable batteries is that in
+rechargeables, the chemical reactions can be reversed by pushing the electrons back through
+the battery in the oppasite direction
+
+sally charged
+ve and negative terminais,
+
+Alkaline batteries are nat normally rechargeable, bul they are readily available, and store a lot
+of power for their size and weight. Although they are not an economical option for regular, lang-
+term use, they ane a very uselul reserve power supply for some portables that are designed to
+accept ther.
+
+Lithium batterias are-expensive, and not rechargeable, but they produce a lot of power for
+their size and weight, and have a very long shelf life. This makes them ideal for ermergercy
+equipment such as EPIRGs or for portable racias which are
+reserved for emergency use. Like alkaline batteries, they
+produce 1.8 volts per cell when new.
+
+Lead-acid batteries are very heavy and bulky, but they are
+rechargeable, and are produced in large sizes that make therm
+an economical way of storing a lot of power Not surprisingly,
+they are the standard type of battery for engine starting and
+domestic services on boats.
+
+VHF Handt
+

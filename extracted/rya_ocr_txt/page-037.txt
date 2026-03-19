@@ -1,0 +1,44 @@
+Amore intractable problem arises when you hear a call which you think might have been for
+you, but you're not sure. In this case, there is no such easy answer: If yOu aré hol certain that
+the call was intended for you, do not answer it, because by doing sa you might interere with
+the reply from the person it was really meant for. If you ignore it for the time being, the station
+calling will uncoubtedly repeat its call within a few minutes.
+
+Unanswered calls Syllabus em [3.3
+
+4 call that goes unanswered can be frustrating, but it |s illogical to think that it will be answered
+if you repeat it immediately... orlouder... or with more repetitions of the name or callsign.
+
+If a call was ignored, it was probably because it wasn't heard ar because the intended recipient
+was busy doing something else, so it makes sense to allow a distinct interval between calls,
+and to give up if Several repeated efforts fail,
+
+The radio requiations specify an interval of at least two minutes between attempts, and that you
+should only try three times belore giving up. They do, however, allow you to start the sequence
+again three minutes later! Rather than simply waiting between successive attampts, It makes
+sense to see if there is some other reason why your call may not be getting through: make sure
+the antenna cable is connected, that the battery valtage is OK, and thal the radio is correctly
+set up— not in dual watch mode, for instance, or with the volume turned nght cownl
+
+Link calls
+
+This onee-useful facility, by which specially-equipped coast radio stations could link a VHF
+radio call froma vessel at sea to the shore telephone network, is falling into disuse as mobile
+telephones and satellite communications take aver, Sore countries, including the UK, Iratand,
+France and the Netherlands, have shut dawn their link call facilities altogether, but others
+
+— including Belgium, the Channel Islands, Denmark, Germany, Spain and Portugal — still have
+them. That, al least, was the situation in January 2007, but it does change, So took ina current
+almanac or list of radio signals for details.
+
+Making a link call is not complicated: it is very much like making an operator-connected
+telephone call from a noemal telephone. The most difficult bit is paying for it!
+
+Link calls — Accounting procedures | Syllabus tery Dae
+
+The very nature of manne communications means that a vassal fram anywhere in the world
+may contact a coast radio station anywhere in the word, and ask to be connected to a
+telephone anywhere in the word, Somehow, the bills for all these telephone calls ultimately
+have to reach the aght peapte.
+
+VHF Handbook a7

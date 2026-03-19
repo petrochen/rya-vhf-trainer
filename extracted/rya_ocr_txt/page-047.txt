@@ -1,0 +1,40 @@
+Specifying position
+
+The obvious way to specily your position is by latitude and longitude, probably fy reading it
+fram the display of a GPS set. This is always acceptable, but it may not be the best option. In
+some situations, it should be treated with particular care,
+
+Cheek that the position indicated by the GPS is valid: if the GPS has been switched on
+within the past few minutes, or ifits antenna has been damaged, it rnay nat be showing
+the true position,
+
+if the battery voltage is low, such as by self-discharge through flocd water or by
+cantinueusly-running pumps, the added power drain of transmitting on the nadia may
+lower the voltage so much that the GPS switches itself off.
+
+Latitude and longitude are meaningless toa listener unbl they are plotted on a chart, To many
+local boats, something like “half a mile south of Gull Rock" or “the eastern side of Spit Sand"
+would mean a lot more. ILis quite acceptable, and sometimes most appropnata, to give
+positions by reference to a well-known and charted landmark,
+
+The canvention is to express your pasition FROM the charted object, giving any bearings as
+three figures,
+
+“nay position Us one
+sux Five degrees from.
+Black Rack Buoy, two
+decumal for moles”
+
+Remember the order af things by imagining that you are giving directions to a helicopter
+pilot: such as “fly Siouth from the lighthouse for three miles”,
+
+Remember that the hyoothetical helicopter will be flying from the landmark towards you:
+make sure you don't send hirn the wrong way!
+
+Unless you specity otherwise, it will be assumed that bearings are in degrees true, and
+distances are in miles.
+
+VHF Handbook
+
+47
+

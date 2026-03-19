@@ -1,0 +1,29 @@
+)
+]
+
+Receiving a DSC group call
+A DSC controller that has been programmed with @ Group MMS! will respand to calls
+addressed to the Group MMS as well as to individual calls acicressed to its owr MMSI.
+
+The-alarm sound may be different, but a more significant paint is that “acknowledging” a Group
+call will only mute the alarm and switch your receiver te the specified working channel: It will not
+send an acknowledgement to the calling vessel,
+
+Using a Class A or B controller | Syllabus item B2.6. |
+
+Ifan SRC operator finds himself using a Class A or 8 contrailer, it is important to bear in mind
+that the equipment is capable of carrying out some operations that have been deliberately
+removed fram the options available on a Class D controler,
+
+In particular, you should NOT:-
+
+Use DSC to relay distress messages (use the Mayday Relay procedure on page 51
+instead)
+
+Use DSC to acknowledge distress messages (use voice procedure on page 49 instead)
+
+No two makes or models are identical...
+... $0 read the manual
+
+66 VHF Handbook
+

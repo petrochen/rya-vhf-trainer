@@ -1,0 +1,40 @@
+Digital Selective Calling - int
+
+Digital Selective Calling ts a facility which automates many of the procedures which would
+otherwise be carried out by voice on Channel 16.
+
+It's an important part of GMDSS because it allows distress alerts to be transmitted simply by
+pressing a button, bul this is not its only purpose: DSC can also speed up and simplify routine
+calla, 80 long as both vessels have the right equipment
+
+DSC Controllers
+
+“The right equipment” means a DSC
+controller, which may either be built into a
+radio, or added as a separate component,
+
+A DSC contraliar works
+instead of dots and dashes it uses ones and zeros; and instead of a flashing light it uses
+musical notes, If you could hear the message, It would sound like a high-pitched wartie, bul at
+1200 notes par secorid, it is far too fast far any human ear to pick out individual [ones
+
+oy creating a coded message, It’s a bit like morse code, except that
+
+The digital include. several differant types of information. In the case of a rquting
+ship-to-ship call, for instance, it would include:
+
+MrnSSage ¢
+
+A “format specifier” identifying the type of call
+
+A nine-digit number identifying the vessel being called
+
+A. similar nine-digit number identifying the vessel that is calling
+A suggested working nnel
+
+This burst of data, lasting about halt a second, is passed from the DSC controller to the radia,
+which transmits it an Channel 70 (see page 29),
+
+Any vessel with BSC that is within range will receive the call, but in most cases, nothing will
+happen,
+

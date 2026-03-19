@@ -1,0 +1,58 @@
+= How radio works
+
+Making waves
+
+If you tap a screwdriver across the terminals of a 9-volt dry battery, it will produce tiny sparks.
+The sparks are difficult to see, except in complete darkness, but if you do it close to an ordinary
+transistor radio, they should be easy enough to hear, asa distinct crackle on the racie. That, in
+effect, is what Heinrich Hertz cid in 1988, when he became the first person to demonstrate the
+existence of what we now know as racic,
+
+The sparks create an electric field which builds up quickly but then collapses, This rapidly
+changing electnc field generates a magnetic field, which also grows, and collapses. This
+combination ef constantly changing electric and magnetic fields produces what we know as
+electromagnetic radiation, or racio waves.
+
+More sophisticated radio transmitters work by supplying a rapidly changing slectric current to
+an antenna (aerial) to create the electric fied. The-speed-at which the currant changes controls
+the speed at which the electric field around the antenna changes, and is measured in Hertz
+(usually abbreviated to Hz).
+
+1 Hz =1 cycle per second
+
+ikHz = IkiloHertz = 1 thousand cycles par second
+
+MHz = 1 Megahertz = 1 million cycles per seconcl
+
+1GHz = 1 Gigahertz = 1 billion cycles per second
+
+IF YOu find It difficult to visualize a fluctuating electric field, imagine, instead, that someons has
+just dropped a pebble inte a pond, The pebble represents the transmitter, and the ripples
+radiating out from it represent the fluctuating electrical and magnetic field.
+
+Frequency and wavelength | Syllabus tern At
+
+One big difference between the waves on the pond and the electromagnetic waves of a radio
+transmission is that radio waves travel outwards in three dimensions, nol just two, Another,
+even more important, is that all electromagnetic waves travel at 300,000,000 metres per
+second, (roughly 126,000 miles per second or 162,000 nautical miles per second).
+
+200,000,000 metres per second is known as “the spead of light” because light is one of many
+kinds of electromagnetic wave,
+
+Imagine that you Gan see electromagnetic waves as clearly as you can see the waves on the
+sea. You know that they are travelling at G00 metres per microsecond, so if 30 of them pass
+you in one microsecond, the first one must be 300 metres away by the time the thirtieth one
+has past you. From this, you can see that each wave must be 10 metres long, In other words,
+they have a wavelength of 10 metres. Similarly, If G00 of hem pass you in 1 microsecond, they
+must have a wavelength of 1 metre,
+
+Wavelength = 300,000,000 / Frequency
+
+Frequency = 300,000,000/ Wavelength
+
+Marine VHF operates ata frequency of about 156MHz
+
+So it has a wavelength of about 300/156 = 1.92 metres,
+
+8 VHF Handbook

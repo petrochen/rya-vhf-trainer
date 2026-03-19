@@ -1,0 +1,40 @@
+The two systems complement each other:-
+
+Cospas-Sarsat ‘satellites can work oul the position of a standard 406MHz EPIAB, bul may nat
+be able to download it to an earth station until they happen to pass aver one.
+
+Geosar satellites cannot work out the positian of an EPIRB unless the signal includes position
+information, but can download the distress alert. identity, and position to an earth station
+immediately,
+
+Doppler positioning
+
+In everyday life, the “Doppler effect” is
+probably mast noticable when you're
+standing by the side of a busy road: it makes
+the sound of each car change in pitch at
+
+the moment it passes-you. The same thing
+happens to the EPIRB transmissions as they
+are received by a satellite: when the satelite
+is flying towards the EPIAB, it receives a
+slightly higher frequency than when itis flying
+away from it. Only at the instant at which the satellite ig closest ta the EPIRB does it receive
+a Signal at the exact trequancy that was transmitted, By analysing how quickly the fraquency
+changes, the satellite can also work out how far from the EPIAB it passed,
+
+EPIABs
+
+EPIRBs vary in their design and operation, but can be divided into two groups:-
+
+Category 1 EPIRBs are stowed in brackets
+fram which they are released and activated
+automatically if immersed to a depth of 2-4
+metres,
+
+Category 2 EPIRBs have to be manually
+removed from their brackets. Depending on
+the make-and model, they may be activated
+by turning the right way up, by dropping into
+sea water, or by a manual switch,
+

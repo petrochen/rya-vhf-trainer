@@ -1,0 +1,43 @@
+18
+
+Authority to Operate Syllabus item 02-2
+The Authority to Operate is like a driving licence: it relates to an individual, rather than to a
+specific vessel or radio: it is awarded atter a test of competence, and it lasts — at least in
+theory — for life,
+
+There aré several differant courses and examinations, providing a range of qualifications that
+give “authority to operate” radia equipment of differant sorts, on different classes of vessel.
+Someone who has completed a one-day course in using a smail-boat's VHF, and taken a half-
+hour written test is not expected to take responsibility for the world-wide communication needs
+of a ship carrying a thousand passengers!
+
+For vassels which carry radio aquioment on a yoluntary basis there are two certificates:-
+
+the Long Range Certificate (LRC) - covers VHF HF, and MF radiotelephony and satellite
+communication systems
+
+the Shon Range Certificate (SRC)
+- covers VHF raciotalaphony.
+
+a ee
+
+ora tml nt
+
+Type approval
+
+Until April 2000 anyone who wanted to sella marine radio had to make sure that It had been
+lested by an independent test facility. and approved as conforming to various perormance
+requirements...
+
+The current requirements are detaited in the Radio
+Equipment Directive (RED), The general principle
+is that radia equipment has to do its job without
+being dangerous and without causing unnecessary
+interference, but the test requirernent has gone, The
+manufacturer now has to issue a declaration of
+conformity, formally certifying that the radia conforms
+to the appropriate performance standards, and ensure
+that it is marked with the familiar GE label.
+
+VHF Handbook
+

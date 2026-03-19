@@ -1,0 +1,48 @@
+aC) 5 ol
+
+Other controls-are used for selecting Items fram a "menu" of functions: these
+may include: -
+
+dedicated, one-job buttons
+
+up, down, “clear”, and “enter” keys
+
+‘sott” keys, whase purpose changes depending on the task in hand, but whose current
+label always appears on the screen,
+
+Sending a DSC call
+
+There are corresponding differences and similarities in the sequence of onarations required to
+compose a DSG message. A typical sequence |s something like this:-
+
+. Press Call to show the DSG menu on the sorean
+2, Select the type af call from the options available (Individual; Group: All ships; Distress)
+« Press <Enter> to confirm your selection, and reveal the next menu
+3, For an individual call, sither:-
+select "Manual eniny” and type ih the other station's MMSI number
+or
+select the name of the station you want to contact fram the “phone book" stored In the
+unit's memory
+® Press <Emter> to confirm your selection, and reveal the next menu
+4. Select a working channel
+* Press <Enter> lo canfirm your selection, and reveal the next menu
+
+5 Press <Call> and <Enter> together to transmit the DSC call.
+
+mi FP AIreSs.
+
+| fells the Geritrollert
+
+Receiving a DSC individual call
+
+When a OSC controller recognises its own MMSt in an incoming DSC call, it squnds an alarrn,
+similar to the ringtone of a telephone.
+
+To answer it, on most Controllers, is a simple matter of pressing a single key. On the Icom
+DS 100, for instance, it is the “enter” key: on the Simrad AT1400, it is. ane of four “seit” keys
+indicated by an on-screen label representing a telephone handset.
+
+This prompts the DSC controller to transmit an acknowledgement and, at the same time, to
+switch its own radio to the working channel that was suggested,
+
+VHF Handbook (65

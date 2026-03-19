@@ -1,0 +1,43 @@
+Nfl i | \ f\ \ | NK) | | hf ) |
+
+Ini | HHA NAt it
+| | WIV Y UG I | i uli \ | Kt |
+
+Amplitude Modutitan: fhe oune/ wives (shou in rec] mndiuite the riche "carrier wave" (shavin in green) to produiee a
+aiqnal whose frequency and wavelength aro Gorstant, but whose ammitucte (Tet) wares,
+
+It is then technically simpla to use the electrical signal fram the microphone to vary the
+amplitude (wave “height”) of radio waves, while keeping their wavelength and frequency
+constant. This is known as Amplitude Modulation, or AM, tis used tor MF broadcasting-and a
+variation of it (Single Sideband, or SSB) is used in manne MF communications.
+
+fl
+} \\ \ A |
+|
+HI
+
+|| |
+VY | \ y | } !
+
+Aroguenoy MMed.istion: the sound wees modulate the frequency of thecarier wave, rather than its annaltuce:
+
+Wy \/ iy
+
+A more complex, but technically superior alternative is to vary the frequency of the radio waves.
+This is known as Frequency Modulation, or FM, and is used for VHF broadcasts, and for WHF
+and UHF communications.
+
+Antennas | Syllabus ten B14
+
+Almost all electrical and electronic equipment transmits and receives electromagnetic waves,
+whether if is intended to or net. A radio, however, is specifically intended to transmit and
+receive radia waves as efficiently as passible. Ta do so, il requires an antenna — sometimes:
+called an aerial or occasionally a radiator.
+
+The science behind how an antenna works is complex, but a key point is that a vertical
+antenna is moat efficient if it is very slightly shorter than half the wavelength of the radio waves
+it ls intended to transmit. The éxact length varies slightly, depending on the diameter of the
+antenna, but for marine VHF, the optimum length is about 93cm. Longer or shorter antennas
+will work, 80 long as they are an exact and simple ratio of the ideal length,
+
+VHF Handbook 11

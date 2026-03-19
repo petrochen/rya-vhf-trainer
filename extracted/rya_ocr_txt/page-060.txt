@@ -1,0 +1,40 @@
+SARTs Syllabus ite
+
+The initials SART stand for Search And Rescue Transponder,
+and refer to a device operating on radar frequencias,
+designed to produce a distinctive pattern on an approaching
+yessel's radar,
+
+4 marine radar works by transmitting short pulses of super
+high frequency radio waves, which are focused into a ight
+beam by @ directional antenna, When a pulse meets a
+“targat" such asa ship, itis reflacted back to the radar. The
+time between transmission of the pulse and reception af the
+echo is directly related to the distance between the radar and
+the target. Of course, this only happens when the directianal
+Antenna is pointing at the target, so the direction the antenna
+is pointing comesponds to the direction of the target.
+
+The range and bearing information is than used to “paint” a blob (called a “contact") on the
+radar cisplay, in a position corresponding to the target's range and bearing,
+
+A SART. however, does not merely reflect the
+radar pulse: it transmits a sequence of twalve
+pulses at very short intervals. On the radar
+screen, this appears as a string-of twelve small
+contacts, starting at the position of the SART,
+and stretching outwards towards the edge. of
+the screen, 0.6 miles apart
+
+As the vessel closes to within about a mile. of the
+SAAT, the twelve contacts expand to wide arcs,
+
+and when the vessel reaches the SART, the arcs
+may expand-even further, ta forma pattern of twelve concentric circles.
+
+The performance of a SART varies: although it should be visible to a ship's radar at five miles or
+more, this reduces te less than two miles if the SART is lying on the floor of a liferafl, but can be
+as much as forly miles.
+
+VHF Handbook
+

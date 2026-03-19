@@ -1,0 +1,49 @@
+DSC Distress, Urgency & Safety ia
+
+Definition of distress
+
+The definition of distress, for DSC purposes, is exactly the sare as its definition for voice
+procedure:
+
+The Distress alert Syllatius (bern C21
+
+A vital feature of every DSC controler is the distress Dutton which,
+when oressed, prompts. the equipment to compose a cistrass alert,
+including the vessel's MMSI and its Gurrent position, The alert is then
+passed to the radio to be transmitted — like all DSC messages — on
+Channel 7d.
+
+Unlike an individual DSC call (see page 65), a DSC distress alert is
+automatically addressed to “ail stations”, so it tinggers an alarm on
+every DSC controller within range.
+
+Such a highly automated system makes it easy fo send distress alerts,
+
+bul it also has the potential for generating huge numbers of false alerts, either by mistake or
+
+by malice. There isn't much that can be done about hoax calls, but to minimise accidental
+false alarms, the rules say that the Distress button must be protected by a cover, ancl must not
+trigger a distress alert unless it is held down for several seconds — usually five seconds.
+
+Unless the situation i¢ so desperate that every second counts, itis well worth refining the basic
+Distress alert to give an indication of the nature of distress,
+
+As with a routine call, the sequence of operations for achieving this varies between diferent
+makes and mocdals: it may, for instance, be achieved through the "Call" menu, or through a
+special menu which reveals itself when the Distress button is pressed and released,
+
+In ether case, you willbe presented with a number of options, from which you selec! the mast
+appropriate:
+
+Undesignated Grounding
+(the default optian, Listing (or in danger af capsizing)
+included in the basic Sink
+distress alert) ied
+F , Disabled and acintt
+Fire or explosion
+A teh
+Flooding sms m”
+Collision iia
+Mati overboard
+
+VHF Handbook 67

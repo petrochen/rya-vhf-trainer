@@ -1,0 +1,43 @@
+Urgency and Safety Syllabus len 2.2
+
+DSC can also be used in situations which do nol warrant a full-blown distress alert, to draw
+attention to Panpan or Securitay messages.
+
+A DSC urgency call is equivalent to the praword Panpar: it means “| have a very urgent
+message to transmit conceming the satety of a mobile unit or persan”.
+
+4 DSC safety call is equivalent to the praword Securitay: it means “| have an important
+navigational or meteorological warning to transmit”.
+
+no mforrnalien
+al hal
+
+Sending an urgency or safety call
+
+There are no dedicated “urgency” or “salety" buttons on a DSC contraller, so the procedure for
+sending an urgency or safety call is, in some respects, more like that raquired to send a routine
+call, Just as for a routine call, the exact sequence of buttons to press varies from make to
+make and model to model, but a typical sequence is something like this;
+
+1. Press <Gall> to show the DSC menu on the screen
+
+3. Select “All ships" from the list of available call types (Individual; Group; All shins; Distress}
+* Prass <Enter> to contirm your selection, and reveal the next menu
+
+3. Select “Urgency” or “Safety”
+* Press <Enter> to confirm your selection, and reveal the next manu
+
+. Select a working charinel (usually Ghannel 16)
+5. Press <Call> and <Enter> together to transmit the OSC call
+6, Follow up with a voice call and message using the Panpan or Securilay procedure (see
+pages 52-54)
+
+This is included as an example only, but Is based on the procedure for the Class D leom DS100
+DSC controller, Other makes.and models are different:-
+
+On the Ciass D Simrad DSC 1400, for instance, the call types offered are Routine, Safety,
+Urgency and Group. Having selected Urgency or Group, there are no more options:
+pressing the <Enter> key immediately sends the call to all ships with Channel 16 as the
+working channel,
+
+70 | VHF Handbook

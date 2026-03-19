@@ -1,0 +1,10 @@
+WE GINVIDSS Sea Areas
+
+| 4
+pants
+100 0 100
+
+200
+———— SS |
+Scale: Nautical Miles
+

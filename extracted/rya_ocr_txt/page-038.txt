@@ -1,0 +1,38 @@
+pe)
+
+if you think you may want to make a link call, you must first make arrangements wilh a Maritine
+Radio Accounting Authority (MAA), There are several MAAAs in the UK. The Ship Radia
+Licence-Guidance Notes (available from Gfcom} includes a list, but they are independent
+businesses whose terms and conditions vary: do not be surprised if they quote a fairly
+substantial deposit, or an annual subscription, as-well as a surcharge on each bill.
+
+Having signed up with an MRAA whose terms: suit you best, their details, including a four
+character identity cade knowras the AAIG (Accounting Authority Identity Code), should be
+entered in the relevant space on your Ship Radio Licance application,
+
+When you make a link call, the coast station that receives iL will pass on the bill to your MRAA.
+Each MRAA pays all the bills it receives, but of course it also takes care to collate the all the
+bills ralating to each vessel, and pass them on accordingly.
+
+Link calls — Operating procedures | Syiletous iter BS 1
+
+Some coast racio stations-accept incaming calls on Channel 16, but in general, they should be
+called or-one of their working channels, listed in the Admiralty List of Radio Stations, Admiralty
+Maritime Gammunications. or yachtsmen’s almanacs.
+
+Before transmitting, however, it is important to listen to the channel, to make sure you do not
+interrupt someone alse's call. You may heari-
+
+an operator at the coast radio station, talking to another vessel
+
+ong end of a telephone conversation
+
+various “telephone noises” such as clicks, squeaks, dialling or ringing tones
+a series of regular beeps
+
+or silence
+
+Only if you hear silence can you go ahead with your call, using exactly the same procedure:as if
+you were calling any other kind of coast radio staton;-
+
+VHF Handbook

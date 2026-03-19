@@ -1,0 +1,41 @@
+A duplex channel is like a two-lane road,
+inwhich traffic can flow freely in both
+directions.
+
+Channel 80 is. a tyoical duplex channel, intended tor port operations. Coast stations transmit
+on 1617.625MHz, and receive on 147.025MHz. This means that two coast stations can mayer
+communicate with each other on channel 80, but that is OK because there is na reason they
+should ever try to do so. Similarly, ship radio stations transmit on 157.025MHz and receive on
+161.625MHz, Again, ship stations can't communicate with each other on channel 80, tut that
+is OK because they ane not supposed to use it as an intership channel.
+
+“Channel 80, however, is of particular significance ta Small Graft, because in the UK, TiS one of
+the three channels covered by the Coast Station (Marina) licence. It is, in affect, the “Small Cratt
+Part Operations channel", The snag is that most of the relatively economical radios sold for
+small craft use have only one antenna connection, You Gan’! receive through an antenna.at the
+game time as you are transmitting through il, even on a duplex channel,
+
+This doesn't stom us from using duplex channels. The radia simply switches fram receiving on
+one frequency 10 transmitting on the other, and vice versa, It all happens automatically when
+you press or release the PTT switch, whenever a duplex channel has been selected. The one
+snag with this so-called "serru-duplex” operation is that it sacrifices the very thing thal duplex
+channels were set up to achieve: for most practical purposes, it is-exactly like using a simplex
+channel.
+
+Semi-duplex operation can be compared
+to a two-lane road, with road works. The
+fact that one lane is blacked means that
+two-way traffic can only be achieved by
+taking it iin turns, just as ina simplex
+channel.
+
+International and private channels Syllabus item At
+
+IP you look carefully at the table of channel numbers, fraquencies and approved usage on
+page 25, you'll see that there is quite a wide range of frequencies (from 157 .450MHz to
+160.600 MHz} that seem to be missing. That is because these frequencies have been left out
+of the international allocation, and have been set aside as “private” channels for individual
+governments to allocate as they think fit.
+
+VHF Hantibook 2T
+

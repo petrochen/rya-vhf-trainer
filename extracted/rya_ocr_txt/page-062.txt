@@ -1,0 +1,42 @@
+On the vessel that is being called, however the DSC-cantratler will recognise its unique
+identification number, and sound an alarm to draw attention to the fact that it is being called,
+At the same time, it will display the identity of the calling vessel.on its screen.
+
+Assuming the operator decides to accept the call, he can acknowledge it — usually by
+pressing-a button on his-own DSC controller, This switches his racio to the appropriate working
+channel, and sends another burst of digital data back to the original caller, signatling that the
+call has been acknowledged, and switching the racic to the chosen working channel, ready for
+normal voice traffic,
+
+Classes of DSC Controller
+
+There are several classes of DSC controller, with different capabilities to suit the neads of
+different users,
+
+Class A controllers offer all the facilities
+available from DSC, including the ability to
+control HF and MP radios, ta acknowledge or
+relay distrass messages, and to make calls
+to vessels within a chosen geographical area.
+They ana intended primarily for commercial
+vessels, and are seldom installed in small
+craft
+
+Class B controllers are aiso intended onmarily for commercial
+
+vessels. but offer a reduced DSC capability. Thay comply with the minimum
+requirements for vessels which are required by law to carry MF and VHF radio, but cannot
+control HF radios, or make geographical area calls.
+
+Class D controllers are intended primarily for small craft, They offer a reduced DSC capability,
+for VHF only, but do-not conform to all the requirements for vessels which are required by law:-to
+carry VHF radio fother than srmail commercial craft operating under MGA Codes of Practice).
+
+Class E controllers are also interided primarily for small crafl, and offer a reduced DSC
+capability, for MF and HF only, and do not conform to all the requirements for vessels which are
+required by law to carry WHF radio
+
+DSC cannot handle boat names, any more than an automatic telephone exchange can handle
+names or addresses. Instead, every vessel with a DSC controller is issued with 4 unique nine-
+digit number, known as its Maritime Mobile Service Identity (MMSN.
+

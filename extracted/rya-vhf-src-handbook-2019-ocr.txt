@@ -1,0 +1,4772 @@
+===== page-001 =====
+OFFICIALLY SUPPORTING THE SRC COURSE
+
+
+===== page-002 =====
+
+===== page-003 =====
+© Melanie Bartlett 2009
+
+First Pubished 2006
+
+The Royal Yachting Association
+RIYA House, Eneagn Wary. Hamiale,
+Southampton S031 444.
+
+Tel: 02380 604 100
+
+Web: wvey.rya.org. uk
+
+RYA VHF Handbook
+by Melanie Bartlett
+
+illustrations by Steve Lucas
+
+Raorinted June 2000, Nowambear 2011, Mach 2093
+
+November 201, Aarl 2014, Segtern teen ‘.
+
+015, August 2005, Fabruary 2016,
+
+larch,
+
+Satember 2076. January 2017, Apri 2017,
+
+Novernber 2088, February 2019
+
+RYA
+
+Allnghts reserved. No part of this pubkeation may be reproduced,
+stored in a ratheval system, ar transmitted, in any form or by
+
+any Means, elactonic, mechanical, photocopying, recording or
+mihenwea, without the orion parmission in-writing of the publishers.
+
+A. CEP reeord of this book ip avedable trom the British Library
+
+Foliow us on Twitter @A iy APublications Note: While all reasonable care has been taken in the preparation
+
+oe on YouTube
+
+We Welcome feedback on our publications
+
+al publicstionsttrysorg. ule
+
+af this book, the publisher lakes ino responshilty for the use of the
+methods of products:or contracts .desorinad in the book.
+
+Cover Design: Baley Design Limited
+
+You Gan check content updates for Photographic credits: Malaria Bartlett, Chloe Phillps-Barlict!
+
+RYA publications at
+awh. Wa. Ong uk’ Go bookschangeky
+
+ISBN: 9781305104001
+
+Susizinable
+Forests
+
+foam LK, Jobneen Cantrots Ine, Yaesu WK, Simrad UK, Raymarine,
+MACGA, UK Hydrographic Offies, KOS Electronics, SM Group (Europe),
+McMurdo, Selex Communicationsanct LightMaster Sottware,
+
+Lf
+
+Typeset: Cneviivebyle
+Proofreading and glossary: Slan Thatcher
+Printed in China: through World Print
+
+4ll prices shown ara Gorect al the date of publication.
+
+VHF Handbook
+
+
+===== page-004 =====
+Me Contents
+
+41 Introduction
+Types of message
+Types of user
+Types of equipment
+
+2 How radio works
+Making waves
+Frequency and wavelength
+Gharacterstics of different
+frequencies
+Modulatian
+Antennas
+Antenna gain
+Batteries
+
+3 Rules and Regulations
+Why rules?
+Licensing
+
+Ship Radio Licences
+Coast Radio Licances
+Authority to Operate
+Type approval
+
+Radio log
+
+Secrecy
+
+The ten commandments
+
+4 Operating a marine VHF radio
+Power on
+Volume
+Squelch
+Transmitter power
+Channel selector
+PTT switch
+Dual watch, Tri watch and Scan
+Dimmer
+Switching on and setting up
+
+4 VHF Handbook
+
+10
+W
+12
+13
+
+15
+15
+15
+16
+7
+18
+18
+19
+19
+
+21
+a
+
+EBEBBRAERR
+
+5 VHF Channels
+
+Principle of “channels”
+
+Simplex and duplex channels
+International and private channes
+American channels
+
+Channel 16 and guard band
+Channel 70
+
+Special channels
+
+6 Voice procedure 1: Routine calls
+
+Calling another vessel
+Calling a coast station
+Galling the Goastquand
+Radio chack
+Garbled calls
+Unanswered calls
+Link calls
+Accounting: procedures
+Operating procedures
+shore to ship
+Prowords
+Standard vocabulary
+Phonetic Alphabet
+
+7 Voice procedure 2: Distress calls
+
+Definition of distress
+
+The Distress Call
+
+The Distress Message
+
+Specifying position
+
+Receiving a distress message
+Acknowledging a distress message
+Seelonce
+
+Mayday Relay
+
+Bes SSBRSSSRRSR GSES BREBRBRBRS
+
+22eéeR88 866
+
+===== page-005 =====
+8 Voice procedure 3: Urgency &
+Safety calls
+
+Urgeney calls
+Medical advice
+Safety calls
+
+9 GMDSS
+
+Background and principles
+Sub-systems involved in GMDSS
+Maviex
+
+EPIRBs
+
+The satellites
+
+Doppler positioning
+EPIRBs
+
+Stewage and maintenance
+Reaistration
+
+False alarms
+
+SARTs
+
+10 Digital Selective Calling -
+introduction & routine calls
+
+DSC Controllers
+
+Classes of DSC Controller
+MMSis
+
+Types of cail
+
+DSC centrallers and positian
+Using a Class D controller
+Sending a DSG call
+
+Recening a DSC individual call
+Recewing a DSC group call
+Using a Glass 4 or B controller
+
+£ERBR
+
+SSSsSeeRURegagagag
+
+SRRRRRSERSRVS
+
+11DSC Distress, Urgency & Safety
+
+Definition of distress
+
+The Distress alert
+
+Atter sending a Distress alert
+Receiving a distess alert
+
+Accidental False Alert procedure
+
+Urgency and Safety
+
+Sending an urgency or safety call
+
+Receiving a DSC urgency or
+safety call
+Mayday relay
+Appendix 1: Examination Syllabus
+for the CEPT Short Range
+Certificate (SRC)
+
+Appendix 2: Standard Marine
+Navigational Vocabulary
+
+VHF channel numbers
+
+GMDSS Sea Areas
+
+Index
+
+Glossary
+
+Membership pages
+
+67
+67
+
+$8684
+
+70
+70
+
+77
+ral
+
+72
+
+78
+
+o1
+
+Syllabus item At |
+
+Throughout this book you will find red
+boxes as shown above: these highlight
+which item of {he RYA VHF Course
+
+Syllabus the secton relates to.
+
+VHF Handbook
+
+5
+
+===== page-006 =====
+SH introduction
+
+Ask any group of students attending an SRC course why they want to learn to use a
+marine VHF radio, and the overwhelming majority are likely to reply “safety”. Probe a
+little deeper, and most of them will probably say that they want it mainly to be able to
+call for help.
+
+Types of message
+
+It’s true that distress messages are an important function of marine WHF, but they are certainly
+not its sole purpose: VHF can also be used to prevent distress situations fram developing. by
+allowing vessels ta warn each other of potential hazards, or by raceiving safety information
+such as navigational warnings and weather forecasts.
+
+The majority of radio messages, however, are far more mundane. They are concerned with
+everyday aspects-of the vessel's operation: making plans, or finding berths, food, or fuel,
+
+There is also a facility, in some countries but not in the UK, tor specially equipped radio stations
+on the coast to connect radio calls to the public telephone system ashore, Unlike other calls
+made by VHF radio, these “link calls” have to be paid for They were never cheap, so most of
+the customers who might once have used this service now use mobile telephones or satellite
+communications instead,
+
+VHF may also ba used for on-board cammunications, such as between the bridge and fa'e'stle
+of a ship, or between the cockpit of a yacht and sameone working Up the mast.
+
+So the lypes of message that can be sent by marine VHF can be divided into four main groups:
+Distress, Urgency, and Safety messages
+
+Rouline messages - between vessels
+- between vessels and harbour authorities ("Port operations’)
+- between vessels and traffic monitaring or control authorities
+Public Corespondencs, or “Link calls"
+On-board communicatians
+
+Types of user Syllabus lem Ale
+The people who use marine VHF can also be divided into several distinct groups.
+
+The largest group are those who.use marine VHF on board a vessel of some sort, whether it is
+ayacht, fishing boat, ship or hovercraft, So far as the authonties are concerned, these are all
+
+classed as “Ship Radio Stations", régardiess. of whether the “ship” in question is @ cruise liner
+or a cance.
+
+6 VHF Handbook
+
+===== page-007 =====
+The other broad group of user: astquancds h
+
+ard ation: cht ¢
+
+MO
+
+trical
+laerall mounte
+
+of the.s
+
+parte antenna
+
+asi or ona h
+
+part
+rstructure,
+
+A typical portable racio is smaller than a
+fixed radio but larger than a mobile phone
+tis usually powered by 4 rechargeable
+battery fitted inside or clipped to it, and
+ally has a stubby antenna connected
+directly to the top of the rach,
+
+
+===== page-008 =====
+= How radio works
+
+Making waves
+
+If you tap a screwdriver across the terminals of a 9-volt dry battery, it will produce tiny sparks.
+The sparks are difficult to see, except in complete darkness, but if you do it close to an ordinary
+transistor radio, they should be easy enough to hear, asa distinct crackle on the racie. That, in
+effect, is what Heinrich Hertz cid in 1988, when he became the first person to demonstrate the
+existence of what we now know as racic,
+
+The sparks create an electric field which builds up quickly but then collapses, This rapidly
+changing electnc field generates a magnetic field, which also grows, and collapses. This
+combination ef constantly changing electric and magnetic fields produces what we know as
+electromagnetic radiation, or racio waves.
+
+More sophisticated radio transmitters work by supplying a rapidly changing slectric current to
+an antenna (aerial) to create the electric fied. The-speed-at which the currant changes controls
+the speed at which the electric field around the antenna changes, and is measured in Hertz
+(usually abbreviated to Hz).
+
+1 Hz =1 cycle per second
+
+ikHz = IkiloHertz = 1 thousand cycles par second
+
+MHz = 1 Megahertz = 1 million cycles per seconcl
+
+1GHz = 1 Gigahertz = 1 billion cycles per second
+
+IF YOu find It difficult to visualize a fluctuating electric field, imagine, instead, that someons has
+just dropped a pebble inte a pond, The pebble represents the transmitter, and the ripples
+radiating out from it represent the fluctuating electrical and magnetic field.
+
+Frequency and wavelength | Syllabus tern At
+
+One big difference between the waves on the pond and the electromagnetic waves of a radio
+transmission is that radio waves travel outwards in three dimensions, nol just two, Another,
+even more important, is that all electromagnetic waves travel at 300,000,000 metres per
+second, (roughly 126,000 miles per second or 162,000 nautical miles per second).
+
+200,000,000 metres per second is known as “the spead of light” because light is one of many
+kinds of electromagnetic wave,
+
+Imagine that you Gan see electromagnetic waves as clearly as you can see the waves on the
+sea. You know that they are travelling at G00 metres per microsecond, so if 30 of them pass
+you in one microsecond, the first one must be 300 metres away by the time the thirtieth one
+has past you. From this, you can see that each wave must be 10 metres long, In other words,
+they have a wavelength of 10 metres. Similarly, If G00 of hem pass you in 1 microsecond, they
+must have a wavelength of 1 metre,
+
+Wavelength = 300,000,000 / Frequency
+
+Frequency = 300,000,000/ Wavelength
+
+Marine VHF operates ata frequency of about 156MHz
+
+So it has a wavelength of about 300/156 = 1.92 metres,
+
+8 VHF Handbook
+
+===== page-009 =====
+Characteristics of different frequencies | Syllabus itam At.9 |
+
+The electromagnetic spectrum covers a huge range of frequencies and wavelengths, from the
+audible “mains hum" genérated in some mains-powered electrical equipment, to X-rays.and
+gamma rays. Visible light is part of the spectrum, towards the upper end of the frequency range
+(from 384,000 GHz to 769,000 GHz).
+
+Radio waves have much Jower frequencies, from about 3kHz to 30GHz, and their wavelengths
+range trom several kilometres ta a few centimetres, Different frequencies have different
+charactenstics, which make them suitable for different purposes, so they are often subdivided
+into different “bands”, with descriptive names such as VLF (Very Low Frequency) ancl SHF
+
+(Super High Frecuency).
+
+frequencies Ble more suscentible to the elfects known 23 ciffraction
+
+med refracteant, Wi ven the of Akar LAr
+
+boundary latyweean oitarent (7 ATES aur EK
+
+This means that tow frequencies (VLF and LF) are good for jong range broadeasting and radio
+navigation systems, because they are easily difracted, so they can curve around obstructions
+or-over the harizar.
+
+Medium fraquencies (MF} are slightly less
+goad at following the Earth's curvature,
+
+so they are used for some meéediurn-range
+navigational aics, such as aeronautical radia
+beacans, for regional broadcasting, and for
+medium range communications,
+
+High frequencies (HF) don't bend over the
+horizon to any significant extent. The earth's
+atmosphere, however, contains a number
+of electrically-charged layers. known as the
+ionosphere, These layers are capable of
+retracting HF radia waves to such an extent
+that they bounce back te ground level. By
+carefully choosing the right frequency te
+make best use of the ionosphere, HF can
+be used for world-wide broadcasting and
+communication.
+
+VHF Handbook 5
+
+===== page-010 =====
+nal
+
+10
+
+Very High Frequency (VHF) and Ultra High
+Frequency (WHF) don't bend over hills,
+around headlands, or aver the honzon to
+any great extent, nar are they bounced
+back by the ionosphere, so they are used
+for local broadcasting, television, and
+communications,
+
+ay
+
+The maximum range at which you can expect 4 WHF signal to be received depends on the
+height of the transmitting and receiving antennas.
+
+antennas WHE horizen (in miles} is appre yarnately three HMes The
+
+Two antennas will be in within range of each other when their horizons averlap:
+So a moter cruiser, with its antenna at 4m, would have a tadio horizon of 6 miles,
+while & sailing boat, with its antenna at 16m, would have a radio horizon of 12 mites:
+They should be able ta contact each other at a range of about 6412=18 miles.
+
+Dinghy Motor boat Sailing yacht Ship Coast station
+
+Antenna height im 4m 16m 36m 100m
+
+WHF horizon aM 6M 12M 18M 30M
+Dinghy 6M OM 15M 21M aM
+
+Motor toat aM 12M 18M 24M 36M
+
+Sailing yacht 15M 18M 24M 30M 42M
+
+Ship 21M 24M 30M 36M 4gM
+
+Coast station 33M 36M 42M 48M
+
+Modulation
+
+A constant, unchanging seres of radio waves is of little practical use: it is the radio equivalent
+of a continuous single-note whistle, ofa steady white light. In order to carry a message, It has
+to be varied in some way, This is known as “modulation”, and in its simplest form consists of
+nothing more than switching the transmission on and off.
+
+Simple on-off keying can be used to send messages by morse code or something similar, fut
+more sophisticated forms of modulation are required ta tranernit sounds such as speech,
+
+The first stage in the process is to convert sound — the physical vibration of the alr — into
+electricity. This is the jab of a microphone,
+
+VHF Handbook
+
+ow
+
+===== page-011 =====
+Nfl i | \ f\ \ | NK) | | hf ) |
+
+Ini | HHA NAt it
+| | WIV Y UG I | i uli \ | Kt |
+
+Amplitude Modutitan: fhe oune/ wives (shou in rec] mndiuite the riche "carrier wave" (shavin in green) to produiee a
+aiqnal whose frequency and wavelength aro Gorstant, but whose ammitucte (Tet) wares,
+
+It is then technically simpla to use the electrical signal fram the microphone to vary the
+amplitude (wave “height”) of radio waves, while keeping their wavelength and frequency
+constant. This is known as Amplitude Modulation, or AM, tis used tor MF broadcasting-and a
+variation of it (Single Sideband, or SSB) is used in manne MF communications.
+
+fl
+} \\ \ A |
+|
+HI
+
+|| |
+VY | \ y | } !
+
+Aroguenoy MMed.istion: the sound wees modulate the frequency of thecarier wave, rather than its annaltuce:
+
+Wy \/ iy
+
+A more complex, but technically superior alternative is to vary the frequency of the radio waves.
+This is known as Frequency Modulation, or FM, and is used for VHF broadcasts, and for WHF
+and UHF communications.
+
+Antennas | Syllabus ten B14
+
+Almost all electrical and electronic equipment transmits and receives electromagnetic waves,
+whether if is intended to or net. A radio, however, is specifically intended to transmit and
+receive radia waves as efficiently as passible. Ta do so, il requires an antenna — sometimes:
+called an aerial or occasionally a radiator.
+
+The science behind how an antenna works is complex, but a key point is that a vertical
+antenna is moat efficient if it is very slightly shorter than half the wavelength of the radio waves
+it ls intended to transmit. The éxact length varies slightly, depending on the diameter of the
+antenna, but for marine VHF, the optimum length is about 93cm. Longer or shorter antennas
+will work, 80 long as they are an exact and simple ratio of the ideal length,
+
+VHF Handbook 11
+
+===== page-012 =====
+Antenna gain
+
+No practical antenna transmits equally in all directions. In simple terms, you can say that
+
+“the power comes out of the sides of the antenna, not out of the ends". So a long antenna,
+mounted vertically, will concentrate more of its power towards the horizan than a shorter ane,
+This, of course, is very usetul if yau can guarantee that your antenna will be mounted vertically.
+Ifyou can't, there is something 1o be said for using a shorter antenna, which is tess. ettective at
+focusing its power towards the horizon, when it is vertical, but is more tolerant of being tilted,
+
+To help choose an antenna, manufacturers usually specify the “gain” of their different modeis,
+compared with a theoretical “isotropic” antenna (which transmits equally in all directions). The
+gain is usually specified in decibels, in which every 3dB represents a doubling in maximum
+ssgnal intensity: -
+
+A $dBi antenna focuses
+twice.as much pawer
+towards the horizon as
+an isotropic antenna,
+
+but is reasonably tolerant
+of heel and pitch: this is
+the type usually:
+recommended for
+
+sailing yachts.
+
+A 6dBi antenna focuses twice as much
+power towards the horizon as a 3dB
+antenna, or four times as much as.an
+isotropic antenna, but its efficiency drops
+off noticeably if it is tited, so it is Usually
+recommended for moterboats — but only
+ifit can be mounted upright.
+
+12| VHF Handbook
+
+
+===== page-013 =====
+Cam
+
+A.1.50Bi antenna ts less effective at concentrating its power in any particular direction, but,
+by the same token, is not too badly affected by being used at an angle This is wsetul for
+portable radios,
+
+Tha “feeder” cable connecting the antenna to the radia is an important part of the whole
+
+system, The cable used for domestic televisions and radios may look the same as is used for
+marine VHF antennas,
+fram the antenna’s performance.
+
+but its @actrical properties are quite different, and will severely detract
+
+Manne: VHF rachos are almost invariably powered by batteries, whether they ane internal, as in
+most portables, or are the boat's domestic battenas.
+
+All batteries work by using chemical reactions 1p produce a flow of elec
+particles, called electrons, in the circuit that Inks the battery's post
+The fundamental difference between rechargeable and non-rechargeable batteries is that in
+rechargeables, the chemical reactions can be reversed by pushing the electrons back through
+the battery in the oppasite direction
+
+sally charged
+ve and negative terminais,
+
+Alkaline batteries are nat normally rechargeable, bul they are readily available, and store a lot
+of power for their size and weight. Although they are not an economical option for regular, lang-
+term use, they ane a very uselul reserve power supply for some portables that are designed to
+accept ther.
+
+Lithium batterias are-expensive, and not rechargeable, but they produce a lot of power for
+their size and weight, and have a very long shelf life. This makes them ideal for ermergercy
+equipment such as EPIRGs or for portable racias which are
+reserved for emergency use. Like alkaline batteries, they
+produce 1.8 volts per cell when new.
+
+Lead-acid batteries are very heavy and bulky, but they are
+rechargeable, and are produced in large sizes that make therm
+an economical way of storing a lot of power Not surprisingly,
+they are the standard type of battery for engine starting and
+domestic services on boats.
+
+VHF Handt
+
+
+===== page-014 =====
+ze)
+
+There are numerous variations. “Heavy Duty” battenas (“car batteries") will provide huge
+currents for very shart périods, so they are ideal for engine starting, but they quickly de
+if they are cischarged by more than about 30% of their capacity. "Deep cycle” or “traction”
+batteries are much better at withstancing cleep discharges, but cannot provide such
+
+large currents, $0 they are better for supolying domestic power. “Leisure” batteries are an
+economical compromise between the other two types.
+
+These “conventional” leact i battenes, supplying power to a vessel's main fixed VHF set, can
+be conveniently kept ata reasonable state of charge by the boat's engine-driven alternator. It
+isn't perfect, but it is a common and very practical solution
+
+More sophisticated versions of lead-acid battenes are filled with an acid gel or acic-
+impregnated mats instead of the liquid acid that is used in a typical car battery, This makes
+them less susceptible to spills or damage, but in most cases raduces their ability to produce
+very high currents (such as for engine starting) or to accept rapid recharging.
+
+The chargers for the more sophisticated types of lead acid battery should be built into the boat
+when the batteries are installed. They may provide a slower rate of change than normal, but
+they are designed to make sure that (he battery really is fully charged.
+
+NiCad (Nickel Cadmium) batteries are compact and rather lighter than lead acid batteries, but
+they are more expensive, so they are mainly used in small sizes to power portable radios, They
+are potentially able to withstand thousands of charge/discharge cycles, but they are inctined
+to lose their charge gradually when stored and their ability to accept a full charge quickly
+deteriorates que to th called “mamory effect” if they are subjected ta “tap-up" recharging
+without having been jully discharged. They produce a slightly tower voltage than alkail
+
+NiMH (Nickel Metal Hydride) batteries ané rechargeable, and
+have a higher capacity than NiGads of similar size and
+weight, as well as being able to deliver more current
+They don't last quite as long as well-maintained
+NiGads, but the “memory effect" is very much less
+significant, Unfortunately, they produce the sare low
+voltage as NiGads, but they are more expensive and
+are inclined to self-discharge even when not used,
+
+Lithium lon batteries are rechargeable. For a given size and weight, they store mone power
+than.any other readihy-available battery, but are very much more expensive, and very much
+more susceptinie to overcharging,
+
+
+===== page-015 =====
+Rules and Regulations Een
+
+Why rules? Syllabus thar D4
+
+Radio waves are no respecters of borders, whether the border in quéstion is the fence between
+next doar neighbours, ar an international frontier. To stop one family’s baby alarm trorn making
+their neighbour's garage door fly open, and prayent one country’s television broadeasts fram
+disrupting the air traffic control systems of another, calls for some degrea of co-operation.
+
+Co-operation is achieved thraugh the Internatianal
+Telecommunication Union (TU). Every two ta three years,
+it organises'a Word Racio Conference (WRC), attended
+by delegations representing nearly two hundred clitferent
+counties, The outcorne of each conference is an update
+to the Radio Regulations — an international treaty whose
+requirements must then be incorporated into the national
+legislation of every state that has signed up to it.
+
+The more general actwities of ships and boats are
+regulated at international level by the International
+Mantime Organisation (IMO). This is the body
+responsible for — amongst other things — the caollisian
+reguiations, the layout of traffic separation schemes, and
+the Safety of Life at Sea (SOLAS) Convention.
+
+Within tha UK, to government bodies ane particulary concerned with the administration and
+enforcernent of the laws relating to marine WHF:
+
+The Office of Communications (feom) deals mainly with technical issues, and matters
+arising from the radio regulations, such as whether a radio installation is licensed,
+
+The Mantime and Coastguard Agency (MICA) deals mainly with matters arising fram SOLAS,
+such a5 whelher a vessel is carrying the right equipment and whether the operator is
+appropriately qualified.
+
+Penalties for infringing the Racio Regulations can be severe: they include fines of up to £5000,
+
+up to.sicmonths imprisonment, and confiscation of the equipment used.
+
+Sater CP
+
+Licensing
+
+inorder fo usea VHF racic on board a boat, two quite differant types of licence are requined:-
+
+A Ship Radio Licence
+An Authority to Operate
+
+VHF Handbook 15
+
+===== page-016 =====
+16
+
+Ship Radio Licences | Syllabus tem D212
+
+A Ship Radio Licence could be cornpared to a car's tax disc, in that it relates to the vessel
+
+or to the radio, rather than to an individual user, and it has to be reguiarly renewed, Until 30
+September 2006, comparisons with a tax disc were even more obvious: obtaining a licence
+involved paying an annual fae, in exchange for a circular licence disc which had to be displayed
+on beard.
+
+Under the new rules, Ship Raciio Licences are issued free by Ofcom through their website
+(wwweofcom.org.uik}, and will remain valid for up to ten years, so jong as the details of the
+yesse! and its owner don't change, If the boat is sold, the owner's address changes, or the
+radio equipment is changed, the licence will haye to be renewed. There is ne longer a “licence
+disc", but the licerice must be carried on board,
+
+Although the licence is free, itis still compulsary, and owners may be fined for having
+operational radio equipment on beard without an appropriate licence,
+
+A Ship Radio Licence covers all the radios Installed on a vessel, including 4 portable
+used in the vessel's tender.
+
+When a vessel is issued with a Ship Radio Licance for the first time, it is allocated a callsign,
+consisting of a group of four or five letters and numbers, and it may also be given a nine-digit
+MMS! number.
+
+Essentially, the callsign and MMS! number are both unique identifiers that will stay with the
+vessel until her radia licence is allowed! to lapse. So although there may be several boats
+called Golessal Overdrai?, there will only b& one that has the callsign MV¥OQ8 or the MIMS
+234014521.
+
+The clilference is that the MMSI is used in conjunction with Digital Selective Calling (DSC, sea
+pages 62-63), whereas the callsign is essential if you ever want to use the link call facility, anc
+useful if you want some authority such as the Coastquard to be able to identity you quickly and
+positively.
+
+The Ship Portable Radio Licence allows the licensee to have ‘available for use’ one WHF
+portable maritime radio and can also caver the use of one Personal Locator Beacon (PLB)
+and/or one Emergency Position Indicating Radio Beacon (EPIRB). The main difference with
+the Ship Portable Licence is that the licence is not issued for a vessel but to a person, with the
+intention that the portable. equipment listed may be used on rmultiple vessels, An international
+callsign is not issued, but a unique identification number called a ‘T’ number is prowided. MMS!
+numbers can be obtained for portable DSC VHF handsets used in UK waters only.
+
+VHF Handbook
+
+===== page-017 =====
+narinas and
+
+evan though they h
+
+nead te e VHF. To ce
+
+there are a number of cifferent types of C
+Station Licences,
+
+are also
+a not freeand are ¢
+in Ship Radio
+
+Ofeo
+to more stringent limitations
+Licences.
+
+Coastal Station Radio (UK) \ic
+used by organis 5
+
+to comma
+
+their own vess Ising a “private
+The fee fora CSA) Licence is £180 per
+channel per year,
+
+manne VHF, using one or more designat
+channel er year,
+
+Coastal Station Radio (Marina) licer
+as they allow the use of three channels (M, Mz, and 80) for the relatively modest fee of
+
+ces are useful for sailing Clubs as well as for commercial
+
+Coastal Station Radio (Training School) |icences are for exactly what the name suggests:
+they wig centres ta use “live” marine radio equipment, far
+fora fee of £50 per year.
+
+ow maritime collages and
+
+training purposes onty
+
+re
+
+nO per year, and allow
+tall, test, repair and demonstrate re shops of workshops
+
+an customers’ boats in harbour or ashore,
+
+fla
+
+===== page-018 =====
+18
+
+Authority to Operate Syllabus item 02-2
+The Authority to Operate is like a driving licence: it relates to an individual, rather than to a
+specific vessel or radio: it is awarded atter a test of competence, and it lasts — at least in
+theory — for life,
+
+There aré several differant courses and examinations, providing a range of qualifications that
+give “authority to operate” radia equipment of differant sorts, on different classes of vessel.
+Someone who has completed a one-day course in using a smail-boat's VHF, and taken a half-
+hour written test is not expected to take responsibility for the world-wide communication needs
+of a ship carrying a thousand passengers!
+
+For vassels which carry radio aquioment on a yoluntary basis there are two certificates:-
+
+the Long Range Certificate (LRC) - covers VHF HF, and MF radiotelephony and satellite
+communication systems
+
+the Shon Range Certificate (SRC)
+- covers VHF raciotalaphony.
+
+a ee
+
+ora tml nt
+
+Type approval
+
+Until April 2000 anyone who wanted to sella marine radio had to make sure that It had been
+lested by an independent test facility. and approved as conforming to various perormance
+requirements...
+
+The current requirements are detaited in the Radio
+Equipment Directive (RED), The general principle
+is that radia equipment has to do its job without
+being dangerous and without causing unnecessary
+interference, but the test requirernent has gone, The
+manufacturer now has to issue a declaration of
+conformity, formally certifying that the radia conforms
+to the appropriate performance standards, and ensure
+that it is marked with the familiar GE label.
+
+VHF Handbook
+
+
+===== page-019 =====
+An alternative — compulsory for SOLAS vessels — is that the radio should conform to the type
+approval requirements af the Marine Equipment Directive (MED) and be marked with the “ship's
+wheel" symbol,
+
+Strictly speaking, it is up to the holder of the ship radio licence to make
+sure that the radia equipment conforms to all these.requirements, In
+practice, it is almost impossible for anyone ta do so, without a high level
+of technical knowledge and access to sophisticated lest facilities. If you
+have access to the documentation supplied with the radio when it was
+first bought, look for a copy of the declaration of conformity. Otherwise,
+look for the GE mark or ship's wheel mark.
+
+Be caretul of radios imported from outside Europe, bought by mail order (particularly from
+websites) or bought al boat jumbles. Many radios, especially those built for the American
+market, do net conform ta the European standards. They are not necessarily “sub standard”
+but it is flagal to install one under the terms of a UK Ship Radio Licence.
+
+Radio log Syllabus them 2.2
+
+The Radio Regulations require all vessels with radio telephone equipment to keep a record of
+distress, urgency, and safety messages received or sent, along with other “important events"
+conceming the radio, and a daily note of the ship's position. Under WK law, pleasure craft, and
+small commercial craft operating under any of the MGA Godes of Practice, are exampt from
+this requirement, itis stil, however, @ood practice to make a note of such events:in the boat's
+deck log when required,
+
+Secrecy Svilabus item BP:
+
+Anything you say over a marine VHF radio can be picked up by anyone with another ordinary
+marine radio within a radius of many miles. In some respects, this is a greal strength: ane
+distress message, for instance, may be he heard by hundreds of other vessels, without having
+to be repeated to each one in turn. Il does, however, mean that radio operators are duty bound
+torespect the confidences of their counterparts.
+
+The need for secrecy is enshaned in the international Racio Reguiations, in British law, and in
+the declaration of secracy that is included in the application fora radio operator's certificate.
+
+lis @ criminal offence to:-
+
+intercept radiocammurnications nat intended for the general use-of the public without
+authorization
+
+Divulge the existence or contents of any information obtained by the interception of racha
+communications
+
+VHF Handbook 19
+
+===== page-020 =====
+20
+
+The ten commandments Syllabus item 03.8;
+
+The complete text of the Radio Regulations fills four substantial books, Even the reduced
+version, edited down to leave only the bits that refer to marine radia, isan Ad book about 2em
+thick, The most important rules, however, can be reduced ta ten commandments:-
+
+Qo not transmit without the authority of the master of the vessel
+Qo not transmit false or deceptive distress or satety signals
+Do net trangrnit without identification (callsign or vessel named
+
+Do not shut down: radio telephone before finishing all operations resulting froma distress, urgency, or
+Safety call
+
+Do not broadcast, other than distress messages
+
+Do not transmit music
+
+Bo not make unnecessary transmissions
+
+De not transmit profane, indecent of absoene language
+
+Ho not use unauthorized frequencies
+Do not transmit messages Intended to be receives ashore ather than by a licensed coast radio station,
+
+Most of these are pretty self-explanatory, except, perhaps for “Do not broadcast" anc “Do nat
+make unnecessary transmissions”, Almost by definition, everyone else's radio messages always
+seem to be unnecessary chatter, compared with your cwnl
+
+“Broadcasting” means transmitting a message without specifying who it is intended for and
+without expecting a reply.
+
+A simple rule of thumb test of whether a message is “necessary” is “does this message relate
+ta the ship's business?”
+
+So two fishermen discussing the day's catch would be OK; a discussion of the results of
+fast night's foatball match would rot,
+
+A group of divers discussing the nearest source of diving air would be acceptable;
+discussing the difficulties of towing a RIB around the M25 would not.
+
+Yachismen are offen accused of cluttering the airwaves with chit chat. A conversation which
+starts with a discussion agreeing to rendezvous with a friend in a particular harbour can easily
+slide through a comparison ot local pubs ta a discussion of their menus or reminiscences of
+what happenad last time they meat.
+
+Arranging a rendezvous is obviously an acceptable use of the racko, but reminiscing about an
+evening ashore, equally clearly, is not.
+
+VHF Handbook
+
+
+===== page-021 =====
+Operating a marine VHF radio (a
+
+Every make-and model of marine VHF radio is differant, Whilst there may be a certain family
+resemblance between different models from one manutacturer, or between competing products
+aimed al the same group of users, there is certainly no such thing as a “standard” control
+panel, There are, however, a number of standard contrals:-
+
+Power on
+
+Volume
+
+Transmitter power
+
+Channel selector
+
+PTT switch
+
+Qual wateh’TA watch/Scan
+Dimmer
+
+Power on
+
+The power on/off switch connects the radio to its power supply, so until it has been switched
+on, the racio seless.
+
+In fixed mount radios, the power on/olf switch is offen a press-butten, mounted on the front
+panel, In hand-held portables, itis often combined with the volume control,
+
+Volume
+
+The function of the volume central is exactly the same as that of its counterpart on a domestic
+radio of telavision: it makes the sound from the loudspeaker either louder or softer.
+
+Some radios, particularly those with telephone-style handsets, have a “mute” facility, which
+switches the loudspeaker off altogether when the handset is removed frorn its craclle.
+
+Squelch
+
+The squelch control regulates the sensitivity of the receiver, so it affects the radio's ability to
+receive incoming signals. It does not, however, affect the volume of the audio signal heard
+through the loudspeaker or handset
+
+Turning the squelch “up" reduces the sensitivity of the receiver and vice versa, When the
+
+alch is turned right down, the receiver will detect a lot of very weak signals, including
+
+state” and atmospheric noise, which will produce a sharp crackling, or frying sound through
+the loudspeaker. This is a very uselul indicator of whether the valume control is set to about the
+riaht level, but no-one would put up with it as background noise for very long.
+
+As the squelch controls gradually turned up, there will come a point at which the noise
+sucidenly steps, This is the correct setting: the receiver has been desensitised sufficiently to
+eliminate unwanted signals, but should still be abla to receive wanted signals,
+
+Turning the squelch up further will desensitise the recetyer still more, and runs the risk of losing
+weal signals.
+
+
+===== page-022 =====
+22
+
+Transmitter power
+
+The maximum power that can be legitimately transmitted by a marine VHF radio is 25 watts.
+That doesn't sound very much, campared with something like a domestic light bulb, butin the
+fight conditions and from a tall enough aerial, it may be good for a range of sixty miles or more,
+
+For short range communications, there is na need-to use so much power; perfectly satisfactory
+results can be achieved with much less. Of course, this recluces the drain on the battery, but the
+really big advantage of using less power is that by reducing the range over which ane vessels
+transmissions can be heard, it allows others, a few miles away, to use the same frequency,
+
+‘\
+
+‘One saiah operator using high power can cise other vessels! commumcations over a wide area, Lising tow oower
+svows other vesses a fan mies away to vse fhe sare chanel
+
+For this reason, all marine VHF radios must be-able to transmit ona reduced power setting of 7
+watt or less. With a good aerial, at least a couple-of metres above the waterline, even this may
+achieve good communication over distances of 5-10 miles.
+
+Portable VHF sets could, in law, transmit at up to 25 waits, (but in practice they never do. In
+most cases, thelr maximum output is between 3 watts and 6 watts, but they are still required to
+have a 1 watt low power facility.
+
+Channel selector
+
+In order for one radio to receive the signals transmitted fram another, the transmitter and
+receiver have to be tuned to the same frequency as each other. VHF frequencies, however,
+involve lang and unmemorabla sequences of numbers, such as 156.375 Mhz. To simplify
+things, some frequencies have been given international channel numbers (see page 25).
+156.375MHz, for instance, is known as Channel 67.
+
+Being able to change channel quickly and accurately is $0 important that on most radios,
+the channel selector is the most prominent control, It's usually in the farm of a retary knob oF
+up and down keys, and matched by praminent numbers on the display, but in seme cases
+— generally the more up-market models — It may be a numbered keyboard,
+
+VHF Handbook
+
+===== page-023 =====
+Channel 16 is of particular significance, because it is used for distress and safety messages,
+and for making initial cantact with other vessels, so many radios have a separate contrat giving
+instant access to Channel 16 at the press of a single Button,
+
+PTT switch
+
+Perhaps the most important
+control of all is Known as the
+PTT (Press-To-Talk} or Pressel
+switch, It is usually mounted
+on the side of the microphene
+or in the middle of the
+handgrip of a teleaphone-style
+handset, On portable radios,
+iis usually set into the side
+of the casing, alongside the
+display.
+
+It does exactly what its name suggests: you have to press it
+in-order to switch the radio from recema mode to transmit. By
+the same token however, it could be called (but isn't!i-an ATL
+switch, for "Release to Listen", because you have to release
+it in-order to receive.
+
+Dual watch, Tri watch, and Scan
+
+Channel 16 has special status as the distress, safety, and calling channel, so we are
+encouraged to Keep a Continuous "listening watch” on iL, Olher channels have other designated
+purposes, Channel 13 for instance, IS used for “Bridge to Bridge” safety communications, while
+Channel 12 is a port operations channel, So a-yacht crossing the English Channel may want to
+monitor Channel 13 as well as. Channel 16 in the-shipping lanes, and Channels 12 and 16 as
+she approaches Southampton,
+
+All radios now have a Dual Wateh facility, which allows them to monitor Channel 16 and any
+other: designed channel. It doesn't, strictly speaking, monitor bath channels at once, Essentially,
+the receiver is tuned mainly to Channel 16, but occasionally flicks aver to the other channel. If it
+receives a signal on the other channel, it stay “locked on” to it: if not, it quickly flips back.
+
+Some manufacturers have taken this idea a stage or two further, and offer tr watch (three
+channels} or stanner modes, (lots of channels)
+
+
+===== page-024 =====
+24
+
+Dimmer
+
+All radios need an illurninated display and contrels if they are to be worked at night. A bright
+acraen, however, can be dazzling, so any radio should have lighting that can be reduced or
+increased as required,
+
+Switching on and setting up
+
+Suppose we want to make a call ta a marina, a Couple af miles away, on Channel 89,
+
+a!
+
+Switch the power supply to the radio on
+
+Adjust the dimmer switeh if necessary, to Illuminate the display arc contrals.
+Turn the squelch right doym, to produce a frying sound from the loudspeaker
+Adjust the volume control until the frying sound fs loud but tolerable
+
+Adjust the squelen control until the frying sound just staps
+
+Use the channel selector to select Channel 80
+
+on - WN
+
+al Select low transmitter power
+
+LISTEN, to make sure the channel is notin use
+g, Prass the PTT to speak
+10. Release the PTT to listen for a reply.
+
+VHF Handbook
+
+===== page-025 =====
+VHF Channels (ey
+
+Principle of “channels” | Syllabus ten A139
+
+For one radio to receive the signals transmitted by another, the receiver has to be tuned ta the
+same frequency as the transmitter. To receive BBC Radic 4 broadcasts in the lang wava, for
+instance, a recelver has to be tuned to 198kHz.
+
+Higher frequencies, however, invelve bigger and biager numbers, unti by the time we reach the
+VHF band, they are becoming unwieldy and difficult to remember. To save us having to cape
+with numbers such as 161.625 Mhz, the standard frequencies approved by the ITU have been
+given channel numbers,
+
+Part operations
+eee, aad vette
+Channel E Ca two Carnal ‘step Goat tiers lng jaa Puttic
+Designation. verbs ahap | Ureapeicy | Hipaeney | Canes Desiguatos = etatioes: nations ahip | Neanency frequency | Corres,
+oy ens | ? ¥ i Vera [ome > >) Aso on-bomnt core
+on henaso ° ca fi) Ta ETS.
+a 160.078 ° v 18 158K 1h COST HESS. GAPE Te Med Co ME:
+Tern ¢ ¢ t BGA a
+Ce Vel F7 ¢ a " ine | ima | ef bay brumt corre:
+wa 780 & # 7 WE BTS, Cs
+cei) - # is ea a a e
+oa Vago 7 f ni ee Ons ¥ ¢
+180A a # rE} ea ~ Fd
+8 Veal a1 ? “ Al 1s ONS # 7
+a4 velar ¢ ¢ » in? Fa ?
+on Pa a Tarots | TA aban ay UK oo ¥
+6 Noles < a #4 yarasa | 70LRED ¥ Fa
+or re) \e580 ¢ ¢ S| wars “ “
+id Sika 150,375 cd ca HOR SAA a toa « ¥
+of en) z | cs thi 125 # # Fa
+an Pe Pa} bE Foal ca a 171 HMICES BARS
+a 15 An isan | é io qa ¢ ¥ f
+i) tH ATE, SaaS “ ca u 157 Mh Pe a
+‘i 1Misull 1a | “ De Piekatari a 5 5 # HMC RE
+| MSS ian lofi selostoe caling for rbttress, s ire | aire if é
+Safty and calling ET 1S lan tid Pa Pa fd
+i} 56.58 786550 ca Psd 15? a) Ti ¥ ¢
+1 STA isi a7 Fe C7 ines | na “ Hee SRE
+w Meee: 180.000 F ar ierao | Re ¥ e
+te 180 aes: * AF inFsIS a
+" 86 lou) | + P Es vardog | aoe ¥ “
+eI Vata 156.675 ce * MOG SAA, co tres «
+ia ae 136.700 ? ast te aero.
+iL eis) ie ai) ca wo ‘fia tie
+
+A larger verton of these charts. shown on pages 32-23.
+
+Until the development of solid state electronics, VHF radios wera relatively expensive, and nat
+particularly widely usec, $0 the part of the radio spectrum allocated to marine VHF was divided
+into 28 Intemational channels, 5OKHz (0.05MHz2) apart and numbered from 7 to 26.
+
+By the 1970s, however, the price of VHF had fallen and its popularity had tisen, so those
+existing channels were becoming very crowded. Technology had also moved on, so the
+channel spacing of 50kHz seemed unnecessarily generous. The number of channels could be
+almost doubled, without using any more of the radio spectrum, by interleaving new channels
+between the old ones. So Channels 60 to 88 were added.
+
+As well as having a designated frequency (or, in some cases two designated frequencies), each
+channel also has a specified purpose. Channel 12, for instance, is a Port Operations Channel. It
+would be physically possible for two boats to communicate with each other on Channel 12, but
+it would be disruptive, potentially dangerous, and definitely illegal ta do so,
+
+VHF Handbook 25
+
+===== page-026 =====
+26
+
+Simplex and duplex channels Syllabus tem AVS
+
+If two people want to talk to each other, it seams to make sense for them both to use the same
+frequency. Thera is, however, one slight snag with this idea...
+
+When you are using one frequency, you can either receive, or transmit. You can't da both
+at Once. Evan if you had two separate radios and aenais, you still couldn't receive the other
+boat's transmissions at the same time as you were transmitting yourself, because your awn
+transmissions would drawn out those from the other vessel.
+
+So using a single-frequency channel demands a degree of discipline and standard procedures
+to decide whe is to talk and who ts to listen, and how they are to switch roles when necessary
+to achieve two-way camimunication, The principle, however, is simple, so this method of
+operating on a single frequency is known as simplex, and the single-frequency channels are
+known as simplex channels.
+
+Simplex operation is all very well between two operators wha Know whal [hey are doing, and
+understand the limitations of a simplex channel, It is far less satisfactory if, for instance, you are
+using VHF to make a link call to your office, er to wish your mother in law a happy birthday.
+
+IF you are talking on the telephone to sorneone who remains totally sitent, you very quickly
+begin to wonder whether there is something wrong with the phone! That's because normal
+conversation is a constant, two way process, even itone party does little more than grunt,
+
+Normal, two-way conversations can be achieved by radio, by using two frequencies, One
+station transmits on one frequency, while the other transmits on the other, Of course, they must
+both have their réceivers set up to receive the frequency that the other is transmitting.
+
+This two-way, two-frequency operation is known as duplex, so the two-frequency channels are
+knewn as duplex channels. They are used, in the main, for public corresponcience (link calls),
+for which two-way traffic is essential, and for some port operations channels.
+
+You can compare the flow of radio traffic in simplex and duplex channels to the flow of traffic
+along a road:-
+
+A simplex channel is like a single track
+road: traffic can only flow in one direction
+ala lime, and two way traffic can only be
+achieved by taking it in turns.
+
+VHF Handbook
+
+
+===== page-027 =====
+A duplex channel is like a two-lane road,
+inwhich traffic can flow freely in both
+directions.
+
+Channel 80 is. a tyoical duplex channel, intended tor port operations. Coast stations transmit
+on 1617.625MHz, and receive on 147.025MHz. This means that two coast stations can mayer
+communicate with each other on channel 80, but that is OK because there is na reason they
+should ever try to do so. Similarly, ship radio stations transmit on 157.025MHz and receive on
+161.625MHz, Again, ship stations can't communicate with each other on channel 80, tut that
+is OK because they ane not supposed to use it as an intership channel.
+
+“Channel 80, however, is of particular significance ta Small Graft, because in the UK, TiS one of
+the three channels covered by the Coast Station (Marina) licence. It is, in affect, the “Small Cratt
+Part Operations channel", The snag is that most of the relatively economical radios sold for
+small craft use have only one antenna connection, You Gan’! receive through an antenna.at the
+game time as you are transmitting through il, even on a duplex channel,
+
+This doesn't stom us from using duplex channels. The radia simply switches fram receiving on
+one frequency 10 transmitting on the other, and vice versa, It all happens automatically when
+you press or release the PTT switch, whenever a duplex channel has been selected. The one
+snag with this so-called "serru-duplex” operation is that it sacrifices the very thing thal duplex
+channels were set up to achieve: for most practical purposes, it is-exactly like using a simplex
+channel.
+
+Semi-duplex operation can be compared
+to a two-lane road, with road works. The
+fact that one lane is blacked means that
+two-way traffic can only be achieved by
+taking it iin turns, just as ina simplex
+channel.
+
+International and private channels Syllabus item At
+
+IP you look carefully at the table of channel numbers, fraquencies and approved usage on
+page 25, you'll see that there is quite a wide range of frequencies (from 157 .450MHz to
+160.600 MHz} that seem to be missing. That is because these frequencies have been left out
+of the international allocation, and have been set aside as “private” channels for individual
+governments to allocate as they think fit.
+
+VHF Hantibook 2T
+
+
+===== page-028 =====
+The UK government, for instance, allocates the name “D0" to 156,000MHz, and allows it to be
+used only by the Coastguard and recognized search and rescue organisations such as the RAL.
+
+Similarly, in the UK, 157.850MHz is known as Ghannel M and 161.425 is known as M2: they
+are “private” channels that have been allocated by the WK government specifically for use by
+marinas, yacht clubs, and pleasure craft.
+
+Channel M and M2 should only be used in UK waters: other countries have allacated thase
+frequencies for differant purposes.
+
+Private channels do not necessarily require an operator's certificate. In the UK, channels M
+and M2 can be used by unqualified operators, without supervision,
+
+Some radios cannot display the letter M. In such cases, Ghannel M is often called "37" or
+"P1", Channel M2 is often called "P1” or "P4",
+
+American channels Syllabus item AT.a
+
+A lew counties, most consplouously the USA, de not conform to the international channel
+designation and usage. Whilst there.are similarities between international and US channel
+designations, there are also significant differences: in particular, many channels which are
+duplex in the international scheme are simplex in the US version. Most modern radios can be
+converted from one system to‘anather by flicking a switch or by going through a set-up menu,
+Make sure you aren't using the wrong system by mistake.
+
+if you calla UK marina using the US channel 80, the marina will hear you, but you wan't
+hear their reply. Channel 80 is a duptex channel under the international system, but a
+simplex channel in the USA.
+
+Channel 16 and quard band | Syllabus item C35 |
+
+Some channels are of particular significance.
+
+Channel 16 is the outstanding example, because it is designated as the Distress, Safety, and
+Galling channel,
+
+It is so important that Channel 16 should not suffer any interference that the two channels
+closést to it in the international frequency table — channels 75 and 76 — are ragarded as a
+guard band. At one time, transmissions in the guard band were illegal, and any radio which
+allowad transmissions on those frequencies would fail its lyos-approval trials. The rules have
+now been relaxed very slightly, and these two channels are available tor port operations use,
+but with the maximum power limited ta 1 watt,
+
+28 VHF Handbook
+
+
+===== page-029 =====
+Channel 70
+
+ld be kept tea minimum, and apart from distress are
+
+At longer than one minute
+
+Syllabus tem 63.1
+
+Channel 7@ is the odd one gut of all the international channels, because all the others are
+used for radiotelephony — the transmission of speech, Ghannal 70, however, is used for the
+transmission of cigital data, in cannaction with digital selective calling (DSC),
+
+DSC ie covered in considerably more detail on pages 61 to 71. From the user's paint of view,
+the important feature of Channel 70 ts that it must never be used for voice transmissions,
+
+Special channels
+
+A few channels are of particular significance, and are worth memorzing.
+
+6,8
+13.
+16
+a
+7o
+
+7297
+
+M, M2
+
+A Private channel, designated in the UX for Search and Rescue organisations
+Inter-ship channels
+
+Used for direct bricige-to-bridge contact for matters of navigational safety
+
+The Distress, Safety, and Calling channet
+
+Inthe UK, used as a small craft safety charmed
+
+For DSC. only — no volee transmissions allowed
+
+Inter-ship channels
+
+in the UK, the channel used by most marinas
+
+UK “private” channels dedicated ta marinas, yacht clubs, and recreational craft.
+
+VHF Handbook
+
+uieH
+
+29
+
+===== page-030 =====
+eH Voice procedure 1: Routine calls
+
+30
+
+It may sound like a statement of the obvious, but raciotelephony is simply a methad of
+communicating with a fellow hurnan being by voice. Don't let the fact that there is a bit of
+electronic equipment involved blind you to that fact, or to the logical follow-up that in general
+you will communicate far more effectively by using plainstraightiorward English, with natural
+rhythrns and intonation, than by using hall-rermembered jargon and distorted speech patterns,
+
+Of course, the use of radio does involve a few constraints that are not present when you are
+simply chatting to fnends:-
+
+Listen, before you transmit, (0 make sure that you will not interfere with another call,
+Ramernber that VHF channels are a shared resource: there may be thousands of other vessels
+within race range of you, all sharing one distress and calling channel and just four inter-ship
+channals:
+
+Think before you speak, Plan what you are going to say and how you are going te say it.
+
+Use the microphone correctly. If it is built
+into a telephone-style handset, hold it like a
+telephone, The mare common fist mike, ar a
+microphone built into a portable, should be
+held about 2-Sern from the mouth, ut slighthy
+off to one side to reduce the huffing and
+spitting noises that it will pick up if itis right in
+front of your lips,
+
+Speak normally, or raise your voice very slightly, but don't shout, and try to speak at a normal,
+flowing speed: If you have a particularly high of low-pitched voice, or 2 pronounced accent, try
+ta moderate it.
+
+Press to talk and release to listen. One of the commonest mistakes by inexperienced
+operators is to forget to press or release the pressel switch whervreauirad, The last word you
+speak before you release the PTT switch should be “over” if you expect a reply, and “out” if
+you don't, “Qver" means you expect a reply, and “Out” means you don't. “Over and Gut" is
+contradictory, and can anly mean that you are confused.
+
+Identify yourself and who you are calling, using either your callsign or your boat name,
+This is obvious when you first make contact, but tends to gat forgotten after the initial
+exchange. There is never any need to repeat names or callsigns more than three times, but it
+is important to include them at least once, every time you prass the PTT swatch.
+
+Calling another vessel ahus item DS.3
+
+Suppose we are on Blue Tango, and want to arrange lo meet the crew of Karenita in Helford
+this evening.
+
+VHF Handbook
+
+
+===== page-031 =====
+iieiN
+
+Ghannel 16 is the Distress. Safety, and Calling channel, 50 unless we have alreacty mace
+arrangements with Karanita to call her an some other channel, Channel 16 is obviously the one
+to use to make Initial contact. We can't stay on Channel 16, though: we have an abligation to
+minimise our use of it, in order to keep it clear for other people. Having used it as a meeting
+place, we have to move away 2s soon as possible, to continue the conversalian on a “working
+channel" earmarked for inler-ship calls, We also have an obligation to use low power if possible.
+
+The first stage in the process; assuming the radio ts already switched on and set up (see page
+24} Is to assess the situation, Is Marenita clase enough to use low power? And which inter-shy
+channels are available?
+
+oments, To
+nnel 16 for a few ™
+
+ne
+ing listened to Cha +o interrupt someone
+fake sure that We OTe 10% SO ake the call se} i
+@
+
+elses communication, Ww!
+
+this is
+Karenita,
+Over"
+
+§
+
+Blue Tango
+this is
+Korenita
+nnel Seventy Two,
+Over”
+
+. eal
+ke less than a minute.
+
+Thig whole process should tal
+
+VHF Handbook Ka
+
+===== page-032 =====
+ce
+
+The radio operators on both vessels now
+have to switch to the agreed working -
+channel, ready to resume communication,
+
+iv Blue Tango,
+
+this is
+
+“Blue Tonge,
+this is
+Karenita
+
+mc
+
+"Blue Tango,
+this is
+Karenita.
+
+anne! 16
+
+———J
+
+Both yessels now ewitch ack To ch
+
+
+===== page-033 =====
+Calling a coast station
+
+The big difference between a coast radio station and a ship radia station is that the licence tee
+for a coast station costs more, and is based ona pnce per channel. So coast stations generally
+have as few channels as possible, and Channel 16 may not be among them
+
+The available channels (and the preferred working
+
+channel) for each station are published in various
+
+reference boaks, inclucling the Admiralty List of Radio
+
+Signals, Admiralty Maritime Gormmunications, and i @
+ee
+
+yachtsman’s almanacs.
+
+The procedure for calling a Coast radio station, then,
+is vary much the same.as for calling ancther yessel,
+except that you should call directly on one of the
+station's specified working channels, rather than on
+Ghannel 16.
+
+Suppose, for instance, that we are approaching
+Dover in the motor cruiser Gafaareal!, and would
+like permission to enter the harbour, Again, the
+
+first stage is io assess the situation
+
+The almanac shows that Dover Port Control nti
+operates an channels 74 and 12, wilh 74 as the
+
+prefered working channel. [tis Chaar that there is not
+
+mueh point calling when we are more than a few minutes away from the entrance, so
+low power should be plenty.
+
+VHF Handbook
+
+ee
+
+===== page-034 =====
+ae
+
+34
+
+ing listened for o while, to
+are that Channel 74 is not
+already in use, the call begins:-
+
+“Galadriel,
+Dover Port
+Control,
+
+“Bower Port i
+This is Gul
+
+“Galadriel,
+Bover Port Contral,
+We hove o fast ferry about to
+leave, De not enter port now
+but wait tothe south of the
+entrance, and stand by on this,
+4, channel until we call you in,
+
+“bever Port Contral
+this Is
+Galadriel,
+Standing by
+Out.”
+
+item £3.34
+
+Calling the Coastguard
+
+Coastquaris, of course, are coast radio stations, but with a differance. They have a rnuch
+wider range of channels available than other coast radio stations, and invariably include
+Channel 16 as one of the options.
+
+In general, Goastquards should be called on Ghannel 16, as though they are another vessel,
+The cheice of working channel, however, rests with the Coastquard,
+
+VHF Handbook
+
+
+===== page-035 =====
+LO
+
+Suppose, for instance, that we providing safety cover for a liferaft demonstration taking place
+inthe Clyde, and the Coastquard have asked to be kept informed of its progress. As usual,
+the first stage is fo assess the situation, and to listen ta make sure [hat we are not about to
+
+interrupt another call,
+
+Coastguard,
+this ts
+Sandaif
+
+Clyde Coastguard
+Over”
+
+“Gandalf ,
+this is
+Clyde Coastquara
+Thank you for the
+information, Please let
+us know when you
+have: finished
+
+“Gandalf,
+this is
+Clyde Coastguard
+Channel six seven,
+please, six seven,
+and stand by
+Over”
+
+“Clyde Coastguard
+
+this is Gondalt
+iL} allins
+
+this is
+Gandalf
+
+Yes, we'll
+2 Thank yo
+
+VHF Handbook 35
+
+===== page-036 =====
+26)
+
+36
+
+Radio check
+
+Madern radios ara generally reliable, and seldom fail suddenly for no reason, so simply using
+the radio as an everyday toal is a good check that it working. Occasionally. however — after
+fitting a new antenna, for instance — you may need to make a test call,
+
+Acadia check can be carried out with any station that is prepared to co-operate, and on any
+channel on which they are listening. You could, for instance, call a manna or harbour office on
+ite working channel, a trend’s boat on some pre-arranged working channel, or the Coastguard
+an Channel 16 (Channel 67 in the Solent).
+
+The procedure is simmple:-
+
+“Cordhu,
+this. is
+Windrift,
+Thank you
+Out”
+
+Wiry
+Radio Check, _
+please. Over” “Windrift, *
+this is
+Cardhu
+You are loud
+end clear
+Out"
+
+Garbied calls
+
+|  Syilabus.ftem 02.3
+
+Ifyou hear a call which is clearly intended for you, but you don't catch the:name or callsign
+‘of the station comes: fram, the solution is to reply to it as usual, but substituting the words
+station calling ... forthe unheard name: or cailsign:-
+
+Karenit
+
+i fanenna’ “Station calling
+; Karenita Karenita,
+\ this is a this is
+
+Senet a Karenita f Habaners,
+‘ Over!" Habanerd,
+i = Habanero,
+: Over”
+Nie EE
+te,
+se
+
+VHF Handbook
+
+===== page-037 =====
+Amore intractable problem arises when you hear a call which you think might have been for
+you, but you're not sure. In this case, there is no such easy answer: If yOu aré hol certain that
+the call was intended for you, do not answer it, because by doing sa you might interere with
+the reply from the person it was really meant for. If you ignore it for the time being, the station
+calling will uncoubtedly repeat its call within a few minutes.
+
+Unanswered calls Syllabus em [3.3
+
+4 call that goes unanswered can be frustrating, but it |s illogical to think that it will be answered
+if you repeat it immediately... orlouder... or with more repetitions of the name or callsign.
+
+If a call was ignored, it was probably because it wasn't heard ar because the intended recipient
+was busy doing something else, so it makes sense to allow a distinct interval between calls,
+and to give up if Several repeated efforts fail,
+
+The radio requiations specify an interval of at least two minutes between attempts, and that you
+should only try three times belore giving up. They do, however, allow you to start the sequence
+again three minutes later! Rather than simply waiting between successive attampts, It makes
+sense to see if there is some other reason why your call may not be getting through: make sure
+the antenna cable is connected, that the battery valtage is OK, and thal the radio is correctly
+set up— not in dual watch mode, for instance, or with the volume turned nght cownl
+
+Link calls
+
+This onee-useful facility, by which specially-equipped coast radio stations could link a VHF
+radio call froma vessel at sea to the shore telephone network, is falling into disuse as mobile
+telephones and satellite communications take aver, Sore countries, including the UK, Iratand,
+France and the Netherlands, have shut dawn their link call facilities altogether, but others
+
+— including Belgium, the Channel Islands, Denmark, Germany, Spain and Portugal — still have
+them. That, al least, was the situation in January 2007, but it does change, So took ina current
+almanac or list of radio signals for details.
+
+Making a link call is not complicated: it is very much like making an operator-connected
+telephone call from a noemal telephone. The most difficult bit is paying for it!
+
+Link calls — Accounting procedures | Syllabus tery Dae
+
+The very nature of manne communications means that a vassal fram anywhere in the world
+may contact a coast radio station anywhere in the word, and ask to be connected to a
+telephone anywhere in the word, Somehow, the bills for all these telephone calls ultimately
+have to reach the aght peapte.
+
+VHF Handbook a7
+
+===== page-038 =====
+pe)
+
+if you think you may want to make a link call, you must first make arrangements wilh a Maritine
+Radio Accounting Authority (MAA), There are several MAAAs in the UK. The Ship Radia
+Licence-Guidance Notes (available from Gfcom} includes a list, but they are independent
+businesses whose terms and conditions vary: do not be surprised if they quote a fairly
+substantial deposit, or an annual subscription, as-well as a surcharge on each bill.
+
+Having signed up with an MRAA whose terms: suit you best, their details, including a four
+character identity cade knowras the AAIG (Accounting Authority Identity Code), should be
+entered in the relevant space on your Ship Radio Licance application,
+
+When you make a link call, the coast station that receives iL will pass on the bill to your MRAA.
+Each MRAA pays all the bills it receives, but of course it also takes care to collate the all the
+bills ralating to each vessel, and pass them on accordingly.
+
+Link calls — Operating procedures | Syiletous iter BS 1
+
+Some coast racio stations-accept incaming calls on Channel 16, but in general, they should be
+called or-one of their working channels, listed in the Admiralty List of Radio Stations, Admiralty
+Maritime Gammunications. or yachtsmen’s almanacs.
+
+Before transmitting, however, it is important to listen to the channel, to make sure you do not
+interrupt someone alse's call. You may heari-
+
+an operator at the coast radio station, talking to another vessel
+
+ong end of a telephone conversation
+
+various “telephone noises” such as clicks, squeaks, dialling or ringing tones
+a series of regular beeps
+
+or silence
+
+Only if you hear silence can you go ahead with your call, using exactly the same procedure:as if
+you were calling any other kind of coast radio staton;-
+
+VHF Handbook
+
+===== page-039 =====
+Beep_beep,
+Lyngby Ro beep,, beep,
+Lyngby Radio heep, been
+this is Sse 3
+—_ = i beep, beep
+2 ; beep...beep
+i | « : beep, beep
+=
+YNGBY RADIO Station calling a
+Lyngby Radio
+this is
+Lyngby Radic
+say again your call
+please,
+Jj | Mt
+“Cinderella,
+
+this is
+Lyngby Radio
+Good morning, and how,
+can T help you,
+Over."
+
+Lyngby
+This is
+
+The operator may well want to raad back pieces of information, or ask you te repeat them, but
+will eventually say something to the effect that he is “Irving to cennect you", after which you will
+hear normal telephone noises, follawecl — if all goes well —by someone answering.
+
+You are then able (6 go ahead with your call, When you have finished, call the coast radia
+
+station again, on the same warking channel, to tell the operator that you have finished by the
+usual procedure: the word “out";-
+
+VHF Handbook 49
+
+===== page-040 =====
+40
+
+"Lyngby Radio, j ;
+
+this is
+Cinderella
+
+Link calls — shore to ship | Sylsbus item D341
+
+itis possible, though increasingly unusual, for someone ashore to contact a vessel afioal by
+placing a link call through a coast radio station,
+
+When the cail is received by the coast radio station, it will add the details of the vessel called to
+its “traffic list", and broacteast a list of all those vessels on its current traffic list at a regular time
+given in the lists of radia stations and in yachtemen'’s almanacs.
+
+If you hear your own vessel name.or callsign being called, itis up to you to call the coast radio
+station, The procedure is very much tha same-as if you instigate the-call, except thal instead of
+requesting a link: call, you should say “you have traffic tar ma".
+
+Prowords if ‘Syllabus: tam Dt6 |
+Although it is generally best to avoid jargon, the examples of radio calls earlier in this chapter
+include several examples of special procedure words or “prowords":-
+
+this is
+
+over
+
+Out
+
+racio check
+
+station calling
+
+say again
+
+| say again
+To English-speakers, they look fike everyday words, and their meanings are almost seif-
+explanatory. In the international language of radio communications, however, they have
+
+quite distinct meanings which — like "over" and “out"— may be more tightly defined than in
+everyday speech.
+
+VHF Handbook
+
+
+===== page-041 =====
+All after
+All before
+
+Correct
+Wrong
+
+Corrector
+
+In figures
+In letters
+
+| say again
+
+| spell
+
+Qut
+
+(ver
+
+Radio check
+Read back
+Received
+
+Say again
+
+Station calling...
+
+Text
+
+Traffic
+
+This is
+
+Wait
+
+Word after
+Word before
+
+em
+
+Used, for Instance, when asking for part of a message to be rapeated. It your pencil
+‘broke while writing down a shopping list, yau might say "say again all after a pound
+of sausages"
+
+“Correct’ is. used when someone hag read back all or part of a message to contin
+that itis correct. “Wrong” Is used instead of “incorect® becausa it sounds complataly
+different, $0 It reduces the risk of confusion
+
+Used when you have made a mistake, to put lt right. So i you reada 116 carrots, then
+fealised that it should have been 1b (one pound) of carrats, you would say “a hundred
+ani sixtean carats, correction, one pound of carrots”
+
+Used to distinguish between lelers and figures, where there is a risk of ambiguity,
+as between "Hawthorne Collage, 5, Ashea Lane" and “Hawthom Cottage, Five
+Ashes Lane"
+
+Lam going to repeat what | just said
+
+lam going fo spell the last wand | said, using the phonetic alphabat
+This is the end of this transmission, and | fo not expecta reply
+This és the end of this transmission, but | am expecting a reply
+Please comment an the strength and quality of my transmissions
+Please read back tome the message that | have just passed to you
+Ihave received your message (not "roger")
+
+Please say again what you just said
+
+Used instead of a callsign or vessel name when you did not hear who was
+calling you
+
+Used tp indicate the beginning of a message (buen a3. telegram) which you expect
+to be written down and retayed, verbatim, ta someone else
+
+General term retating to radio communications
+Means “This Is", when identifying yoursalt at the start of a call
+
+Means ‘wait"! IT possible, It should be qualified by giving some idea of how long you
+expect the other person to wait, as in "Wait five minutes”
+
+Used, for instance, when asking {oe asingle word to be repeated or spelt out
+
+VHF Hancibook 47
+
+===== page-042 =====
+ew
+
+42
+
+Standard vocabulary
+
+Syllanus item GA,5
+
+English is regarded as “the international language” of the sea, so English speakers should
+
+have little difficulty understanding each other, Unfortunately this isn’t always the case: there are
+differences in the words, as well asthe accent, used in Orkney and Alderney, or even between
+the Royal and Merchant Navies,
+
+In.an effort to reduce confusion by encouraging the use of a “standard” English amongst
+seafarers around the world, the International Maritime Organization has intraduced a standard
+marine navigational vocabulary.
+
+Its use-is not compulsory, but extracts from it are included in Appendix 2 (page 73).
+
+Phonetic Alphabet
+
+Syllabus tenn 01.8
+
+The phonetic alphabet assigns a distinctive word ta-each letter of the alphabet, and to the
+numbers from zero to nine, to clarify spellings and minimise difficulties.of language and
+pronunciation, Although you're unlikely to need to use the phonetic numbers around the coasts
+of Europe or Scandinavia, the phonetic letters are almost essential, particularly if you have a
+boat name whose spelling is tikely 10 cause problems, suchas Plelades or Gear Necessities.
+
+Srmemee Ta ear oS oe
+
+oo
+
+co oe oo
+
+VHF Handbook
+
+Alpha
+Bravo
+Charlie
+
+Echo
+Foxtrot
+
+Hotel
+India
+Juliet
+Kilo
+Lima
+Mike
+
+Una One
+Bisso Two
+Terra Three
+Karte Four
+Panta Five
+
+mx xe SE Coe De WTO se
+
+ia)
+
+om o
+
+November
+Oscar
+Papa
+Quebec
+Romeo
+Sierra
+Tango
+Uniform
+
+Whiskey
+X-Ray
+Yankee
+Zulu
+
+Soxi Six
+Sette Seven
+Okto Eight
+Nove Niner
+Nada Zero
+
+===== page-043 =====
+Voice procedure 2: Distress calls ere |
+
+Of all the.reasons for wanting to have a radia.on board, the ability to call for help in an
+amergency is undoubtedly at the very top of the fist. It’s impertant to appreciate, however, that
+a radio distress message may triager an expensive, time consuming, and possibly dangeraus
+search and rescue effort.
+
+Itis datinitely not samething to be used just because the wind has dropped and you would like
+a tow, or because the fuse has blown on your anchor winch,
+
+Master
+
+foul This is parteularty &
+
+for:
+SLE ¢] authority for auidharsing rou tire
+
+ad by tha parson in charge
+
+Definition of distress Syllabus item 01.1
+
+The definition of “distress” under the Radio Regulations is rather narrower than in everyday
+language. In order to quality as a distress situation:-
+
+mist se. lr
+a
+
+a and iniminent carne
+
+A dog has fallen overboard, and is in danger of drowning
+
+The dog is in grave and imminent danger, but it is not a vessel, vehicle, aircraft, or person, so
+although this ts a distressing situation, it is NOT a distress situation.
+
+The skipper has fallen overboard, but you have practised the MoG routine lots of fimes,
+
+itis far more difficult 10 recover a human-being than to retrieve the fender and bucket used for
+practice, and survival after even a few minutes immersion in cold water is far frorn quaranteed,
+Unless you are 100% confident of a happy outcome, this incident involves grave and imminent
+danger to a person, so it is a distress situation,
+
+A sailing boat has been dismasted, and the remains of the rig are tangled in her propeller, The
+strong wine! is sweesing her quickly towards a rocky shore, only & mile or two away,
+
+This concerns a vessel, IL is in danger of being swept onto the rocks, and is likely to do so very
+soon, This meets bath tests, so itis a distress situation,
+
+A motor boat has been immobilised by discarded fishing gear tangled around her propellers
+and rudders, She is now drifting, some thirty miles from the nearest land,
+
+This incident concerns a vessel, so it passes the first test. But although the vessel may
+eventually be in danger, it is certainly not imminent. This does not meet the "grave and
+imminent” test, so itis NOT a distress situation.
+
+VHF Handbook 43
+
+===== page-044 =====
+A sailing vessel has gone aground in a nver estuary, on a falling tide, and is now stuck firmly in
+the mud.
+
+This concerns 4 vessel, so it passes the first test, and the danger has already happened, so itis
+more than imminent, But there is no reason to believe thal grounding on mud and in shetterad
+waters will Involve the logs of the vessel, or endanger lives, so it fails to meet the "grave" part of
+the “grave and imminent" test. .and is therefore NOT a distress situation.
+
+After struggling to raise the anchor, the sixty year-old skipper suffered a severe pain in his
+chest, and feil te the deck.
+
+These signs and symptoms could well indicate a heart attack, If someone or board is a doctor
+or paramedic, they might make a quick and confident diagnosis that it is really angina, and
+that the patient will soon recover, Someone with little or no first aid training could not be'so
+confident, and would be justified in fearing the worst. Whether this is a distress situation or
+not depends on the judgement of the person in charge of the vessel. In this particular
+case, the ‘person in charge” is-no longer the usual skipper.
+
+The Distress Call Syllabus tem D1.t
+
+The distress call is the only case in which a ship radio station is allowed to broadcast:
+in other words, it is allowed to tranamnit a distress call and message without addressing them ta
+anyone,
+
+Although the Radio Regulations allow distress calls ta be made on any channel, it clearly makes
+sense to use the channel that is set aside for the purpose, and to use The maximum power you
+have avaiable,
+
+ject Channel 16
+
+The distress call itself consists of the procedure word “Mayday, spoken three times. followed
+by the procedure words “this is", followed by your own boat name three times followed by your
+callsign. If you have an MMS5I (se page 62), you should inclucle it as well:
+
+The distress call should
+only be sent when the
+distress relates to your
+vessel or crew.
+
+Most of the prowords relating to distress are based on French,
+Mayday itself comes from the French “M'ardez", meaning “helo me!"
+
+VHF Handbook
+
+===== page-045 =====
+a
+
+The Distress Message | Syllabus item B11 |
+The distress cail isn't addressed to anyone, and it doesn’t include the word “over to mvite a
+reply, That is because il is intended to be immediately followed by the distress message.
+
+The distress message always follows the distress call, bul the two parts are quite separate and
+distinct:
+
+the clistr all is the initial “shout for helo”. intencad to alent listeners to thr
+
+yportant mfomma@bon to polenta rescuers.
+
+The distrass message is intended to convey important information to potential rescuers, No-one
+is- going to refuse to help you if you don't get it quite right, but you should still try to molude the
+necessary information in the right order. This is partly because a practised routine is less likely to
+miss bits out, partly because the correct order puts the most important bits of information first.
+and partly because someone who doesn't speak very good English is more likely to understand
+what they hear if they receive the information in the order they are expecting,
+
+It may help to write the nonsense word MIPDANIO on the edge of the chart, an the back of
+your hand, or to include it in a notica alongside the radio, bacause it is an acronym for the
+distrass message.
+
+M Mayday Even though you've just said Mayday three times in the distress call, say It again at the
+Start of the distrass message.
+Identity The boat name and callsign (juat once, this time. lt may be helpful to add a brief
+
+description, such as “yacht” or “motor cruiser" before the name.
+If you have sent a distress alert by DSC (see page 67), you should also include your
+
+MMsl.
+
+P Position This is the single mast Important piece of information, but it can be sent in either of
+two ways (see page 47).
+
+D Distress A brief explanation of what is wrong, such as “on fire" “aground” or “flooding”, Don't
+
+waste time explaining how it happened,
+
+A Assistance A bref explanation of what help you need, such as “request a low", “request pumps”,
+of “request helicopter evacuation”. For mest small craft incidents, any kind of help will
+do, $0 long as It comes. quickly, so "request Immediate assistance” would be most
+appropriate,
+
+N Number The radio regulations say * any other information which might facilitate the rescue".
+The number of people involved is clearly calevant il, for instanoe, the boat is sinking or
+on fire, but less so if the incident concerns a man overboard ar an injury. Don’t waste
+time with ages, sexes, ranks or relationships,
+
+| Information Apart-from the number of people an board, this could include a brief description of the
+heat ("tan metre motor cruiser with a blue hull and white superstructure"), or your
+future intentions (we expect ta abardan into a {lferaft in five minutes").
+
+0 Over If ever you wanted a reply, this is it!
+
+VHF Handbook 45
+
+===== page-046 =====
+ee |
+
+&) ‘A complete distress call and
+goes like +hiss-
+
+message, Then.
+
+With a little bit of luck Princ
+
+s Tdi 1 Soon be ar
+eS: las distr 255 call will be answ red
+.
+
+Stand by
+
+= SS.
+Notice that the reply To the distress call, and all subsequent radio messages
+ing with the proword "Mayday". This gives
+
+connected with the distress incident, beg’
+absolute priority over all other transmissions - except, of course another Mayday.
+J]
+
+46 VHF Handbook
+
+===== page-047 =====
+Specifying position
+
+The obvious way to specily your position is by latitude and longitude, probably fy reading it
+fram the display of a GPS set. This is always acceptable, but it may not be the best option. In
+some situations, it should be treated with particular care,
+
+Cheek that the position indicated by the GPS is valid: if the GPS has been switched on
+within the past few minutes, or ifits antenna has been damaged, it rnay nat be showing
+the true position,
+
+if the battery voltage is low, such as by self-discharge through flocd water or by
+cantinueusly-running pumps, the added power drain of transmitting on the nadia may
+lower the voltage so much that the GPS switches itself off.
+
+Latitude and longitude are meaningless toa listener unbl they are plotted on a chart, To many
+local boats, something like “half a mile south of Gull Rock" or “the eastern side of Spit Sand"
+would mean a lot more. ILis quite acceptable, and sometimes most appropnata, to give
+positions by reference to a well-known and charted landmark,
+
+The canvention is to express your pasition FROM the charted object, giving any bearings as
+three figures,
+
+“nay position Us one
+sux Five degrees from.
+Black Rack Buoy, two
+decumal for moles”
+
+Remember the order af things by imagining that you are giving directions to a helicopter
+pilot: such as “fly Siouth from the lighthouse for three miles”,
+
+Remember that the hyoothetical helicopter will be flying from the landmark towards you:
+make sure you don't send hirn the wrong way!
+
+Unless you specity otherwise, it will be assumed that bearings are in degrees true, and
+distances are in miles.
+
+VHF Handbook
+
+47
+
+
+===== page-048 =====
+48
+
+Receiving a distress message Syllanus items C32 and 01.1
+
+ILis a very well-established principle that seafarers are supposed to help each other when in
+distress. It is ernbottied in the international Safety of Life al Sea (SOLAS) convention, as well as
+in the Radio Regulations,
+
+The ITU Convention saye:-
+
+Aladio stations shall be obliged to accept, with absolute pnorily, distress calls and massages
+regardless of their ongin, to reply in the same manner fo Such messages, anc itmmeciately to
+take such action in regard thereto as may be requiredt,
+
+That principle; however, needs to be diluted with a bit of Common sense. Ifa cruise liner were
+to-get into cifficulties:on its way out of Southampton on a summer Sunday, a thousand yachts
+
+and motor cruisers trying to reply to its distress call would not be exactly helpfull
+
+More recent amendments to the Racio Regulations clarity the situation: in effect they say:-
+
+MeBLSag8) YOU arr | slow (ie rninutee for them to res and atone
+
+ie HSL ie Stic, fo. cl feer elective assistance, ywu should pet aehnowiedge
+
+ihe Lee
+
+maintain nacho silane gn ary
+
+As'well as these compulsory requirements, it is a very good idea to write down:as. much of the
+distress massage as possible, in case you subsequently find that you are able to assist in some
+way, such as by sending a Mayday Rely (see page 51)
+
+VHF Handbook
+
+===== page-049 =====
+Acknowledging a distress mes
+
+Tf, after several
+
+d. but decide that yo
+Rey first acknow
+
+assistance, you shou Id
+
+eard a response from
+
+minutes, you have not hu pes ane
+
+ware ina post
+ledge the distress call:-
+
+if
+
+As Soon as possible af terwards
+follow up the acknowledgment
+by telling the casualty where
+you are, haw fast you are
+travelling towards them, and
+when you expect toe arrive:
+
+
+===== page-050 =====
+Seelonce
+The fact that there are distress communications going on, automatically imposes radio -silance
+
+on the channel concerned. No-ene, in other words, should transmit on that channel unless their
+message is diractly connected with the distress incident or unless they are in distress therr selves,
+
+itis aways possible, though, that somecne may not realise that thera is a distress incident in
+progress: they may have only just Switched their radio on, or they may have only just arrived
+within range,
+
+If this happens, the casualty or “the station in control of coo eepaly
+(such as the Coastquard) can remind anyone within range of
+for radia silence by using the prowords “Seelonce Mayday.
+
+Brixham
+Brixham
+Brixham
+
+See!
+
+Mayday
+again,
+
+Mayday,
+Out.”
+
+When the need for radio
+Silence is over, the Station in
+contral of the distress traffic
+dn open the channel for
+routine communications by
+announcing “Seelonce Feence.”
+
+all ships,
+all ships;
+
+VHF Handbook
+
+===== page-051 =====
+Mayday Relay (see also page 71) Syllabus: 11
+
+There are, unfortunately, many reasons why a vessel is unable io transmit a distress message
+to the Search and Rescue authorities, tt may be that:
+
+the vessel concerned has bean dismasted, losing its radia antenna in the process
+
+rising bilge water has reached the battery, resulting in lass of power ta the racko
+
+the message is being sent from a hand-held radio which has limited the range due
+
+to ifs lower pawer
+
+the vessel, such as a small day boat or dinghy, does not have a radio set
+
+the vessel is-simmply aut of range
+Whatever the reason, if you see-a vessel in clistress, or receive a distress message, and have
+not heard any radio traffic retating ta the distress, you may be able to assist by acting as a relay
+station, The proword "Mayday Relay" makes it clear that you are not in distress yourself, bul are
+passing on a message for someone alse. If you don't receive-a reply from the Coastguard, you
+should rapeat the process, but substituting “All stations” in place of the name of the coastguard
+
+three
+twa
+
+west
+
+motor c if,
+white deck and hull
+Over 4
+The procedure is very simple, se long as you wrote down the distress message you heard.
+Ic
+
+VHF Handbook 51
+
+===== page-052 =====
+MEESH Voice procedure 3: Urgency & Safety calls
+
+Ceo
+
+Urgency calls Syllabus items 0102 and
+
+Itis easy to think of situations in which a Mayday call would not be justified, but whieh still
+warrant some Kind of special treatment. The clifting motor boat example on page 43 is just
+one example that justifies the use of an Urgency Gall, using the proword “Panpan” (from the
+French “panne”, meaning “breakdown'") to claim priority over all other calls except Distress
+COMMUncalions.
+
+The official definition of an urgency situation is “when the calling station has a very urgent message
+to tranemit concerning the safety of a ship, aircraft or other vehicle, or the safety of a person."
+
+Unlike a Mayday or Mayday Relay, a Panpan call is not a broadeast: it should be addressed to
+someone — even though, in many cases, that “someone” will be “All stations”,
+
+—
+
+call should always be made on
+
+n urgency
+
+Channel 16, using High Power. 1 \ ay statins.
+
+oll stateons
+
+Immediately following the urgency call, without waiting for a reply, send the urgency message,
+There is no rigid format for an urgency message, bul in most cases, the “PDANIO" section of a
+distress message is a good template:
+
+Pp Position Two six zero degrees from Longshins light, nine miles
+B Distress Adrift in the traffic separation scheme
+
+4 Assistance Request a tow
+
+N Number Three persons on board
+
+| Information A twelve metre motor cruiser
+
+0 Over
+
+52. VHF Handbook
+
+===== page-053 =====
+Medical advice
+
+am D1.2
+
+One special case of an Urgency Call deals with situations. in which you are asking for medical
+advice.
+
+——
+
+Tt involves a Panpan call, but ariines =e
+to the Coastguard, rather than to be
+Stations. The associated message can
+reduced te “request medical advice:
+
+What happens next is largely in the hands of the Goastquard. Around the UK, you oan expect
+to be asked to transfer to a duplex working channel, such as. 23, 84, or BB, where you will be
+linked to @ hospital doctor who has been specially trained to give advice by radio to casualties at
+sea. While the call is beng connected, the Coastguard is also likely to ask for mare information
+about the vessel and its pasition, in case the request for advice escalates into a nead for a
+helicopter or lifeboat.
+
+
+===== page-054 =====
+5a
+
+04.3, G14 anc
+
+Safety calls Syiabus ite
+
+Safety calls and messages are identified by the prowerd “Securitay”, pronounced as the French
+word "sécurité", meaning "safety", and relate te gale and navigational warnings. Although ships
+and small craft are not prohibited from transmitting safety calls, they are more likely to be on the
+receiving end of a call from a coast radio station such as a Coastguard or Harbourmaster,
+
+Although safety calls aré made on Channel 16, they are net of such high priority as Distress ar
+Lirgency messages; so the safety message itself is passad on a working channel,
+
+he lines of !-
+
+ESE —_——_—__
+So the Safety Call is along t
+—ao : “Becuritay
+Securitay
+Securitay.
+All ships.
+all ships,
+il! ships
+
+this is
+Vormouth Coastguard,
+Yarmouth Coastquard
+Yarmouth Coastal
+
+Out”
+
+i ill be transmitted
+pause, the safety mes itself wil r hig
+peice channel, again TY seeded by the proword “Securitay
+
+Securitay,
+Securitay,
+
+all ships
+this is
+Yarmouth Coastguard
+Yorm
+
+and Thames was issued
+by the Meteoralaatcal
+
+i i igati rd, such a5 a
+i ich notices a navigational hazard,
+fisore itt container, could issue its own safety call so
+tad dah Ba TH would probably be more useful, however,
+inform the nearest Coastguard. +
+
+VHF Handbook
+
+
+===== page-055 =====
+GMDSS bien
+
+Background and principles
+
+Throughout most of the last century, the radio equipment ships were required to cary was
+based on their size and the number of passengers they canied. So a cross-channel ferry —
+quite a large vessel, carrying lots of passengers — was required to carry equipment capable of
+world-wide communications, and a {ully-qualified radio officar to operate it, despite the fact that
+it was never much more than ten miles from port.
+
+A small tramp steamer, on the other hand, could set off across the Pacific with an MF radia
+which would struggle to reach two hundred miles. If it hac ta send a distress message, it was
+largely a matter of luck whether there would be anyone within range or not.
+
+In 1979, the Intemational Maritime Organisation decided that modern technology could de
+better, and that a Global Maritime Distress and Safety System (GMDSS) was called for,
+New regulations came inte force in 1992, phasing-in the system over a penod of seven years,
+
+The main idea was that all ships should carry at jeast two independent means of transmitting
+distress alerts directly to search and rescue authorities ashore. To this were added.a number af
+supplementary requirements, including a means of communicating with other vessels nearby,
+and of receiving navigational and weather warnings,
+
+To decide what equipment is required for any
+particular vessel, the world is divided into four
+areas,
+
+Al areas are within VHF coverage of a suitably-
+equipped Search and Rescue centre
+
+A2 areas are within MF coverage of a sultably-
+equipped Search and Aescue centre
+
+AS areas are within Inmarsat Satellite
+communication coverage
+
+A4 areas aré beyond the caverage of Inmarsat
+satellite communication — ie, within abaut
+1200 miles of the north or south pole,
+
+4 ager version of fhe charts shown on pages o41-85
+
+Sub-systems involved in GMD5S5S
+
+The Global Maritime Distress and Safety System is more than just a communications system:
+it’s a legal framework of equipment requirements and operating procedures, invelving several
+diferent communication systems, Some of these, such as HF, MF, and VHF radio, existert
+before GMDSS was thought of others were developed in the twenty years that elapsed
+between the decision to implernant GMDSS, and the 1999 deadline for its full aperation,
+
+VHF Handbook 55
+
+===== page-056 =====
+56
+
+Navtex Syllabus itarn G4
+
+“Navtexe" is an abbreviation for Navigation Teletext, Il delivers writtan navigational warnings and
+weather forecasts to vessels within a few hundred miles.of most of the world's coastlines.
+
+Navtex transrnitters are dotted around the world coastlines, typically a couple of hundred miles
+apart, bul all transmitting on-one of two frequencies: 518kHz or 490kHz. Operating at the lower
+end of the MF band (sea page 9) means that each transmitter has a range of several hundred
+miles, but they don't interfere with each other because they are divided into groups, in which
+each transmitter has its awn twenty minute “slot” once every four hours.
+
+When its turn comes, each transmitter broadcasts all the messages it has on hand, giving
+each ona a “header” that identifies where it has come from, what subject it covers (weather,
+navigation, ice etc,,) and a serial number.
+
+Dedicated Navtex receivers can decode the
+messages, either printing them oul on paper,
+or chsplaying them on €@ screen
+
+The receiver can be programmed to ignore
+certain types af message, or to ignore
+messages from certain stations. If you are
+cruising the Insh Sea, for instance, you probably
+don't want weather foracasts for Portugal or ice
+warnings for northern Norway,
+
+It will alsa ignore repetitions of messages which it
+has already recieved,
+
+« If possible, leave your Navtex receiver switched on,
+
+if you switch it on and off dunng a cruise, it will “forget”
+which messages it has already received, and subject you
+to Numerous repetitions,
+
+One of the best features of Navtex, for British users, is that all transmissions on the “standard”
+Navtex service (518kHz) everywhere in the world, are in English, The other frequency (490kHz)
+is used for a“local” Navtex service, Some countries use this to provide a service in their own
+language, but in the LIK it is used for supplementary information, such as the Inshore Waters
+weather forecast.
+
+VHF Handbook
+
+===== page-057 =====
+EPIRBs Syllabus item
+
+Emergency Position Indicating Radio Beacons (EPIRBs) are
+fundamental to the GMDSS, For vessels which are legally required to
+cantorm lo GMDSS, they provicie one of the two “Independent means”
+of communicating with SAR authorities. For “voluntary fit" vessels,
+including pleasure craft and small commercial craft operating under
+MCGA Codes of Practica, they are a very cost-effective means of
+providing distress alerting with world-wide coverage.
+
+Some EPIABs are capable of indicating their position, but most.ara net. Their main purpose is
+to transmit a distress alert, coded to show the identity of the vessel concerned, which can be
+detected by saiellitas of the Cospas-Sarsal system. The satellites use doppler positioning (see
+page 58) to calculate where the signal is coming from, and then download the details of the
+EPIRG's identity and position to receiving slations ashore,
+
+Direction finding equipment can’t be used on the 406MHz EPIRB signal, so, to allow rescue
+vessels and aircraft to home in on a casualty, all 4O6MHz EPIRBs also transmit a homing signal
+an the lower frequency of 127.5MHz.
+
+For very short range direction finding, they also have a bright flashing light.
+
+The satellites
+
+The Cospas-Sarsat system is an astonishing
+international venture that was set up in i979,
+by the Saviet Union, USA, Ganada, and
+Franee, It uses al least four (usually more)
+satellites in low polar orbits, less than 1000km
+above the Earth's surface. Because they are
+so.low, they have to fly fast to resist the pull of
+Gravity, so each satellite goes round the sath
+about 14 times per day, As the Earth revolves
+inside the satellite orbits, the regull is that
+each satellite passes over a different part of the Earth's sutface each tme it goes round.
+
+Thay are supplemented by three Geosar satellites. These go round the Earth almost 36,000km
+above the equator, where they take precisely 24 hours to complete one orbit. The regult is that
+each satellite “hovers” over a fixad position on the Earth’s surface.
+
+VHF Handbook
+
+
+===== page-058 =====
+The two systems complement each other:-
+
+Cospas-Sarsat ‘satellites can work oul the position of a standard 406MHz EPIAB, bul may nat
+be able to download it to an earth station until they happen to pass aver one.
+
+Geosar satellites cannot work out the positian of an EPIRB unless the signal includes position
+information, but can download the distress alert. identity, and position to an earth station
+immediately,
+
+Doppler positioning
+
+In everyday life, the “Doppler effect” is
+probably mast noticable when you're
+standing by the side of a busy road: it makes
+the sound of each car change in pitch at
+
+the moment it passes-you. The same thing
+happens to the EPIRB transmissions as they
+are received by a satellite: when the satelite
+is flying towards the EPIAB, it receives a
+slightly higher frequency than when itis flying
+away from it. Only at the instant at which the satellite ig closest ta the EPIRB does it receive
+a Signal at the exact trequancy that was transmitted, By analysing how quickly the fraquency
+changes, the satellite can also work out how far from the EPIAB it passed,
+
+EPIABs
+
+EPIRBs vary in their design and operation, but can be divided into two groups:-
+
+Category 1 EPIRBs are stowed in brackets
+fram which they are released and activated
+automatically if immersed to a depth of 2-4
+metres,
+
+Category 2 EPIRBs have to be manually
+removed from their brackets. Depending on
+the make-and model, they may be activated
+by turning the right way up, by dropping into
+sea water, or by a manual switch,
+
+
+===== page-059 =====
+Stowage and maintenance
+
+Category 1 EPIRBs must always be stowed in thelr brackets, mounted somewhere on the
+upper deck of the vessel, where they can be relied upon to float Iree if the vessel sinks.
+
+Category 2 EPIRBs can be stowed anywhere where they can easily be reached ina distress
+situation,
+
+ad requuiarly, al least onee a
+
+Bath types shoula te
+
+Instructions
+
+With) (he Trier iacturar
+
+The battery must be raplaced in adgcortance with the manufacturer's
+
+instructions,
+
+2an be manually
+
+quid be serviced
+
+is
+
+der no cldumstances should an EPIRG be tigoored to senda distress
+
+alert during) lasting or maintarante
+
+Registration
+
+Every EPIRB has its own unique identity code, which is transmitted as part of its cistrass alert,
+It is obviously important tor the search and rescue authorities to know which vessel the code
+relates ta, so the EPIRB has to be registered with the SAR authorities in the country in which
+the vessel Is registered. —
+
+Although the existence of an EPIAB on board
+should be included in your application for
+
+a ship radio tcence, this does nat, in itself,
+constitute registration. In the UK, separate
+EPIRB registration forms are available from
+the EPIAB registry, al Falmouth Coastguard,
+and should be returned to tham.
+
+False Alarms
+
+The automatic operation of EPIRBs makes them particularly prone to generating false alarms.
+These should be minimised by making sure that the EPIRB is switched off when the vessel is
+not in use, and by wrapping it in two layers of kitchen toll whenever it has to be transported.
+
+at
+
+a eee
+arash Baron
+
+2 TO yOu
+
+VHF Handbook 59
+
+===== page-060 =====
+SARTs Syllabus ite
+
+The initials SART stand for Search And Rescue Transponder,
+and refer to a device operating on radar frequencias,
+designed to produce a distinctive pattern on an approaching
+yessel's radar,
+
+4 marine radar works by transmitting short pulses of super
+high frequency radio waves, which are focused into a ight
+beam by @ directional antenna, When a pulse meets a
+“targat" such asa ship, itis reflacted back to the radar. The
+time between transmission of the pulse and reception af the
+echo is directly related to the distance between the radar and
+the target. Of course, this only happens when the directianal
+Antenna is pointing at the target, so the direction the antenna
+is pointing comesponds to the direction of the target.
+
+The range and bearing information is than used to “paint” a blob (called a “contact") on the
+radar cisplay, in a position corresponding to the target's range and bearing,
+
+A SART. however, does not merely reflect the
+radar pulse: it transmits a sequence of twalve
+pulses at very short intervals. On the radar
+screen, this appears as a string-of twelve small
+contacts, starting at the position of the SART,
+and stretching outwards towards the edge. of
+the screen, 0.6 miles apart
+
+As the vessel closes to within about a mile. of the
+SAAT, the twelve contacts expand to wide arcs,
+
+and when the vessel reaches the SART, the arcs
+may expand-even further, ta forma pattern of twelve concentric circles.
+
+The performance of a SART varies: although it should be visible to a ship's radar at five miles or
+more, this reduces te less than two miles if the SART is lying on the floor of a liferafl, but can be
+as much as forly miles.
+
+VHF Handbook
+
+
+===== page-061 =====
+Digital Selective Calling - int
+
+Digital Selective Calling ts a facility which automates many of the procedures which would
+otherwise be carried out by voice on Channel 16.
+
+It's an important part of GMDSS because it allows distress alerts to be transmitted simply by
+pressing a button, bul this is not its only purpose: DSC can also speed up and simplify routine
+calla, 80 long as both vessels have the right equipment
+
+DSC Controllers
+
+“The right equipment” means a DSC
+controller, which may either be built into a
+radio, or added as a separate component,
+
+A DSC contraliar works
+instead of dots and dashes it uses ones and zeros; and instead of a flashing light it uses
+musical notes, If you could hear the message, It would sound like a high-pitched wartie, bul at
+1200 notes par secorid, it is far too fast far any human ear to pick out individual [ones
+
+oy creating a coded message, It’s a bit like morse code, except that
+
+The digital include. several differant types of information. In the case of a rquting
+ship-to-ship call, for instance, it would include:
+
+MrnSSage ¢
+
+A “format specifier” identifying the type of call
+
+A nine-digit number identifying the vessel being called
+
+A. similar nine-digit number identifying the vessel that is calling
+A suggested working nnel
+
+This burst of data, lasting about halt a second, is passed from the DSC controller to the radia,
+which transmits it an Channel 70 (see page 29),
+
+Any vessel with BSC that is within range will receive the call, but in most cases, nothing will
+happen,
+
+
+===== page-062 =====
+On the vessel that is being called, however the DSC-cantratler will recognise its unique
+identification number, and sound an alarm to draw attention to the fact that it is being called,
+At the same time, it will display the identity of the calling vessel.on its screen.
+
+Assuming the operator decides to accept the call, he can acknowledge it — usually by
+pressing-a button on his-own DSC controller, This switches his racio to the appropriate working
+channel, and sends another burst of digital data back to the original caller, signatling that the
+call has been acknowledged, and switching the racic to the chosen working channel, ready for
+normal voice traffic,
+
+Classes of DSC Controller
+
+There are several classes of DSC controller, with different capabilities to suit the neads of
+different users,
+
+Class A controllers offer all the facilities
+available from DSC, including the ability to
+control HF and MP radios, ta acknowledge or
+relay distrass messages, and to make calls
+to vessels within a chosen geographical area.
+They ana intended primarily for commercial
+vessels, and are seldom installed in small
+craft
+
+Class B controllers are aiso intended onmarily for commercial
+
+vessels. but offer a reduced DSC capability. Thay comply with the minimum
+requirements for vessels which are required by law to carry MF and VHF radio, but cannot
+control HF radios, or make geographical area calls.
+
+Class D controllers are intended primarily for small craft, They offer a reduced DSC capability,
+for VHF only, but do-not conform to all the requirements for vessels which are required by law:-to
+carry VHF radio fother than srmail commercial craft operating under MGA Codes of Practice).
+
+Class E controllers are also interided primarily for small crafl, and offer a reduced DSC
+capability, for MF and HF only, and do not conform to all the requirements for vessels which are
+required by law to carry WHF radio
+
+DSC cannot handle boat names, any more than an automatic telephone exchange can handle
+names or addresses. Instead, every vessel with a DSC controller is issued with 4 unique nine-
+digit number, known as its Maritime Mobile Service Identity (MMSN.
+
+
+===== page-063 =====
+Inthe WK, MM Af BSL
+a@ beox:or
+
+9 boy’ tesking
+
+saflon fom or renewal ft
+
+Ship Radi
+
+The first three digits-of a ship's MMSI are known as the Mantime Identification Digits (MID), and
+indicate the country which issued it,
+
+is have MMBIs whieh beain with (ha numbers 232) 233:
+
+04
+
+Coast radio stations also have nine-digit MMSIs, but to distinguish them from ships and
+boats, their MMSis always begin with two zeros. This is followed by the three-digit MID, then by
+four mare cigits
+
+eg Milford Haven Coastquard 002320017
+
+DSC canalso hancie group calls, to a group of vessels which share some common interest,
+such as all vessels betonging ta one company, or all the yachts taking part in a race. The Group
+MMS is allocated by Ofcom on request, and consists cf a singlé zero, followed by the MID,
+then by five mare cligits
+
+A DSC controller must have its MMSI stored in its memory before it can be used, Most Class
+D controllers allow individual owners to do this thernselves,.. but only once. If you make a
+mistake, or if you move the controller onto a boat with a different MMSI, the controller will have
+to be returned to its supplier to have its memory erased,
+
+Group MMSis, however, are different: these can be saved and deleted as often as you like,
+
+Types of call items 82.2 and B2.4
+
+The DSO code allows calls to be classified into six different types:
+Distress
+All ships
+Inclividual —.a call to.a specific vessel or coast station
+Géoqaoe area — to all stations within a cesigneted area: (not on cass DO) oortralers)
+Group call — to all stations sharing a “common interest” and with the sare Group MMSI
+
+Aufomaic or sarm-anuiometio = 2 Cal throvgn-a coast rack station to a pudle folephone
+
+System) (nat on aaas 0 ecovirvlers)
+These tell the DSC controller at the reeaiving end what wall be in the rest of the DSC message,
+
+and how it should react: it may sound an audible alarm for an incaming distress message, for
+instance, thal is quite different from the alarm sound associated with a routine ship-to-ship call,
+
+VHF Handbook 63
+
+===== page-064 =====
+d BSc F ~o dl pronty;
+
+— @QulVvaernt to
+
+The coder
+
+Distr
+gency — equivalent to Panpan” in.
+
+Routine
+
+In mast cases, the
+
+controller. It is prett
+
+DSC controller
+A DSC contre
+alert
+
+and position
+
+siler naeds to “know? the boat's position, ifonly so that it can include it in a
+
+Il then send pesition
+
+it must be interfaced (connected) to a GPS receiver, which
+
+To de this
+and time updates to the DSC controller about once every second oF
+
+Asa back-up, the position and time can be keyed in manually:
+r
+
+Using a Class D controller
+
+There is no standard layout for the contral
+panel of a Clas DSC controller, although
+there are certain similaritias between the
+
+a!
+
+different makes and mod
+
+Distress” button,
+vent
+
+they all feature a praminent
+prot
+accidental oper:
+
+scted by a cover to pr
+
+Talphanumeric keypad, similar to
+phone
+
+mast ha
+that ofam
+
+
+===== page-065 =====
+aC) 5 ol
+
+Other controls-are used for selecting Items fram a "menu" of functions: these
+may include: -
+
+dedicated, one-job buttons
+
+up, down, “clear”, and “enter” keys
+
+‘sott” keys, whase purpose changes depending on the task in hand, but whose current
+label always appears on the screen,
+
+Sending a DSC call
+
+There are corresponding differences and similarities in the sequence of onarations required to
+compose a DSG message. A typical sequence |s something like this:-
+
+. Press Call to show the DSG menu on the sorean
+2, Select the type af call from the options available (Individual; Group: All ships; Distress)
+« Press <Enter> to confirm your selection, and reveal the next menu
+3, For an individual call, sither:-
+select "Manual eniny” and type ih the other station's MMSI number
+or
+select the name of the station you want to contact fram the “phone book" stored In the
+unit's memory
+® Press <Emter> to confirm your selection, and reveal the next menu
+4. Select a working channel
+* Press <Enter> lo canfirm your selection, and reveal the next menu
+
+5 Press <Call> and <Enter> together to transmit the DSC call.
+
+mi FP AIreSs.
+
+| fells the Geritrollert
+
+Receiving a DSC individual call
+
+When a OSC controller recognises its own MMSt in an incoming DSC call, it squnds an alarrn,
+similar to the ringtone of a telephone.
+
+To answer it, on most Controllers, is a simple matter of pressing a single key. On the Icom
+DS 100, for instance, it is the “enter” key: on the Simrad AT1400, it is. ane of four “seit” keys
+indicated by an on-screen label representing a telephone handset.
+
+This prompts the DSC controller to transmit an acknowledgement and, at the same time, to
+switch its own radio to the working channel that was suggested,
+
+VHF Handbook (65
+
+===== page-066 =====
+)
+]
+
+Receiving a DSC group call
+A DSC controller that has been programmed with @ Group MMS! will respand to calls
+addressed to the Group MMS as well as to individual calls acicressed to its owr MMSI.
+
+The-alarm sound may be different, but a more significant paint is that “acknowledging” a Group
+call will only mute the alarm and switch your receiver te the specified working channel: It will not
+send an acknowledgement to the calling vessel,
+
+Using a Class A or B controller | Syllabus item B2.6. |
+
+Ifan SRC operator finds himself using a Class A or 8 contrailer, it is important to bear in mind
+that the equipment is capable of carrying out some operations that have been deliberately
+removed fram the options available on a Class D controler,
+
+In particular, you should NOT:-
+
+Use DSC to relay distress messages (use the Mayday Relay procedure on page 51
+instead)
+
+Use DSC to acknowledge distress messages (use voice procedure on page 49 instead)
+
+No two makes or models are identical...
+... $0 read the manual
+
+66 VHF Handbook
+
+
+===== page-067 =====
+DSC Distress, Urgency & Safety ia
+
+Definition of distress
+
+The definition of distress, for DSC purposes, is exactly the sare as its definition for voice
+procedure:
+
+The Distress alert Syllatius (bern C21
+
+A vital feature of every DSC controler is the distress Dutton which,
+when oressed, prompts. the equipment to compose a cistrass alert,
+including the vessel's MMSI and its Gurrent position, The alert is then
+passed to the radio to be transmitted — like all DSC messages — on
+Channel 7d.
+
+Unlike an individual DSC call (see page 65), a DSC distress alert is
+automatically addressed to “ail stations”, so it tinggers an alarm on
+every DSC controller within range.
+
+Such a highly automated system makes it easy fo send distress alerts,
+
+bul it also has the potential for generating huge numbers of false alerts, either by mistake or
+
+by malice. There isn't much that can be done about hoax calls, but to minimise accidental
+false alarms, the rules say that the Distress button must be protected by a cover, ancl must not
+trigger a distress alert unless it is held down for several seconds — usually five seconds.
+
+Unless the situation i¢ so desperate that every second counts, itis well worth refining the basic
+Distress alert to give an indication of the nature of distress,
+
+As with a routine call, the sequence of operations for achieving this varies between diferent
+makes and mocdals: it may, for instance, be achieved through the "Call" menu, or through a
+special menu which reveals itself when the Distress button is pressed and released,
+
+In ether case, you willbe presented with a number of options, from which you selec! the mast
+appropriate:
+
+Undesignated Grounding
+(the default optian, Listing (or in danger af capsizing)
+included in the basic Sink
+distress alert) ied
+F , Disabled and acintt
+Fire or explosion
+A teh
+Flooding sms m”
+Collision iia
+Mati overboard
+
+VHF Handbook 67
+
+===== page-068 =====
+68
+
+You may have to press the <Enter> key to cantirm your selection, but in any cage you will have
+to press and hold the Distress button for several seconds in order ta send the Distress Alert,
+
+» Read the manual
+
+* Practise composing distress alerts
+
+but
+
+© Never send a distress alert unless you are really in distress
+
+After sending a Distress alert | Syllabusiten G21
+
+The whdle point of GMDSS is that vessels at Sea no longer have to refy on luck for their distress
+alert to be heard: assurning they have the right equipment for their area of operations, therews a
+very.gaod chance that their distress alert will be received by ihe Search and Rescue authorities
+ashore.
+
+* Incase itis not, however, all DSC controliers.are pragrammed to automatically repeat the
+distress alert at random intervals of approximately faur minutes until it is either
+acknowledged or switched off.
+
+A DSC Distress alert does not contain’as much information as a Mayday call by voice, nor can
+it be recgived by vessels without DSC — some of wham might be very well placed to assist.
+
+4 DSC alert should always be immediately followed by a Mayday calland
+message, transmitted by voioe on Channel 16 (see page 44), with the MMI
+number included! as par of ihe vessel's identity:
+
+Receiving a distress alert | Syllabus ten G21
+In many respects, a DSC Distress alert is very much like. a Mayday message sent by voice, in
+
+that anyone receiving it ig obliged to accant it, and to offer assistance if they can, Just like a
+Mayday message, however, that principle needs to be diluted with. commen sense:-
+
+if 1S eet thal @ Coast racio station (such as the teasiquard) will have recei
+the massage, allow then up to five minutes ta raspand before doing so yourself
+
+iPvoU are notin a posite to offer elective assisiance, do not respec
+
+1 you are able te assist, and have not heard anything fron the coastguard within
+aijew minutes (ho more thar fivel, acknowledge the alert by vais an Channel 16,
+using the pracedure on page 48
+
+you should attempt 10 relay the.clistrass massage toa Coast! Staion using any
+avalable means (sea page 51)
+
+VHF Handbook
+
+===== page-069 =====
+ing a DSC distress
+
+alert by OSG automatically prevents further repetitions, so
+
+* Glass D DSt
+
+antrollers cannot acknowlecige or relay a DS
+; should not be used to acknowledge or relay. a DSC Distress
+fuctions from the Search and Rescue ¢
+
+C Dist
+
+S alert
+
+* Class AorB DSC c
+ale
+
+if except on specific inst authorities:
+
+Accidental False Alert procedure Syllabus items 03.1, 00.6
+
+a tal
+
+Ifyou are unlucky enough to find t
+
+false dist
+
+you have sormehow managed to transeiitan accident
+
+, the first thing te do is not to repeat it!
+
+SC controller off (usually by switching the radio off)
+
+itch the B esi
+First, swite qutomatic retransmission.
+
+in order to prevent
+
+Then switch the radie back on
+
+select Channel 16 and high
+and send an “all stations” message
+
+cancelling the distress alert:-
+
+
+===== page-070 =====
+Urgency and Safety Syllabus len 2.2
+
+DSC can also be used in situations which do nol warrant a full-blown distress alert, to draw
+attention to Panpan or Securitay messages.
+
+A DSC urgency call is equivalent to the praword Panpar: it means “| have a very urgent
+message to transmit conceming the satety of a mobile unit or persan”.
+
+4 DSC safety call is equivalent to the praword Securitay: it means “| have an important
+navigational or meteorological warning to transmit”.
+
+no mforrnalien
+al hal
+
+Sending an urgency or safety call
+
+There are no dedicated “urgency” or “salety" buttons on a DSC contraller, so the procedure for
+sending an urgency or safety call is, in some respects, more like that raquired to send a routine
+call, Just as for a routine call, the exact sequence of buttons to press varies from make to
+make and model to model, but a typical sequence is something like this;
+
+1. Press <Gall> to show the DSC menu on the screen
+
+3. Select “All ships" from the list of available call types (Individual; Group; All shins; Distress}
+* Prass <Enter> to contirm your selection, and reveal the next menu
+
+3. Select “Urgency” or “Safety”
+* Press <Enter> to confirm your selection, and reveal the next manu
+
+. Select a working charinel (usually Ghannel 16)
+5. Press <Call> and <Enter> together to transmit the OSC call
+6, Follow up with a voice call and message using the Panpan or Securilay procedure (see
+pages 52-54)
+
+This is included as an example only, but Is based on the procedure for the Class D leom DS100
+DSC controller, Other makes.and models are different:-
+
+On the Ciass D Simrad DSC 1400, for instance, the call types offered are Routine, Safety,
+Urgency and Group. Having selected Urgency or Group, there are no more options:
+pressing the <Enter> key immediately sends the call to all ships with Channel 16 as the
+working channel,
+
+70 | VHF Handbook
+
+===== page-071 =====
+Class Aor B controllers offer the option of addressing urgéacy or safely calls to individual
+ships or Coast radio stations. This feature is deliberately not made available on Class D
+controllers, ta kKeap them as easy to use as possible.
+
+id the manual!
+
+Nin two MAKES Or Mme Ire Identical se
+
+Receiving a OSC urgency or safety call
+
+“Acknowledging” an urgency or safety call that was-sent to all ships will mute the alarm. and
+switch your receiver to the specified working channel: it will not send an acknowledgement to
+the calling vessel,
+
+DSC Distress Relay
+
+One of the prablems of DSC is that it ls so highly automated that sending distress messages
+has become almost too easy: Il is now possible to send a distress alert without meaning to.
+
+To prevent these accidental cistress alerts being multiplied by well-meaning radia operators
+relaying them, Class D controllers are incapable of relaying DSO distress alerts, and operators
+of Class 4 or B controliers are not allowed to use their DSC Mayday Relay facility except under
+exceptional circumstances.
+
+T inal has
+
+and inferrn tive t
+
+This does not, however, prevent you from relaying a Mayday message that was received by
+voice. f you have not heard an acknowledgement to a voice Mayday within’a minute or so,
+and there. is no radio traffic suggesting that she is in contact with potential rescuers, you should
+
+send a. DSC Urgency alert, immediately followed by a Mayday Relay massage using the voire
+procedure on page 51,
+
+Mayday relay may also be used if you see another vessel in distress and do not believe that thay
+aré capable of sanding a Mayday, and you believe further assistarice is required,
+
+Remember: the call rust be a Mayday Retay call as itis not your vessel thal is in distress.
+
+VHF Handbook 71
+
+===== page-072 =====
+ME Appendix 1: Examination Syllabus for the
+CEPT Short Range Certificate (SRC)
+
+72
+
+A. General Knowledge of VHF Racicteleshane communications in the
+Maritime Mobile Service
+
+A‘. The general principles and basic features of the maritime mobile service relevant
+to vessels not subject to a compulsory fit under the SOLAS Convention
+
+14 Types. of communication in the mariticva mobile service
+
+Distress, urgency and safety communications
+Public correspondence
+
+Port operations service
+
+Ship movernent service
+
+Intershig communication
+
+On board communications
+
+1.2 Types of station in the maritima mobile sernice
+
+Ship stations
+
+Coast stations
+
+Pilot stations, port stations etc.
+Aircraft stations
+
+Rescue Coordination Gentre (ROC)
+
+1.3 Elementary knowledge of radio frequencies and channels appropriate to the WHF
+mantinve mobile band
+
+The concept of frequency
+
+Propagation on VHF frequencies.
+
+Range for voice communications
+
+Range for DSC transmissions
+
+The usage of WHF frequencies in the maritime mobile service
+The concept of radio channel: simplex, semi-duplex and duplex
+Channel plan for VIF, including allocations for tha GMDSS
+Distress and safety channels
+
+National channels for small cratt safety
+
+Intership communications
+
+Port operations
+
+Ship movement
+
+Calling channels
+
+Puble correspondence channels
+
+14 Functionality of ship station equipment
+
+VHF Handbook
+
+Sources of anergy of ship stations
+
+Batteries
+
+Differant kinds of batteries and their characteristics
+Charging
+
+Maintenance of batteries
+
+
+===== page-073 =====
+8, Detailed working knowledge of radia equipment
+
+Bt. The VHF radio installation
+
+Te, Radictelepnone channels
+Charine selection and controls
+Dual watch facilities and controls
+
+1.2 Basic controls and usage, 8.9.
+Connecting the power
+Press to transmit switch
+High/low outpul power switch
+Volume control
+Squelch contral
+Dimmer
+
+1.9 Portable two-way VHF radiotelephone apparatus
+
+14 Mantime VHF antennas
+
+82. Purpose and use of Digital Selective Calling (DSC) facilities
+
+94 The general principles and basic features of DSC
+DSC messages
+BSG attermpl
+Call acknowledgement
+Call relay
+
+na
+na
+
+Types of call
+Distress call
+All ships call
+Call to individual station
+Geographic area call
+Group call
+
+2 The Mantime Mabie Service Idantity (MMSI) number system
+The nationality identification: Maritime Identification Digits (MID)
+Ship station numbers
+Coast station numbers
+
+24 Gall categorisation and prianty
+Distress
+Urgency
+Safety
+Ship business
+Routine
+
+VHF Handbook 73
+
+
+===== page-074 =====
+ene) Call teleconimand and. trafic information
+Distress alerts
+Other calls
+Working channel information
+
+2.6 VHF BSC facilities and usage
+The Channel 70 instant alert selector
+DSC data entry and display
+Updating vessel position
+Entering preset message
+Entering traffic: information
+Reviewing received messages
+DSC watchkeeping functions and controls
+
+G, Operational procedures of the GMDSS and detaded practical operation of
+GMDSS subsystems and equipment.
+
+C1, Search and Rescue (SAR) Procedures in the GMDSS
+tt Sea Areas and access to GMDSS facilities
+1.2 The role of ROGs
+1.3 ‘Organisation of Search and Rescue
+C2, Distress, urgency and safety communication procedures in the GMDSS
+
+21 Distress communications via VHF OSC equipment
+DSC distress alert
+The definition of a distress alert
+Transmission of a distress alert
+Transmission of a shore-to-ship distress alert relay
+Transmission of a distrass alert by a station not itselt in distress
+Receipt and acknowledgement of VHF DSC distress alert
+Acknowledgement procedure
+Receipt and acknowledgement by a coast station
+Receipt and acknowledgement by a ship station
+Handling of distress alerts.
+Preparations for handling of distress traffic
+Distress traffic terminciogy
+On-scene communications
+SAR operation
+
+74 VHF Handbook
+
+
+===== page-075 =====
+a
+
+Urgency and Sately canirnunications via DSC equipment
+The meaning of urgency and safety communications
+Procedures for DSC urgency and safety calls
+Ungency communications
+Safety communications
+
+C3. Protection of distress frequencies
+
+31
+
+aa
+
+3.6
+
+Avoiding harmful interference
+Avoidance of the transmission af faise alerts
+Status of Channel 70
+Transmissions during distress traffic
+Prevention of unauthorised transmissians
+Tes! protocels and procedures
+Testing DSC equipment
+Radiotelephone test procedures
+
+Avoidance of transmissions in VHF guard bands
+
+Procedures to follow wher a faise distress alert is transmitted
+
+C4. Maritime Safety Information (MSI)
+
+4.1
+
+The NAVTEX system
+purpase and capabilities, including distress and safety functions
+
+C4. Alerting and Locating Signals
+
+5
+
+5.2
+
+Purpose and definition
+
+Emergency Position Indicating Radio Beacons (EFIRBSs)
+Registration and cading
+Operation, including automatic and manual activation
+GOSPAS/SARSAT 406 MHz EPIRB
+Inmarsat-E 1.6 GHz EPIRB
+VHF-DSC EPIRB
+121.5 MHz homing function
+Mounting considerations
+Routine maintenance
+Testing
+Checking battery expiry date
+Checking the floal-free mechanism
+
+VHF Handbook | 75
+
+===== page-076 =====
+5.3 Search and Rescue Radar Transponder (SAAT)
+Operation
+Operating height
+Effect of racar reflector
+Range of a SAAT transmitter
+
+D. Operational Procedures and regulations for VHF Raciotelephone
+communications
+
+D1. Ability to exchange communications relevant to the safety of life at sea
+
+1 Distrass communications
+Distress signal
+The correct use and meaning of the signal MAYDAY
+Distress call
+Distress message
+Acknowledgement of 4 distress message
+Obligation te acknowledge a distress message
+Correct form of acknowledgement
+Action to be taken following acknowledgement
+The cantral of distress. tratfic
+The comect use and meanings of the signals:
+SEELONGE MAYDAY
+SEELONGE FEENEE
+Transmission of a distress message by a station not itself in distress
+The correct use and meaning of the signal MAYDAY RELAY
+
+12 Urgency communications
+Urgeney signal
+The correct use and meaning-at the signal PAN-PAN
+Urgency message
+Obtaining ungent medical acvice through a Coast Station
+
+1.3 Satety communications
+Safety signal
+The covrect use and meaning of the signal SECURITE
+Safety message
+Special procedures for communication with appropriate national
+organisations on matters affacting satety
+
+1.4 Reception of MS! by VHF radiotelapheny
+
+76 VHF Handbook
+
+===== page-077 =====
+1.4 Awareness of the existence and use of the IMO Standard Marine Navigational
+Vocabulary
+Knowledge of the follawing basic signals:-
+ALL AFTER; ALL BEFORE; CORRECT, CORRECTION;
+IN FIGURES: IN LETTERS; | SAY AGAIN; | SPELL
+OUT, OVER; RADIO GHEGK; READ BACK: REGEIWED;
+SAY AGAIN; STATION CALLING; TEXT; TRAFFIC; THIS |S, WAIT,
+WORD AFTER; WORD BEFORE: WRONG
+
+1.6 Use of international phonetic alphabet
+D2. Regulations, obligatory procedures and practices
+24 Awareness of international documentation and availability of national publications
+
+2.2 Knowledge of the international regulations anc agreaments governing the
+maritime mobile Service
+Requirament for Ship Station Licence
+Regulations conearning control of the operation of radio equipment by the
+heider of an appropriate certificate of competence
+National regulations concerning the radio record keeping
+Preservation of the secrecy of correspondence
+Types of call and types of message which are prohibited
+
+03, Practical and theoretical knowledge of radiotelephone procedures
+
+a Public comespondence and racictelephone call procedures
+Method of calling a Coast Station by raciotelephany
+Ordering tora manually switched link call
+Ending the call
+Calls to ships from Coast Stations
+Special facilities of calls
+Method of calling a coast station by DSC for ganeral Communications
+Selecting an automatic radiotelephone call
+
+he Traffic. charges
+International charging system
+Accounting Authority Identification Code (AAIC)
+
+oi Practical trafic routines
+Correct use of callsigns
+Procedure for estabtishing communication an intership, public
+correspondence, small craft salety and port operation and ship
+movernent channels
+Procedure for unanswered calls and garbled calls
+Control of communicatians
+
+VHF Handbook if
+
+===== page-078 =====
+MEE Appendix 2: Standard Marine
+
+78
+
+Navigational Vocabulary
+
+1 Procedure/message markers
+
+When it is necessary to indicate that phrases in this vocabulary are to be used, the follawing
+messages may be sant:
+
+“Please use the Standard Marine Navigational Vocabulary,”
+“Lwill use the Standard Marine Navigational Vocabulary.”
+
+if necessary, external communication messages may be precaded by the following
+massage markers:
+QUESTION indicates that the following message is of interrogative character
+ANSWER indicates that the following message is the reply to a previous
+Question
+REQUEST indicates that the contents of the fallowing message are asking for
+action frorm others with respect to the ship
+INFORMATION indicates that the following message is restricted to observed facts
+INTENTION indicates that the following message infarms others about
+immediate navigational actions intended to be taken
+
+WARNING inchoates that the following message informs other traffic
+participants about dangers
+
+ADVICE indicates that the following message implies the intention of the
+sender to influence the recipiant(s} by a recommendation
+
+INSTRUCTION indicates that the following message implies the intention of the
+sender to influence the recipent(s) by a requiation.
+
+2 Standard verbs
+
+Where possible, sentences should be introduced by one of the following verb forms:
+
+IMPERATIVE: Always to INDICATIVE NEGATIVE INTERROGATIVE
+be used when mandatory
+orders.are being given
+You must | require {do not require Do | require?
+Do not lam / You are fam not / You are not Amt?! Are you?
+Must 1? | have Ido not have Dio you have?
+|ean | cannot Can |?
+| wish to | do nat wish Can you?
+twill | will not Do you wish to?
+You may You need not May |?
+Advise Achise not is there?
+Thare is There ig not Where is/are?
+When is/are?
+
+VHF Handbook
+
+
+===== page-079 =====
+3 Responses
+Where the answer 10a question is in the affirmative, say:
+
+“yes...” — followed by the appropriate phrase in full,
+Where the answer to a question is in the negative, say:
+“no...” — followed by the appropriate phrase in full,
+Where the information is not immediately available but scon will be, say:
+“Stand by".
+
+Where the information cannot be obtained, say:
+
+“No information’.
+
+Where a message is not properly heard, say:
+
+“Say again",
+
+Where a message is not understood, say:
+
+“Message not understood”,
+
+4 Distress/urgency/safety messages
+MAYDAY' (repeated three times} is to be used to announce a distrass message
+
+PAN PAN (repeated three times] is to ba used to announce an urgency message
+SEGURITE (repeated three times) |S to be used to announce a safety message
+
+5 Miscellaneous phrases
+
+What is your name (and call sign)?
+How do you read me?
+read you...
+bad'1
+poor?
+fair/3
+goods4
+excellant/S
+
+with signal strangth ...
+\/barely perceptible
+2/wealk
+S/fairly good
+4/good
+S/very good
+
+VHF Handbook 79
+
+===== page-080 =====
+Stand by on channel, ,
+
+Change to channel, ..
+
+| cannot react you.
+
+leannot understand you.
+
+Please use the...
+Standard Marine Navigational Vocabulary
+International Code of Signals
+
+lar passing a message for vessel...
+
+Correction... .
+
+lam ready to receive your message.
+
+lam not ready to recetve your message.
+
+| do not have channel... Please use channel...
+
+6 Repetition
+ltany parts af the message are considered sutficiently Important to neéd safeguarding, use the
+word “repeat”,
+
+Examptes: “You will load 163 repeat 163 tons bunkers.”
+
+“Do nat rapeat pot overtake,”
+
+7 Position
+
+When latitude and longitude are used, these shall be expressed in degrees arid minutes (and
+decimals of a minute if necessary), north or south of the Equator and east or west of Greenwich,
+
+When the position is related to a mark, tha mark shall ba a well-defined charted object. The
+bearing shall be in the 860 degree nelation from true north and.shall be thatof ihe position
+FROM the mark,
+
+Examples: “There are salvage operations in position 15 degrees 34 minutes north G1
+degrees 29 minutes west.”
+
+“Your position is 137 degrees from Barr Head fighthouse distance two decimal four
+mies."
+
+8 Courses
+
+Always to be expressed in 360 degree notation from north (true north unless
+otherwise stated), Whether this is ta TO or FROM a mark can be stated,
+
+80 | VHF Handbook
+
+===== page-081 =====
+9 Bearings
+
+The bearing of the mark or vessel concerned, is the bearing in the 360 degree notation from
+north (true perth unless otherwise statec), except in the case of relative bearings. Bearings may
+be either FROM the mark or FROM the vessel,
+
+Examples: “The pilot boat is bearing 215° from you.”
+
+“Your bearing 's 127° fram ihe signal station.”
+Note: Vessels reporting their position should always quote their beanng FROM
+the mark, as-described in paragraph 7.
+
+Relahve bearings
+Relative bearings can be expressed in degrees relative to the vessel's head or bow. More
+frequently this is In relation ta the part or starboard bow,
+
+Example: “The buoy is 030" on your port bow,"
+Relate DAF bearings are more commonly expressed in the 360 degree notation,
+
+10 Distances
+
+Preferably to be expressed in nautical miles or cables (tenths of a mila) otherwise in kilometres
+or metres, the unit always to be stated
+
+11 Speed
+
+To be expressed in knots!
+
+(a) without further notation meaning speed through the water; or
+(b) “ground speed” meaning speed over the ground.
+
+12 Numbers
+
+Numbers are to be spoken: “Onetive-zera” tor 150.
+“Two point five" for 2.5.
+
+13 Geographical names
+
+Place names used should be those on the chart or Sailing Directions in use, Should these not
+be understood, latitude and longitude should be given,
+
+14 Time
+
+Times shouid be expressed in the 24 hour notation indicating whether UTC, zone time or local
+shore time is being used.
+
+Note: In cases not covered by the above phraseclagy normal radiotelephone
+practice will prevail.
+
+VHF Handbook 51
+
+===== page-082 =====
+ME Channel Selection Chart
+
+beshgntors
+
+60
+OF
+
+al
+b2
+
+fia
+03
+
+fa
+Oa
+
+ti
+O05
+
+65
+OG
+
+86
+a
+
+a7
+08
+
+68
+fg
+
+6a
+i
+
+70
+an}
+
+7
+12
+
+Fics
+13
+
+7d
+14
+
+|
+m4
+
+Transmitting
+frequencies (MHz)
+Ship Coast
+
+stations stations
+156.025 160.625
+156.0150 180.650
+156.075 160.675
+156.100 160.700
+156.125 180.725
+456,180 16O.750
+156.175 160.775
+156.200 TBO0.800
+156.225 160.825
+156.250) BO.B5D
+156.275 Th0.875
+166.300
+
+156.325 160.925
+156.350 160.950
+156.375 156.375
+756.400
+
+166.425 158.425
+756,450 156,450
+196.475 THATS
+166.500 156.500
+166.525. 186.525
+156,550 156.550
+186.475 156.575
+158.600 156.600
+158,425.
+
+156.650) 156.650
+156.675 156.675
+156.700 156,700
+158.725 156.725
+
+82. WHF Handbook
+
+Inter-
+ship
+
+Port operations
+Single Two Public
+frequency frequency Corresp
+vw v
+a a
+wf v
+vw “
+¥ ri
+wf Fa
+v v
+a “
+v <
+a v
+ca <
+a
+vf HMGG SAR
+“
+<
+v
+v Of Pottution
+Digital selective calling for distress,
+safety and calling
+v
+ra HMICG SAR
+¥
+vw
+
+
+===== page-083 =====
+Witt Port operations |
+Hz}
+
+frequencies (
+
+Channel | Ship Coast Inter Single Two Public |
+| Designators stations stations ship frequency frequency Coresp.
+145 | 456.750 670 | fsbo boar coms |
+
+Fa 156.775 |
+16 156.800 156.800 CISTAESS, SAFETY AND CALLING
+76 156.825 Fa
+7 156,850 156.850 ¥ ¥ Also on-board coms
+77 156.875 Pa
+18 156.900 161.500 Fg Fd Fg
+78 156.925 161.525 “ v
+| 49 158.950 161.550 ¥ 2
+79 156.975 161.575 Pa Fed
+20 157.000 181.600 if Fa
+BO 157.025 167.825 Algo Marinas eft: LIK oly é af
+4) 157.050 161.650 Fa Ca
+8 157.075 181.675 ¥ ¥
+| 22 157.100 181,700 Fa ¢
+82 187,125 161.725 ¥ ¥ ¥
+23 157.150 161,780 HMCG SARIMSI
+Bd 187.175 161.775 7 Fd Fa
+24 157.200 161.800 Fa v
+Ba 157,225 161.825 vw HMOG SARIMSI
+25 157.250 181.850 Fg Fa
+BE 157.275 161.075 Fa Fa ¥
+28 157.300 161.900 ¢
+86 157.325 161.925 Pa HMIOG SARIMS|
+27 157,350 161.950 Fa ¥
+a7 157.476 é
+2H 157.400 162.000 i? y |
+8H 167.425 3
+AIS 1 161.976 161.975
+
+AIG 2 162.025 16225
+
+VHF Handbook | 83
+
+===== page-084 =====
+WE GINVIDSS Sea Areas
+
+| 4
+pants
+100 0 100
+
+200
+———— SS |
+Scale: Nautical Miles
+
+
+===== page-085 =====
+Medium Frequency (MF,
+High Frequency [HF] and
+Very High Frequency [VHF]
+Coast Radio Statian
+
+© Medium Frequency (MF) and
+Very High Frequency [VHF}
+Coxst Radio Station
+
+® Very High Frequency (VHF)
+Cosst Ratio Stavon
+
+The radiotelephone coverage ot VHF coast
+stabons in which Gontnwaus alerting by
+Digital Selective Calling (OSC) is available
+
+Sea Area Ae
+
+The rackotelephone coverage of MF coast
+Statons. in which corlinugus mertiing by
+Digtal Selective Calling available
+
+Sea Area AS
+The coverage. of Inmarsat geostationary
+satellites
+
+The stabion icemtiby Intber allows the NAVTEX recenver to be
+programmed to print out messages only for the desired serwee area
+
+(. Intarnatonal Sernce on 51 BkHr
+Uo National Service on 490KHz
+
+VHF Handbook 85
+
+
+===== page-086 =====
+__iigteley
+
+aerials see antennas conformity, declaration of 18
+alphabet, phonetic 42 controls 21-23
+AM (Amplitude Modulation) 1
+antennas 17 declaration ot cantormity 16
+“feeder” cable 13 Digital Selective Calling see BSC
+gain 4219 dimmer control 24
+length 11 distress, dafinition: of 43-44, 67
+range 10 distress (Mayrlay) cals 43-61, 68
+Authority to Operate 18 acknowledging 4g
+authority to make ag
+batteries 13-14 the call 44,45
+Maytlay Relay 51
+calisigns 16 tha message 45-46
+Channel 0 28, 29 position, specifying ar
+Channal 12: 23, 25 racefving 46
+Channel 13: 23,29 silence (seelonca}, need for 50
+Ghannal 16: 23, 26-29, 91, 34, 44, 54.68 distress calls, DSC 64, 67-69
+Channel 70: 29, 61, 67 accidental false alert procedure Ba
+Channel 80: 27.28, 29 Mayday Relay ral
+Channel M/M2 28, 29 receiving alert 68-69
+channal selector 22-23 sending alert 67-68
+channels, WHF 25-20 after BB
+Amarican 26 doppller positioning 457,56
+duplex 26-27 = Dover Port Gontral 33
+international 27-28 © DSC (Digital Selective Calling) a
+monitoring 23 calls
+numbers 25, 82-83 raceming 65
+principle of 25 routine 61-6
+pevate 27-26 sanding 65
+“seme-duplex” operation ar tyoes of 63-84
+significant 29 calls, group 6a
+ee aiso Channel entries recelNving 665
+sariplex 26 Channel 70: 29, 61, 87
+coast radio stations 6 controllers 61-62
+calling 93-34 classes of 2
+MMSis 65 and position 64,
+Coast Station Licences: VW ueing Class Aor B 66
+Coastguard, calling 34-35, 53 using Class D 64-65
+866 also Maritime and Coastguard Agency digtal message 61
+
+86 WHF Handbook
+
+===== page-087 =====
+distress Galls see distrass calls, DSC
+
+MMESIs. 62-63
+
+salaty calls 64, 771
+
+receiving Ti
+
+sending fO-7 1
+
+urgency Calls 64, 70-71
+
+receiving ral
+
+sending FO-71
+
+dual watch facility 29
+
+elactric field &
+EPIREs (Ermergency Position Indicating
+
+Ratio Beacons| 57, 58-59
+
+categories 5B-5o
+
+false alarms fat
+
+maintenance 5a
+
+registration 5o
+
+stowage 5o
+
+examination Syllabus tor CEPT Shon Range
+
+Certificate {SRC} 72-77
+FM (Frequency Moctulation) 1
+frequences, different, characteristics of 10
+frequency a
+Frequency Mockdation (FM) "
+
+GMODS5 (Global Maritime Distress anc Satety
+
+Systeml see-alse DSC 55-60
+areas covered by equipment 55
+backgrauind 55
+ERIRBs see EPIABs
+Mavlex 5G
+princanles 55
+SARTS Bo
+satellites 67-58
+sub-systems Involved in 55
+
+guard band 28-29
+
+Herz, Heanrich &
+
+Index Hil
+
+high trequencies 9
+Intemational Mantime Orgermsation (IMO) 15, 55.
+International Telecemmunication
+Union (TL 15, 25, 48
+Liceres, Coast Station Ww
+Licences, Shap Racko 16
+licensing 1518
+link calls 6,47
+Accounting procedures a7-38
+Operating procechinss 38-40
+shore to ships 40
+magnatic field 6
+Marine Equipment Directive (MED) 18
+
+Maritime and Coastguard Agency (MOGA) 15
+see also Coastguard, calling
+
+Maritime Identification Degits (MID) 63
+Maritime MvMobie Servece identities (MMSIs) 16, 62-534
+
+Mayday calls see distress calle
+
+Mayclay Relay B17
+MOGA see Coastguard, calling; Maritime
+
+and Goastguand Agency
+
+MED (Maring Equipment Directive} 19
+mecical acwice 53
+medium frequencies, g
+message, types of &
+MID (Maritime identification Digits) 6a
+MMSis (Maritime Mobile Service Identities) 16, 62-63
+rredulation 10-14
+Navtex (Navigation Talateaxt) 56
+
+Ofcom (Gfice of Communications} 15, 16, 17, 63
+
+operating marine VHF radio 21-24
+Panpan calls Be
+phonetic alphabet 42
+
+VHF Handbook
+
+87
+
+
+===== page-088 =====
+MM (i diex
+
+position, specifying 47
+power on/oif Switch 2
+Pressel (PTT) switch 2g, 27
+porcwords (procedure wards) 40-41
+
+968 also vocabulary, standard marine navigational
+
+FTT (Press-To- Talk) switch 2a, 37
+tadio, tow it works: B14
+radio checks 36
+Radio Equipment Directive (RED) 18
+racho equipment, types of ri
+radio lag 19
+Radio Regulations 15, 19, 44. 48
+fules ("tert cornmandmeants”) 20
+tadio stations. see coast radio stations
+radio type approval 1819
+radios, marine VHF, operating 21-24
+radios, setting up 24
+radios, typecal r
+mules and requiations 15-20
+reasons for 15
+safety (Secuntay} calls 54
+safety cals, DSC 64, 70-77
+reeling 7
+sending TOF
+Safety of Life at Sea (SOLAS) Gonwantian 15, 48
+SAATs (Search and Rescue Transponders) 60
+satelites 67-58
+scanner made 23
+Search and Rescue Transponders (SARTSI 60
+Secrecy 18
+Securitay igatety) calls 5d
+setting up the racia 24
+Ship Racko Ligases 16
+Short Range Certificate (SRC), CEPT,
+examination syllabus tor 72-77
+SOLAS (Safety of Lie at Saa) Convention 15, 48
+
+VHF Handbook
+
+squelch central
+
+SRG (Short Range Certificate), CEPT,
+examination syllabus for
+
+switching on
+
+transmitter power
+trwatch facility
+type approval
+
+HF (Uitra High Frequency)
+urgency calls
+urgency calls, SG
+recenving
+sending
+user, types of
+
+VHF (very High Frequericy)
+
+vocabulary, standard marine navigational 42,
+
+S50e aiso prowords
+
+yoine procedure
+distress calls see digress calle
+routine calls
+calling a coast staton
+calling the Coastguard
+calling another vessel
+garbled calls
+link calls sae link calls
+phonetic alphabet
+prowords.
+radio check
+unanswered Calis
+yorabulary, standard marine
+navigational
+safety calts
+urgency calls
+
+Volume contecl
+
+wavelangth
+World Radin Conference (WAG)
+
+fd,
+
+21
+
+T2F.
+24
+
+22
+
+18-18
+
+1G
+62-53
+40-71
+fal
+70-71
+
+10
+TE-GT
+
+ate42
+33-34
+54-35
+30-32
+56-37
+
+42
+40-44
+36
+a
+
+. PBB
+
+oa
+52-63
+24
+
+15
+
+
+===== page-089 =====
+amplitude
+
+broadcasting
+
+Dual Watch
+
+Amplitude Modulation: superimposing
+en audio signal onto a racka waved
+
+by varying the amplitude of the radic
+“cartier” wave
+
+the extent to which the vottage
+fluctuates in the electric felc that
+makes up 2 raco weve, analogous to
+the “height” of a weve in water.
+
+aerial
+loance for a parson-ta operate a WHF
+ractia
+
+Iransmitling a message without
+specifying who It is intended for
+
+simple numerical identification of TU
+standard frequencies
+
+cedificabon that radio conforms: te
+performance standards
+
+vessel, vehicle, aircraft or person in
+grave and imminent danger
+
+using an apparent change in the:
+frequency ofthe signal froma moving:
+object to calculate postion
+
+Digital Selects Caling
+
+facility fer radio to monitor Ghanne 16.
+and ances channel cancurerthy
+
+duplex channels two-way, two-irequancy operation
+
+EPIRE
+
+frequency
+
+gain
+
+guard band
+
+Imo
+
+Emergency Position Indicating Fiadic
+Beacon
+
+Frequency Modulation; superimposing
+a audio Sgnal-onto a racks wave by
+varying the frequency of the racic
+*camier”.
+
+Speed of voltage changes in radio
+waves transmitted, ins Harte
+
+the factor by whech.an anienna
+increases effective tattated power
+
+of received signal shrangth, compared
+with a Standard reference: cantina
+Global Marilime Distress anc Safety
+System
+
+restricted channels clasast to
+Channel 16
+
+inlerational Martins Organisation
+
+International Talecommunication
+Union
+
+Glossary
+
+link call call between ships & pubes
+telephones via coast readin stations
+Mayday distress call
+
+Mayday Relay = passing ona distress massage
+MCA orMCGA ‘Mantime and Goaviguard Agency
+
+MMSI Maritime Mobile Service Iderdtity
+numibear
+
+modulation superimposing a signal onto a racic
+
+"camer" wave
+
+MAAA Maritina Radio Accounting Authority
+
+MsI Maritine Satety Intormation
+
+Navtex. Navigation Teletext far weather
+forncasts and navigational warnings
+
+Ofeom Office of Gammunications
+
+Panpan urgency call requesting assistance:
+
+private channels for governments to allocate as they
+‘think fit
+
+prowords correct words to.uen as part of radio
+procedure
+
+PTT switch Sitch pressed to transmit
+(Press-Ta- Tak)
+
+safety calls calls relating to weather foncasts and
+nawigational wamings
+
+SAR Search And Rescue
+
+SART Search And Alescue Transponder
+
+scanner mode  factity for radio fo monitor a number
+of channels if quick susesakin
+
+Securitay Progeciure ware identifying a safety cell
+
+seeclonce radio slenos (French) requested
+
+during distress incidant
+simplex channel sing-frequency chanr!
+
+SOLAS Salety of Life at Sea ‘Gonvention
+
+squelch control regulating the sensitivity ofa
+recenver
+
+SAG Short Range Carlificate
+
+‘Tri Watch facility for radia to monitor Channel 16
+
+and two other channets
+
+urgency call call requesting assistance which does
+hat justify Mayriay call
+
+VHF Very High Frequency
+
+wavelength distanos between ranio waves
+
+VHF Handbook 86
+
+===== page-090 =====
+Shop online at
+www.rya.org.uk/shop
+
+* Secure online ordering
+* 15% discount for RYA members
+
+* Books, DVDs, navigation aids and
+lots more
+
+* Free delivery to a UK add
+
+
+===== page-091 =====
+=
+mm
+=
+Us,
+a
+=e
+Y)
+--
+a6
+
+Promoting and Protecting Boating
+WWw.rya.org.uk
+
+JOIN NOW
+
+z online at
+j ss . e< .rya.org.u
+. ee — if
+
+
+===== page-092 =====
+www.rya.org.uk/go/join
+
+LOVE YACHT CRUISING?
+
+Then why not join the association that supports you?
+Join the RYA today and benefit from
+
++ Representing your interests and defending your rights of navigation
+
+* Your International Certificate of Competence at no charge
+
+* World leading Yachtmaster™ scheme
+
+* Free sail numbers for Gold Members
+
+* Personal advice and information on a wide range of cruising topics
+
+* Legal advice on buying and selling a boat and other boating related matters
+
+* The latest news delivered to your door or inbox by RYA magazine and e-newsletters
+« Boat show privileges including an exclusive free RYA members’ lounge
+
+* Discounts on a wide range of products and services including boat insurance
+
+Get more from your boating; support the RYA
+
+Want to know more?
+Then call our friendly and helpful membership team on 02380 604 100 or email: member.services@rya.org.uk
+
+The RYA... be part of it www.rya.org.uk
+
+===== page-093 =====
+Notes
+
+
+===== page-094 =====
+
+===== page-095 =====
+
+===== page-096 =====
+
+===== page-097 =====
+Notes Hill
+
+VHF Handbook (97
+
+===== page-098 =====
+ME Notes
+
+96 98 VHF Handbook
+
+
+===== page-099 =====
+pal
+
+RYA Training Courses
+
+for all ages, abilities and aspirations
+
+Also, a whole range of
+navigation and specialist
+short courses:
+
+ESSENTIAL NAVIGATION
+AND SEAMANSHIP
+
+DAY SKIPPER
+
+COASTAL SKIPPER/
+YACHTMASTER®
+OFFSHORE
+YACHTMASTER® OCEAN
+DIESEL ENGINE
+OFFSHORE SAFETY
+
+VHF RADIO
+
++
+
+Sail cruising from the ys
+beginners’ Start Yachting
+
+VW
+
+RADAR
+SEA SURVIVAL
+FIRST AID
+
+VVWWVVV Vv
+
+call 00 44 (0)23 8060 4158 for a brochure or email
+
+For further information see www.rya.org.uk, Vv
+training@rya.org.uk
+
+
+===== page-100 =====
+Ask any group of students attending an SRC course why they want to learn to use a
+marine VHF radio, and the overwhelming majority are likely to reply “safety”. Probe a
+little deeper, and most of them will probably say that they want it mainly to be able to
+call for help.
+
+An addition to the best-selling RYA Handbook series, RYA VHF Handbook is essential
+background reading for anyone taking the VHF Operator's Short Range Certificate
+examination. The combination of easy to follow text, expert tips and beautiful colour
+illustrations ensure that this often daunting subject is made simple and enjoyable.
+
+The RYA is the UK goveming body representing sailing, windsurfing, motor boating,
+and personal watercraft, at sea and on inland waters. It works for the good of all who
+enjoy these activities, campaigning for their interests at local, regional, national,
+European, and world level.
+
+RYA training is recognised throughout the world and every year over 250,000
+recreational and professional sailors take AYA courses and exams.
+
+This book is one of over 100 published by the RYA. Some relate to specific training
+courses and are a valuable study and learning aid. Others provide technical, legal or
+general boating advice. All are expertly written, informative and authoritative.
+
+For information about the RYA’s
+training courses or publications, and
+the valuable benefits of being an R'YA
+member, please visit our website at
+Www. rya.org.uky
+
+AYA the FA bek Jogo ane AYA,
+VACHTMASTEN are registered trade
+
+marks of the Royad Yachting Assocition | |
+{regestered in the United Kingelorn ad
+selechod marbling territories).
+
+SRGP Not for Resale
+
+

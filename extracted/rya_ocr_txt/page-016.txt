@@ -1,0 +1,46 @@
+16
+
+Ship Radio Licences | Syllabus tem D212
+
+A Ship Radio Licence could be cornpared to a car's tax disc, in that it relates to the vessel
+
+or to the radio, rather than to an individual user, and it has to be reguiarly renewed, Until 30
+September 2006, comparisons with a tax disc were even more obvious: obtaining a licence
+involved paying an annual fae, in exchange for a circular licence disc which had to be displayed
+on beard.
+
+Under the new rules, Ship Raciio Licences are issued free by Ofcom through their website
+(wwweofcom.org.uik}, and will remain valid for up to ten years, so jong as the details of the
+yesse! and its owner don't change, If the boat is sold, the owner's address changes, or the
+radio equipment is changed, the licence will haye to be renewed. There is ne longer a “licence
+disc", but the licerice must be carried on board,
+
+Although the licence is free, itis still compulsary, and owners may be fined for having
+operational radio equipment on beard without an appropriate licence,
+
+A Ship Radio Licence covers all the radios Installed on a vessel, including 4 portable
+used in the vessel's tender.
+
+When a vessel is issued with a Ship Radio Licance for the first time, it is allocated a callsign,
+consisting of a group of four or five letters and numbers, and it may also be given a nine-digit
+MMS! number.
+
+Essentially, the callsign and MMS! number are both unique identifiers that will stay with the
+vessel until her radia licence is allowed! to lapse. So although there may be several boats
+called Golessal Overdrai?, there will only b& one that has the callsign MV¥OQ8 or the MIMS
+234014521.
+
+The clilference is that the MMSI is used in conjunction with Digital Selective Calling (DSC, sea
+pages 62-63), whereas the callsign is essential if you ever want to use the link call facility, anc
+useful if you want some authority such as the Coastquard to be able to identity you quickly and
+positively.
+
+The Ship Portable Radio Licence allows the licensee to have ‘available for use’ one WHF
+portable maritime radio and can also caver the use of one Personal Locator Beacon (PLB)
+and/or one Emergency Position Indicating Radio Beacon (EPIRB). The main difference with
+the Ship Portable Licence is that the licence is not issued for a vessel but to a person, with the
+intention that the portable. equipment listed may be used on rmultiple vessels, An international
+callsign is not issued, but a unique identification number called a ‘T’ number is prowided. MMS!
+numbers can be obtained for portable DSC VHF handsets used in UK waters only.
+
+VHF Handbook

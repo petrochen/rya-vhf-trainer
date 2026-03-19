@@ -1,0 +1,52 @@
+8, Detailed working knowledge of radia equipment
+
+Bt. The VHF radio installation
+
+Te, Radictelepnone channels
+Charine selection and controls
+Dual watch facilities and controls
+
+1.2 Basic controls and usage, 8.9.
+Connecting the power
+Press to transmit switch
+High/low outpul power switch
+Volume control
+Squelch contral
+Dimmer
+
+1.9 Portable two-way VHF radiotelephone apparatus
+
+14 Mantime VHF antennas
+
+82. Purpose and use of Digital Selective Calling (DSC) facilities
+
+94 The general principles and basic features of DSC
+DSC messages
+BSG attermpl
+Call acknowledgement
+Call relay
+
+na
+na
+
+Types of call
+Distress call
+All ships call
+Call to individual station
+Geographic area call
+Group call
+
+2 The Mantime Mabie Service Idantity (MMSI) number system
+The nationality identification: Maritime Identification Digits (MID)
+Ship station numbers
+Coast station numbers
+
+24 Gall categorisation and prianty
+Distress
+Urgency
+Safety
+Ship business
+Routine
+
+VHF Handbook 73
+

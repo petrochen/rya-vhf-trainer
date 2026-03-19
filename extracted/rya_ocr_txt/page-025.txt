@@ -1,0 +1,66 @@
+VHF Channels (ey
+
+Principle of “channels” | Syllabus ten A139
+
+For one radio to receive the signals transmitted by another, the receiver has to be tuned ta the
+same frequency as the transmitter. To receive BBC Radic 4 broadcasts in the lang wava, for
+instance, a recelver has to be tuned to 198kHz.
+
+Higher frequencies, however, invelve bigger and biager numbers, unti by the time we reach the
+VHF band, they are becoming unwieldy and difficult to remember. To save us having to cape
+with numbers such as 161.625 Mhz, the standard frequencies approved by the ITU have been
+given channel numbers,
+
+Part operations
+eee, aad vette
+Channel E Ca two Carnal ‘step Goat tiers lng jaa Puttic
+Designation. verbs ahap | Ureapeicy | Hipaeney | Canes Desiguatos = etatioes: nations ahip | Neanency frequency | Corres,
+oy ens | ? ¥ i Vera [ome > >) Aso on-bomnt core
+on henaso ° ca fi) Ta ETS.
+a 160.078 ° v 18 158K 1h COST HESS. GAPE Te Med Co ME:
+Tern ¢ ¢ t BGA a
+Ce Vel F7 ¢ a " ine | ima | ef bay brumt corre:
+wa 780 & # 7 WE BTS, Cs
+cei) - # is ea a a e
+oa Vago 7 f ni ee Ons ¥ ¢
+180A a # rE} ea ~ Fd
+8 Veal a1 ? “ Al 1s ONS # 7
+a4 velar ¢ ¢ » in? Fa ?
+on Pa a Tarots | TA aban ay UK oo ¥
+6 Noles < a #4 yarasa | 70LRED ¥ Fa
+or re) \e580 ¢ ¢ S| wars “ “
+id Sika 150,375 cd ca HOR SAA a toa « ¥
+of en) z | cs thi 125 # # Fa
+an Pe Pa} bE Foal ca a 171 HMICES BARS
+a 15 An isan | é io qa ¢ ¥ f
+i) tH ATE, SaaS “ ca u 157 Mh Pe a
+‘i 1Misull 1a | “ De Piekatari a 5 5 # HMC RE
+| MSS ian lofi selostoe caling for rbttress, s ire | aire if é
+Safty and calling ET 1S lan tid Pa Pa fd
+i} 56.58 786550 ca Psd 15? a) Ti ¥ ¢
+1 STA isi a7 Fe C7 ines | na “ Hee SRE
+w Meee: 180.000 F ar ierao | Re ¥ e
+te 180 aes: * AF inFsIS a
+" 86 lou) | + P Es vardog | aoe ¥ “
+eI Vata 156.675 ce * MOG SAA, co tres «
+ia ae 136.700 ? ast te aero.
+iL eis) ie ai) ca wo ‘fia tie
+
+A larger verton of these charts. shown on pages 32-23.
+
+Until the development of solid state electronics, VHF radios wera relatively expensive, and nat
+particularly widely usec, $0 the part of the radio spectrum allocated to marine VHF was divided
+into 28 Intemational channels, 5OKHz (0.05MHz2) apart and numbered from 7 to 26.
+
+By the 1970s, however, the price of VHF had fallen and its popularity had tisen, so those
+existing channels were becoming very crowded. Technology had also moved on, so the
+channel spacing of 50kHz seemed unnecessarily generous. The number of channels could be
+almost doubled, without using any more of the radio spectrum, by interleaving new channels
+between the old ones. So Channels 60 to 88 were added.
+
+As well as having a designated frequency (or, in some cases two designated frequencies), each
+channel also has a specified purpose. Channel 12, for instance, is a Port Operations Channel. It
+would be physically possible for two boats to communicate with each other on Channel 12, but
+it would be disruptive, potentially dangerous, and definitely illegal ta do so,
+
+VHF Handbook 25

@@ -1,0 +1,41 @@
+Channel 16 is of particular significance, because it is used for distress and safety messages,
+and for making initial cantact with other vessels, so many radios have a separate contrat giving
+instant access to Channel 16 at the press of a single Button,
+
+PTT switch
+
+Perhaps the most important
+control of all is Known as the
+PTT (Press-To-Talk} or Pressel
+switch, It is usually mounted
+on the side of the microphene
+or in the middle of the
+handgrip of a teleaphone-style
+handset, On portable radios,
+iis usually set into the side
+of the casing, alongside the
+display.
+
+It does exactly what its name suggests: you have to press it
+in-order to switch the radio from recema mode to transmit. By
+the same token however, it could be called (but isn't!i-an ATL
+switch, for "Release to Listen", because you have to release
+it in-order to receive.
+
+Dual watch, Tri watch, and Scan
+
+Channel 16 has special status as the distress, safety, and calling channel, so we are
+encouraged to Keep a Continuous "listening watch” on iL, Olher channels have other designated
+purposes, Channel 13 for instance, IS used for “Bridge to Bridge” safety communications, while
+Channel 12 is a port operations channel, So a-yacht crossing the English Channel may want to
+monitor Channel 13 as well as. Channel 16 in the-shipping lanes, and Channels 12 and 16 as
+she approaches Southampton,
+
+All radios now have a Dual Wateh facility, which allows them to monitor Channel 16 and any
+other: designed channel. It doesn't, strictly speaking, monitor bath channels at once, Essentially,
+the receiver is tuned mainly to Channel 16, but occasionally flicks aver to the other channel. If it
+receives a signal on the other channel, it stay “locked on” to it: if not, it quickly flips back.
+
+Some manufacturers have taken this idea a stage or two further, and offer tr watch (three
+channels} or stanner modes, (lots of channels)
+

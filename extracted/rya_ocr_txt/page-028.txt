@@ -1,0 +1,45 @@
+The UK government, for instance, allocates the name “D0" to 156,000MHz, and allows it to be
+used only by the Coastguard and recognized search and rescue organisations such as the RAL.
+
+Similarly, in the UK, 157.850MHz is known as Ghannel M and 161.425 is known as M2: they
+are “private” channels that have been allocated by the WK government specifically for use by
+marinas, yacht clubs, and pleasure craft.
+
+Channel M and M2 should only be used in UK waters: other countries have allacated thase
+frequencies for differant purposes.
+
+Private channels do not necessarily require an operator's certificate. In the UK, channels M
+and M2 can be used by unqualified operators, without supervision,
+
+Some radios cannot display the letter M. In such cases, Ghannel M is often called "37" or
+"P1", Channel M2 is often called "P1” or "P4",
+
+American channels Syllabus item AT.a
+
+A lew counties, most consplouously the USA, de not conform to the international channel
+designation and usage. Whilst there.are similarities between international and US channel
+designations, there are also significant differences: in particular, many channels which are
+duplex in the international scheme are simplex in the US version. Most modern radios can be
+converted from one system to‘anather by flicking a switch or by going through a set-up menu,
+Make sure you aren't using the wrong system by mistake.
+
+if you calla UK marina using the US channel 80, the marina will hear you, but you wan't
+hear their reply. Channel 80 is a duptex channel under the international system, but a
+simplex channel in the USA.
+
+Channel 16 and quard band | Syllabus item C35 |
+
+Some channels are of particular significance.
+
+Channel 16 is the outstanding example, because it is designated as the Distress, Safety, and
+Galling channel,
+
+It is so important that Channel 16 should not suffer any interference that the two channels
+closést to it in the international frequency table — channels 75 and 76 — are ragarded as a
+guard band. At one time, transmissions in the guard band were illegal, and any radio which
+allowad transmissions on those frequencies would fail its lyos-approval trials. The rules have
+now been relaxed very slightly, and these two channels are available tor port operations use,
+but with the maximum power limited ta 1 watt,
+
+28 VHF Handbook
+

@@ -1,0 +1,43 @@
+ze)
+
+There are numerous variations. “Heavy Duty” battenas (“car batteries") will provide huge
+currents for very shart périods, so they are ideal for engine starting, but they quickly de
+if they are cischarged by more than about 30% of their capacity. "Deep cycle” or “traction”
+batteries are much better at withstancing cleep discharges, but cannot provide such
+
+large currents, $0 they are better for supolying domestic power. “Leisure” batteries are an
+economical compromise between the other two types.
+
+These “conventional” leact i battenes, supplying power to a vessel's main fixed VHF set, can
+be conveniently kept ata reasonable state of charge by the boat's engine-driven alternator. It
+isn't perfect, but it is a common and very practical solution
+
+More sophisticated versions of lead-acid battenes are filled with an acid gel or acic-
+impregnated mats instead of the liquid acid that is used in a typical car battery, This makes
+them less susceptible to spills or damage, but in most cases raduces their ability to produce
+very high currents (such as for engine starting) or to accept rapid recharging.
+
+The chargers for the more sophisticated types of lead acid battery should be built into the boat
+when the batteries are installed. They may provide a slower rate of change than normal, but
+they are designed to make sure that (he battery really is fully charged.
+
+NiCad (Nickel Cadmium) batteries are compact and rather lighter than lead acid batteries, but
+they are more expensive, so they are mainly used in small sizes to power portable radios, They
+are potentially able to withstand thousands of charge/discharge cycles, but they are inctined
+to lose their charge gradually when stored and their ability to accept a full charge quickly
+deteriorates que to th called “mamory effect” if they are subjected ta “tap-up" recharging
+without having been jully discharged. They produce a slightly tower voltage than alkail
+
+NiMH (Nickel Metal Hydride) batteries ané rechargeable, and
+have a higher capacity than NiGads of similar size and
+weight, as well as being able to deliver more current
+They don't last quite as long as well-maintained
+NiGads, but the “memory effect" is very much less
+significant, Unfortunately, they produce the sare low
+voltage as NiGads, but they are more expensive and
+are inclined to self-discharge even when not used,
+
+Lithium lon batteries are rechargeable. For a given size and weight, they store mone power
+than.any other readihy-available battery, but are very much more expensive, and very much
+more susceptinie to overcharging,
+

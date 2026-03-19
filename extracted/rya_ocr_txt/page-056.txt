@@ -1,0 +1,44 @@
+56
+
+Navtex Syllabus itarn G4
+
+“Navtexe" is an abbreviation for Navigation Teletext, Il delivers writtan navigational warnings and
+weather forecasts to vessels within a few hundred miles.of most of the world's coastlines.
+
+Navtex transrnitters are dotted around the world coastlines, typically a couple of hundred miles
+apart, bul all transmitting on-one of two frequencies: 518kHz or 490kHz. Operating at the lower
+end of the MF band (sea page 9) means that each transmitter has a range of several hundred
+miles, but they don't interfere with each other because they are divided into groups, in which
+each transmitter has its awn twenty minute “slot” once every four hours.
+
+When its turn comes, each transmitter broadcasts all the messages it has on hand, giving
+each ona a “header” that identifies where it has come from, what subject it covers (weather,
+navigation, ice etc,,) and a serial number.
+
+Dedicated Navtex receivers can decode the
+messages, either printing them oul on paper,
+or chsplaying them on €@ screen
+
+The receiver can be programmed to ignore
+certain types af message, or to ignore
+messages from certain stations. If you are
+cruising the Insh Sea, for instance, you probably
+don't want weather foracasts for Portugal or ice
+warnings for northern Norway,
+
+It will alsa ignore repetitions of messages which it
+has already recieved,
+
+« If possible, leave your Navtex receiver switched on,
+
+if you switch it on and off dunng a cruise, it will “forget”
+which messages it has already received, and subject you
+to Numerous repetitions,
+
+One of the best features of Navtex, for British users, is that all transmissions on the “standard”
+Navtex service (518kHz) everywhere in the world, are in English, The other frequency (490kHz)
+is used for a“local” Navtex service, Some countries use this to provide a service in their own
+language, but in the LIK it is used for supplementary information, such as the Inshore Waters
+weather forecast.
+
+VHF Handbook

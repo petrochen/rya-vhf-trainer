@@ -1,0 +1,114 @@
+8 Voice procedure 3: Urgency &
+Safety calls
+
+Urgeney calls
+Medical advice
+Safety calls
+
+9 GMDSS
+
+Background and principles
+Sub-systems involved in GMDSS
+Maviex
+
+EPIRBs
+
+The satellites
+
+Doppler positioning
+EPIRBs
+
+Stewage and maintenance
+Reaistration
+
+False alarms
+
+SARTs
+
+10 Digital Selective Calling -
+introduction & routine calls
+
+DSC Controllers
+
+Classes of DSC Controller
+MMSis
+
+Types of cail
+
+DSC centrallers and positian
+Using a Class D controller
+Sending a DSG call
+
+Recening a DSC individual call
+Recewing a DSC group call
+Using a Glass 4 or B controller
+
+£ERBR
+
+SSSsSeeRURegagagag
+
+SRRRRRSERSRVS
+
+11DSC Distress, Urgency & Safety
+
+Definition of distress
+
+The Distress alert
+
+Atter sending a Distress alert
+Receiving a distess alert
+
+Accidental False Alert procedure
+
+Urgency and Safety
+
+Sending an urgency or safety call
+
+Receiving a DSC urgency or
+safety call
+Mayday relay
+Appendix 1: Examination Syllabus
+for the CEPT Short Range
+Certificate (SRC)
+
+Appendix 2: Standard Marine
+Navigational Vocabulary
+
+VHF channel numbers
+
+GMDSS Sea Areas
+
+Index
+
+Glossary
+
+Membership pages
+
+67
+67
+
+$8684
+
+70
+70
+
+77
+ral
+
+72
+
+78
+
+o1
+
+Syllabus item At |
+
+Throughout this book you will find red
+boxes as shown above: these highlight
+which item of {he RYA VHF Course
+
+Syllabus the secton relates to.
+
+VHF Handbook
+
+5
